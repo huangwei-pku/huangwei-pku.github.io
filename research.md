@@ -9,7 +9,8 @@ sidebar_sort_order: 2
 
 ### PUBLICATIONS & FORTHCOMING
 
->"Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China." with Xiaoyan Lei and Ang Sun, Forthcoming, **Review of Economics and Statistics**.
+[**Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China**](https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext)
+(with Xiaoyan Lei and Ang Sun), *Review of Economics and Statistics* 2021; 103 (4): 694–710.
 
 Huang, Wei, and Chuanchuan Zhang. 2021. "The Power of Social Pensions: Evidence from China's New Rural Pension Scheme." *American Economic Journal: Applied Economics*, 13 (2): 179-205.
 
@@ -42,7 +43,8 @@ Huang, Wei, Xiaoyan Lei, Geert Ridder, John Strauss and Yaohui Zhao. 2013. “He
 
 
 ### WORKING PAPERS
-"One-Child Policy, Marriage Distortion and Welfare Loss." with Yi Zhou and Yinghao Pan. **Revise & Resubmit, Review of Economics and Statistics**. 
+**One-Child Policy, Marriage Distortion and Welfare Loss**
+with Yi Zhou and Yinghao Pan. Revise & Resubmit, *Review of Economics and Statistics*. 
 
 "Beyond Nature and Nurture: The Impact of Maternal Education on Child Health." with Xiaoyan Lei, Guangjun Shen, and Ang Sun, **2nd round Revise & Resubmit, Journal of Human Resources**. 
 
