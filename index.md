@@ -15,7 +15,7 @@ My research fields include public economics, labor economics, and health economi
 
 <br>
 
-[CV](https://.com/cv/) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en) 
+[CV](https://huangweipku.com/cv/) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=RSgXX2oAAAAJ) 
 
 <br>
 
