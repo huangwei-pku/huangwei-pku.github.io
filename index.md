@@ -24,11 +24,11 @@ My research fields include public economics, labor economics, and health economi
 
 
 
-<h2 class="wsite-content-title" style="text-align:center;"><font  size="4">The Value of Homeroom Teachers</font></h2>
+<h2 class="wsite-content-title" style="text-align:center;"><font  size="4">Fertility Restrictions and Life Cycle Outcomes</font></h2>
 <center class="half">
-	 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728"><img src="/assets/3.png" style='float: left;width:50%'/></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728"><img src="/assets/4.png" style='float: left;width:50%'/></a>  
+	 <a href="https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext"><img src="/assets/1.png" style='float: left;width:100%'/></a> 
 </center>
-<font color="#707070"  size="3" style="line-height:0;"> Having a more experienced or female homeroom teacher(HRT) with additional classroom management duties significantly improves students' test scores and cognitive and noncognitive abilities.</font>
+<font color="#707070"  size="3" style="line-height:0;"> Exposure to stricter fertility restrictions when young leads to higher education levels, more white-collar jobs, delayed marriage, and lower fertility rates.</font>
 
 
 <h2 class="wsite-content-title" style="text-align:center;"><font  size="4">Permanent versus Transitory Income Increases</font></h2>
