@@ -67,15 +67,15 @@ Huang, Wei, Xiaoyan Lei, Geert Ridder, John Strauss and Yaohui Zhao. 2013. “He
 
 ### WORKING IN PROGRESS
 
-“How do Households Respond to Permanent and Transitory Income Shocks? Evidence from Pension Reforms in Urban China.” With Mi Luo, Yinghao Pan, and Hong Song.
+**How do Households Respond to Permanent and Transitory Income Shocks? Evidence from Pension Reforms in Urban China**, With Mi Luo, Yinghao Pan, and Hong Song.
 
-“How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China.” With Jin Feng, Hong Song, and Zhen Wang.
+**How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China**, with Jin Feng, Hong Song, and Zhen Wang.
 
-“Local Government Responses to Trade Liberalization: Evidence from China.” with Mi Dai and Guangrong Ma.
+**Local Government Responses to Trade Liberalization: Evidence from China**, with Mi Dai and Guangrong Ma.
 
-“The Impact of Health Insurance Expansion on Hospitals: Evidence from New Cooperation Medical Scheme in China” with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
+**The Impact of Health Insurance Expansion on Hospitals: Evidence from New Cooperation Medical Scheme in China**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
 
-“Too Busy to Be Cured?” with Yi Zhou and Changyu Ren.
+**Too Busy to Be Cured?** with Yi Zhou and Changyu Ren.
 
 ### BOOK CHAPTERS
 
