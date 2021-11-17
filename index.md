@@ -31,9 +31,10 @@ My research fields include public economics, labor economics, and health economi
 <font color="#707070"  size="3" style="line-height:0;"> Exposure to stricter fertility restrictions when young leads to higher education levels, more white-collar jobs, delayed marriage, and lower fertility rates.</font>
 
 
-<h2 class="wsite-content-title" style="text-align:center;"><font  size="4">Permanent versus Transitory Income Increases</font></h2>
+<h2 class="wsite-content-title" style="text-align:center;"><font  size="4">The Power of Social Pension</font></h2>
 <center class="half">
-	 <a href=""><img src="/assets/5.png" style='float: left;width:50%'/></a> <a href=""><img src="/assets/6.png" style='float: left;width:50%'/></a>  
+	 <a href=""><img src="/assets/2.png" style='float: left;width:50%'/></a> <a href=""><img src="/assets/3.png" style='float: left;width:50%'/></a>  
 </center>
-<font color="#707070"  size="3" style="line-height:0;"> Exploring the prefectural policies that permanently and temporarily increase pension income in urban China, the event study yields an estimate of marginal propensity to consume (MPC) being 0.64 to 0.78 for permanent income but 0.05 to 0.12 for transitory income.</font>
+<font color="#707070"  size="3" style="line-height:0;"> Among age-eligible people, China’s New Rural Pension Scheme (NRPS) leads to higher household income and food expenditure, less farmwork, better health, and lower mortality. </font>
+
 
