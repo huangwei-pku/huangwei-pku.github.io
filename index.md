@@ -33,7 +33,7 @@ My research fields include public economics, labor economics, and health economi
 
 <h2 class="wsite-content-title" style="text-align:center;"><font  size="4">The Power of Social Pension</font></h2>
 <center class="half">
-	 <a href=""><img src="/assets/2.png" style='float: left;width:45%'/></a> <a href=""><img src="/assets/3.png" style='float: left;width:50%'/></a>  
+	 <a href="https://www.aeaweb.org/articles?id=10.1257/app.20170789"><img src="/assets/2.png" style='float: left;width:45%'/></a> <a href=""><img src="/assets/3.png" style='float: left;width:50%'/></a>  
 </center>
 <font color="#707070"  size="3" style="line-height:0;"> Among age-eligible people, China’s New Rural Pension Scheme (NRPS) leads to higher household income and food expenditure, less farmwork, better health, and lower mortality. </font>
 
