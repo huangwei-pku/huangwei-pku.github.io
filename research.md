@@ -11,11 +11,11 @@ sidebar_sort_order: 2
 
 >"Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China." with Xiaoyan Lei and Ang Sun, Forthcoming, **Review of Economics and Statistics**.
 
-Huang, Wei, and Chuanchuan Zhang. 2021. "The Power of Social Pensions: Evidence from China's New Rural Pension Scheme." **American Economic Journal: Applied Economics**, 13 (2): 179-205.
+Huang, Wei, and Chuanchuan Zhang. 2021. "The Power of Social Pensions: Evidence from China's New Rural Pension Scheme." *American Economic Journal: Applied Economics*, 13 (2): 179-205.
 
-Dai, Mi, Wei Huang, and Yifan Zhang. "How do households adjust to tariff liberalization? Evidence from China's WTO accession." **Journal of Development Economics** 150 (2021): 102628.
+Dai, Mi, Wei Huang, and Yifan Zhang. **How do households adjust to tariff liberalization? Evidence from China's WTO accession** *Journal of Development Economics* 150 (2021): 102628.
 
-Dai, M., Huang, W., & Zhang, Y. (2020). Persistent effects of initial labor market conditions: The case of China's tariff liberalization after WTO accession. **Journal of Economic Behavior & Organization**, 178, 566-581.
+Dai, M., Huang, W., & Zhang, Y. (2020). **Persistent effects of initial labor market conditions: The case of China's tariff liberalization after WTO accession** *Journal of Economic Behavior & Organization*, 178, 566-581.
 
 Glaeser, Edward L, Wei Huang, Yueran Ma, and Andrei Shleifer. 2017. "A Real Estate Boom with Chinese Characteristics." **Journal of Economic Perspectives**, 31(1): 93-116.
 
