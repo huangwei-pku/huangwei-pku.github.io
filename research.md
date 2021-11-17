@@ -7,7 +7,7 @@ sidebar_sort_order: 2
 ---
 
 
-### Working Papers
+### PUBLICATIONS & FORTHCOMING
 
 **One-Child Policy, Marriage Distortion, and Welfare Loss** (with [Wei Huang](https://sites.google.com/view/huangweipku/home) and [Yi Zhou](http://www.yizhoudemog.net/research.html)), revision requested at *Review of Economics and Statistics*.
 
@@ -27,7 +27,17 @@ sidebar_sort_order: 2
 
 
 ### Work in Progress
-**Human Capital Density, Wage Increase, and Consumption Upgrade: Evidence from College Expansion in China** (with [Binkai Chen](http://econ.cufe.edu.cn/info/1032/3423.htm), [Wei Huang](https://sites.google.com/view/huangweipku/home), Yankun Kang, and Qi Luo).
+“How do Households Respond to Permanent and Transitory Income Shocks? Evidence from Pension Reforms in Urban China.” With Mi Luo, Yinghao Pan, and Hong Song.
+
+“How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China.” With Jin Feng, Hong Song, and Zhen Wang.
+
+“Local Government Responses to Trade Liberalization: Evidence from China.” with Mi Dai and Guangrong Ma.
+
+“The Impact of Health Insurance Expansion on Hospitals: Evidence from New Cooperation Medical Scheme in China” with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
+
+“Too Busy to Be Cured?” with Yi Zhou and Changyu Ren.
+
+
 
 
 ### Pre-doctoral Publications
