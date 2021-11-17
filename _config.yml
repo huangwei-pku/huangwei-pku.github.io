@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Wei Huang (黄炜)
-tagline:          '黄炜'
+tagline:          ''
 description:      'Assitant Professor </br> Emory University'
 url:              https://huangwei-pku.github.io
 baseurl:          #'/blog'
