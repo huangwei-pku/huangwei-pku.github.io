@@ -6,12 +6,13 @@ sidebar_sort_order: 1
 ---
 
 
-## <center> Yinghao Pan (潘颖豪) </center>
+## <center>  Wei HUANG (黄炜) </center>
 
 ### Bio
-<font size="4">I am a Ph.D. job market candidate from the Business School at the National University of Singapore. My research fields include public economics, household finance and Chinese economy. Prior to the graduate school, I obtained bachelor&rsquo;s degree in management and double degree in economics from Renmin University of China.<br>
+<font size="4">I am an assistant professor at Emory University and National University of Singapore (NUS). Before that, I was a post-doc fellow at NBER in 2017. I got my PhD. of economics at Harvard in 2016.  <br>
 	<br>
-I am on the 2021-2022 academic job market and available for virtual interviews.</font>
+
+My research fields include public economics, labor economics, and health economics.</font>
 
 <br>
 
