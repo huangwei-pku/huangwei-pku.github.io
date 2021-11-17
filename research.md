@@ -9,7 +9,7 @@ sidebar_sort_order: 2
 
 ### PUBLICATIONS & FORTHCOMING
 
-"Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China." with Xiaoyan Lei and Ang Sun, Forthcoming, **Review of Economics and Statistics**.
+>"Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China." with Xiaoyan Lei and Ang Sun, Forthcoming, **Review of Economics and Statistics**.
 
 Huang, Wei, and Chuanchuan Zhang. 2021. "The Power of Social Pensions: Evidence from China's New Rural Pension Scheme." **American Economic Journal: Applied Economics**, 13 (2): 179-205.
 
