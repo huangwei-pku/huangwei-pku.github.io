@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Yinghao Pan
-tagline:          '潘颖豪'
-description:      'Ph.D. Candidate </br> National University of Singapore'
-url:              https://ian-pan.github.io
+title:            Wei Huang
+tagline:          '黄炜'
+description:      'Assitant Professor </br> Emory University'
+url:              https://huangwei-pku.github.io
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,9 +14,9 @@ baseurl:          #'/blog'
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:          Yinghao Pan
-name:           'Yinghao Pan'
-email:           <a href="mailto:panyinghao@u.nus.edu" title="panyinghao@u.nus.edu">panyinghao@u.nus.edu</a><br><a href="mailto:mail@yinghaopan.com" title="mail@yinghaopan.com">mail@yinghaopan.com</a></br>
+author:          Wei Huang
+name:           'Wei Huang'
+email:           <a href="mailto:huangw@nber.org" title="huangw@nber.org">huangw@nber.org</a>
 
 paginate:         5
 paginate_path:    #'/page:num'
