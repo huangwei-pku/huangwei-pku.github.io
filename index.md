@@ -28,7 +28,7 @@ My research fields include public economics, labor economics, and health economi
 	<table class="wsite-multicol-table" >
 		<tbody class="wsite-multicol-tbody">
 			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;background:transparent;">
+				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;background:transparent;border: 1px solid transparent;">
 					
 						
 
@@ -58,7 +58,7 @@ My research fields include public economics, labor economics, and health economi
 <div class="paragraph" style="text-align:left;"><font color="#707070"  size="3" style="line-height:0;"> Among age-eligible people, China’s New Rural Pension Scheme (NRPS) leads to higher household income and food expenditure, less farmwork, better health, and lower mortality. </font></div>
 
 
-</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;background:transparent;">
+</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;background:transparent;border: 1px solid transparent;">
 					
 						
 
