@@ -8680,7 +8680,7 @@ textarea.form-control-lg {
   }
 
   .flex-md-row-reverse {
-    flex-direction: row-reverse !important;
+    flex-direction: row-reverse ;
   }
 
   .flex-md-column-reverse {
