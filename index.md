@@ -32,7 +32,7 @@ My research fields include public economics, labor economics, and health economi
 					
 						
 
-<h2 class="wsite-content-title" style="text-align:left;"><font  size="4">Fertility Restrictions and Life Cycle Outcomes</font></h2> 
+<h2 class="wsite-content-title" style="text-align:left;"><font  size="3">Fertility Restrictions and Life Cycle Outcomes</font></h2> 
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext' target='_blank'>
@@ -44,10 +44,9 @@ My research fields include public economics, labor economics, and health economi
 <div class="paragraph" style="text-align:left;"><font color="#707070"  size="3" style="line-height:0;"> Exposure to stricter fertility restrictions when young leads to higher education levels, more white-collar jobs, delayed marriage, and lower fertility rates.</font></div>
 
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<hr class="styled-hr" style="width:100%;"></hr>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
 
-<h2 class="wsite-content-title" style="text-align:left;"><font  size="4">The Power of Social Pension</font></h2>
+<h2 class="wsite-content-title" style="text-align:left;"><font  size="3">The Power of Social Pension</font></h2>
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='https://www.aeaweb.org/articles?id=10.1257/app.20170789' target='_blank'>
@@ -63,7 +62,7 @@ My research fields include public economics, labor economics, and health economi
 					
 						
 
-<h2 class="wsite-content-title" style="text-align:center;"><font  size="4">Household Adjustments after WTO Accession </font></h2>
+<h2 class="wsite-content-title" style="text-align:center;"><font  size="3">Household Adjustments after WTO Accession </font></h2>
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='https://www.sciencedirect.com/science/article/abs/pii/S0304387821000055' target='_blank'>
@@ -75,19 +74,18 @@ My research fields include public economics, labor economics, and health economi
 <div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> We find an insurance role of households against trade-induced labor market shocks. </font>&nbsp;&nbsp;</div>
 
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<hr class="styled-hr" style="width:100%;"></hr>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
 
-<h2 class="wsite-content-title" style="text-align:center;"><font color="#a82e2e" size="4">Better Bureaucracy Helps the Poor</font></h2>
+<h2 class="wsite-content-title" style="text-align:center;"><font color="#707070" size="3"> Consumption Responses to Pension Changes</font></h2>
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
-<a href='https://www.aeaweb.org/articles?id=10.1257/app.20160079&&from=f' target='_blank'>
-<img src="/uploads/1/1/7/9/117970477/published/even-study_2.png?1600924566" alt="Picture" style="width:auto;max-width:100%" />
+<a href='' target='_blank'>
+<img src="/assets/4.png" alt="Picture" style="width:auto;max-width:100%" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
 
-<div class="paragraph">The Chinese government hires thousands of college graduates to work in rural villages in as village officials. We show that these young village officials can help the poor households.&#8203;</div>
+<div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> The event study yields an estimate of marginal propensity to consume (MPC) being 0.64 to 0.78 for permanent income but 0.05 to 0.12 for transitory income. </font>&nbsp;&nbsp;</div>
 
 
 					
