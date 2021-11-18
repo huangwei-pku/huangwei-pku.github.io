@@ -8680,7 +8680,7 @@ textarea.form-control-lg {
   }
 
   .flex-md-row-reverse {
-    flex-direction: row-reverse ;
+    flex-direction: row-reverse !important;
   }
 
   .flex-md-column-reverse {
@@ -11423,7 +11423,7 @@ section.resume-section .resume-section-content {
 
 
 
-
+@media (min-width: 768px) {
 
 .flex {
   display: flex;
@@ -11469,4 +11469,5 @@ tr {
   border: 0 !important;
   padding: 0;
   -moz-box-sizing: border-box;
+}
 }
