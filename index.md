@@ -25,7 +25,7 @@ My research fields include public economics, labor economics, and health economi
 <table>
   <tr>
 
-<td><h2 class="wsite-content-title" style="text-align:center;"><font  size="4">Fertility Restrictions and Life Cycle Outcomes</font></h2></td> <td><h2 class="wsite-content-title" style="text-align:center;"><font  size="4">The Power of Social Pension</font></h2></td>
+<td width="200px"><h2 class="wsite-content-title" style="text-align:center;"><font  size="4">Fertility Restrictions and Life Cycle Outcomes</font></h2></td> <td width="200px"><h2 class="wsite-content-title" style="text-align:center;"><font  size="4">The Power of Social Pension</font></h2></td>
   </tr>
   <tr>
 
