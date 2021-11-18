@@ -26,7 +26,7 @@ My research fields include public economics, labor economics, and health economi
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 	<table class="wsite-multicol-table" >
 		<tbody class="wsite-multicol-tbody">
-			<tr class="wsite-multicol-tr">
+			<tr class="wsite-multicol-tr flex">
 				<td class="wsite-multicol-col" style="width:50.5%; padding:0 15px;background:transparent;border: 1px solid transparent;">
 					
 						
