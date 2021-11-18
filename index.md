@@ -28,11 +28,11 @@ My research fields include public economics, labor economics, and health economi
 	<table class="wsite-multicol-table" >
 		<tbody class="wsite-multicol-tbody">
 			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:49.052631578947%; padding:0 15px;background:transparent;">
+				<td class="wsite-multicol-col" style="width:49.052631578947%; padding:0 15px;background:transparent;border:transparent;">
 					
 						
 
-<h2 class="wsite-content-title" style="text-align:left;"><font  size="3">Fertility Restrictions and Life Cycle Outcomes</font></h2> 
+<h2 class="wsite-content-title" style="text-align:center;"><font  size="3">Fertility Restrictions and Life Cycle Outcomes</font></h2> 
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext' target='_blank'>
@@ -46,7 +46,7 @@ My research fields include public economics, labor economics, and health economi
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
 
-<h2 class="wsite-content-title" style="text-align:left;"><font  size="3">The Power of Social Pension</font></h2>
+<h2 class="wsite-content-title" style="text-align:center;"><font  size="3">The Power of Social Pension</font></h2>
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='https://www.aeaweb.org/articles?id=10.1257/app.20170789' target='_blank'>
