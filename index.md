@@ -49,7 +49,7 @@ My research fields include public economics, labor economics, and health economi
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='https://www.aeaweb.org/articles?id=10.1257/app.20170789' target='_blank'>
-<img src="/assets/2.png" alt="Picture" style="width:310;max-width:100%;" />
+<img src="/assets/2.png" alt="Picture" style="width:1000;max-width:100%;" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
