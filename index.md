@@ -58,7 +58,7 @@ My research fields include public economics, labor economics, and health economi
 <div class="paragraph" style="text-align:left;"><font color="#707070"  size="3" style="line-height:0;"> Among age-eligible people, China’s New Rural Pension Scheme (NRPS) leads to higher household income and food expenditure, less farmwork, better health, and lower mortality. </font></div>
 
 
-</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;background:transparent;border: 1px solid transparent;">
+</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 17px;background:transparent;border: 1px solid transparent;">
 					
 						
 
@@ -85,7 +85,7 @@ My research fields include public economics, labor economics, and health economi
 <div style="display:block;font-size:90%"></div>
 </div></div>
 
-<div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> The event study yields an estimate of marginal propensity to consume (MPC) being 0.64 to 0.78 for permanent income but 0.05 to 0.12 for transitory income. <br></font>&nbsp;&nbsp;</div>
+<div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> The event study yields an estimate of marginal propensity to consume (MPC) being 0.64 to 0.78 for permanent income but 0.05 to 0.12 for transitory income. </font>&nbsp;&nbsp;</div>
 
 		
 				</td>			</tr>
