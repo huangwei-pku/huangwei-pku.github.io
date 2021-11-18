@@ -71,12 +71,12 @@ My research fields include public economics, labor economics, and health economi
 <div style="display:block;font-size:90%"></div>
 </div></div>
 
-<div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> We find an insurance role of households against trade-induced labor market shocks. </font>&nbsp;&nbsp;</div>
+<div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> We find an insurance role of households against trade-induced labor market shocks. <br></br><br></br></font>&nbsp;&nbsp;</div>
 
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
 
-<h2 class="wsite-content-title" style="text-align:center;"><font color="#707070" size="3"> Consumption Responses to Pension Changes</font></h2>
+<h2 class="wsite-content-title" style="text-align:center;"><font  size="3"> Consumption Responses to Pension Changes</font></h2>
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='' target='_blank'>
@@ -87,8 +87,7 @@ My research fields include public economics, labor economics, and health economi
 
 <div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> The event study yields an estimate of marginal propensity to consume (MPC) being 0.64 to 0.78 for permanent income but 0.05 to 0.12 for transitory income. </font>&nbsp;&nbsp;</div>
 
-
-					
+		
 				</td>			</tr>
 		</tbody>
 	</table>
