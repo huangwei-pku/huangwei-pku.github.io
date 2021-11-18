@@ -58,7 +58,7 @@ My research fields include public economics, labor economics, and health economi
 <div class="paragraph" style="text-align:left;"><font color="#707070"  size="3" style="line-height:0;"> Among age-eligible people, China’s New Rural Pension Scheme (NRPS) leads to higher household income and food expenditure, less farmwork, better health, and lower mortality. </font></div>
 
 
-</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15.5px;background:transparent;border: 1px solid transparent;">
+</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;background:transparent;border: 1px solid transparent;">
 					
 						
 
@@ -74,7 +74,7 @@ My research fields include public economics, labor economics, and health economi
 <div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> We find an insurance role of households against trade-induced labor market shocks. </font>&nbsp;&nbsp;</div>
 
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
-</div>
+<div style="height: 20px; overflow: hidden; width: 100%;"></div><div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
 
 <h2 class="wsite-content-title" style="text-align:center;"><font  size="3"> Consumption Responses to Pension Changes</font></h2>
 
