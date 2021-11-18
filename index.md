@@ -26,16 +26,23 @@ My research fields include public economics, labor economics, and health economi
   <tr>
 
 <td><h2 class="wsite-content-title" style="text-align:center;"><font  size="4">Fertility Restrictions and Life Cycle Outcomes</font></h2></td> <td><h2 class="wsite-content-title" style="text-align:center;"><font  size="4">The Power of Social Pension</font></h2></td>
-<center class="half">
+  </tr>
+  <tr>
+
+
+<td><center class="half">
 	 <a href="https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext"><img src="/assets/1.png" style='float: left;width:100%'/></a> 
-</center>
+</center></td> <td>
+
+<center class="half">
+	 <a href="https://www.aeaweb.org/articles?id=10.1257/app.20170789"><img src="/assets/2.png" style='float: left;width:100%'/></a>  
+</center></td> 
+
 <font color="#707070"  size="3" style="line-height:0;"> Exposure to stricter fertility restrictions when young leads to higher education levels, more white-collar jobs, delayed marriage, and lower fertility rates.</font>
 
 
 
-<center class="half">
-	 <a href="https://www.aeaweb.org/articles?id=10.1257/app.20170789"><img src="/assets/2.png" style='float: left;width:100%'/></a>  
-</center>
+
 <font color="#707070"  size="3" style="line-height:0;"> Among age-eligible people, China’s New Rural Pension Scheme (NRPS) leads to higher household income and food expenditure, less farmwork, better health, and lower mortality. </font>
 
 
@@ -46,4 +53,5 @@ My research fields include public economics, labor economics, and health economi
 </center>
 <font color="#707070"  size="3" style="line-height:0;"> We find an insurance role of households against trade-induced labor market shocks. </font>
 
-
+</tr>
+</table>
