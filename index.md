@@ -25,17 +25,17 @@ My research fields include public economics, labor economics, and health economi
 <table border=1 rules="none">
   <tr>
 
-<td width="200px"><h2 class="wsite-content-title" style="text-align:center;"><font  size="3">Fertility Restrictions and Life Cycle Outcomes</font></h2></td> <td width="200px"><h2 class="wsite-content-title" style="text-align:center;"><font  size="3">The Power of Social Pension</font></h2></td>
+<td width="200px"><h2 class="wsite-content-title" style="text-align:center;"><font  size="2">Fertility Restrictions and Life Cycle Outcomes</font></h2></td> <td width="200px"><h2 class="wsite-content-title" style="text-align:center;"><font  size="2">The Power of Social Pension</font></h2></td>
   </tr>
   <tr>
 
 
 <td><center class="half">
-	 <a href="https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext"><img src="/assets/1.png" style='float: left;width:100%'/></a> 
+	 <a href="https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext"><img src="/assets/1.png" style='float: left'/></a> 
 </center></td> <td>
 
 <center class="half">
-	 <a href="https://www.aeaweb.org/articles?id=10.1257/app.20170789"><img src="/assets/2.png" style='float: left;width:100%'/></a>  
+	 <a href="https://www.aeaweb.org/articles?id=10.1257/app.20170789"><img src="/assets/2.png" style='float: right;'/></a>  
 </center></td> 
 
 <font color="#707070"  size="3" style="line-height:0;"> Exposure to stricter fertility restrictions when young leads to higher education levels, more white-collar jobs, delayed marriage, and lower fertility rates.</font>
