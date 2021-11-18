@@ -5685,35 +5685,7 @@ textarea.form-control-lg {
   .modal-fullscreen-md-down .modal-footer {
     border-radius: 0;
   }
-  .wsite-multicol-table {
-  position: relative;
-  border-collapse: collapse;
-  table-layout: auto;
-  width: 100%;
-  margin: 0 !important;
-  border: 0 !important;
-  padding: 0 !important;
-}
-
-tbody {
-  display: table-row-group;
-  vertical-align: middle;
-  border-color: inherit;
-}
-
-tr {
-  display: table-row;
-  vertical-align: inherit;
-  border-color: inherit;
-}
-
-.wsite-multicol-col {
-  vertical-align: top;
-  margin: 0 !important;
-  border: 0 !important;
-  padding: 0;
-  -moz-box-sizing: border-box;
-}
+ 
 }
 @media (max-width: 991.98px) {
   .modal-fullscreen-lg-down {

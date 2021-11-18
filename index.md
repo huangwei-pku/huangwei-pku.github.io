@@ -37,7 +37,7 @@ My research fields include public economics, labor economics, and health economi
 <a href='https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext' target='_blank'>
 <img src="/assets/1.png" alt="Picture" style="width:auto;max-width:100%;" />
 </a>
-<div style="display:block;font-size:90%"></div>
+<div style="display:block;font-size:80%"></div>
 </div></div>
 
 <div class="paragraph" style="text-align:left;"><font color="#707070"  size="3" style="line-height:0;"> Exposure to stricter fertility restrictions when young leads to higher education levels, more white-collar jobs, delayed marriage, and lower fertility rates.</font></div>
@@ -51,7 +51,7 @@ My research fields include public economics, labor economics, and health economi
 <a href='https://www.aeaweb.org/articles?id=10.1257/app.20170789' target='_blank'>
 <img src="/assets/2.png" alt="Picture" style="width:1000;max-width:100%;" />
 </a>
-<div style="display:block;font-size:90%"></div>
+<div style="display:block;font-size:80%"></div>
 </div></div>
 
 <div class="paragraph" style="text-align:left;"><font color="#707070"  size="3" style="line-height:0;"> Among age-eligible people, China’s New Rural Pension Scheme (NRPS) leads to higher household income and food expenditure, less farmwork, better health, and lower mortality. </font></div>
@@ -67,7 +67,7 @@ My research fields include public economics, labor economics, and health economi
 <a href='https://www.sciencedirect.com/science/article/abs/pii/S0304387821000055' target='_blank'>
 <img src="/assets/3.png" alt="Picture" style="width:auto;max-width:100%;" />
 </a>
-<div style="display:block;font-size:90%"></div>
+<div style="display:block;font-size:80%"></div>
 </div></div>
 
 <div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> We find an insurance role of households against trade-induced labor market shocks. </font>&nbsp;&nbsp;</div>
@@ -81,7 +81,7 @@ My research fields include public economics, labor economics, and health economi
 <a href='' target='_blank'>
 <img src="/assets/4.png" alt="Picture" style="width:auto;max-width:100%;" />
 </a>
-<div style="display:block;font-size:90%"></div>
+<div style="display:block;font-size:80%"></div>
 </div></div>
 
 <div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> The event study yields an estimate of marginal propensity to consume (MPC) being 0.64 to 0.78 for permanent income but 0.05 to 0.12 for transitory income. </font>&nbsp;&nbsp;</div>
