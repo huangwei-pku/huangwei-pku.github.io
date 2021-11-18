@@ -71,7 +71,7 @@ My research fields include public economics, labor economics, and health economi
 <div style="display:block;font-size:90%"></div>
 </div></div>
 
-<div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> We find an insurance role of households against trade-induced labor market shocks. <br></font>&nbsp;&nbsp;</div>
+<div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> We find an insurance role of households against trade-induced labor market shocks. </font>&nbsp;&nbsp;</div>
 
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
