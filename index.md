@@ -23,8 +23,8 @@ My research fields include public economics, labor economics, and health economi
 ### Research Highlights
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-@media screen and (min-width: 767px)
-</style>
+@media screen and (min-width: 767px){
+body{
 
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 	<table class="wsite-multicol-table" >
@@ -94,8 +94,9 @@ My research fields include public economics, labor economics, and health economi
 		</tbody>
 	</table>
 </div></div></div>
-
-
+}
+}
+</style>
  
 
 
