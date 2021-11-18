@@ -22,6 +22,7 @@ My research fields include public economics, labor economics, and health economi
 
 ### Research Highlights
 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
 
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
@@ -64,7 +65,7 @@ My research fields include public economics, labor economics, and health economi
 
 <h2 class="wsite-content-title" style="text-align:center;"><font  size="3">Household Adjustments after WTO Accession </font></h2>
 
-<div><div class="wsite-image wsite-image-border-none " style="padding-top:12px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:13px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='https://www.sciencedirect.com/science/article/abs/pii/S0304387821000055' target='_blank'>
 <img src="/assets/3.png" alt="Picture" style="width:auto;max-width:100%;min-width:60%" />
 </a>
@@ -78,7 +79,7 @@ My research fields include public economics, labor economics, and health economi
 
 <h2 class="wsite-content-title" style="text-align:center;"><font  size="3"> Consumption Responses to Pension Changes</font></h2>
 
-<div><div class="wsite-image wsite-image-border-none " style="padding-top:7px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:6px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='' target='_blank'>
 <img src="/assets/4.png" alt="Picture" style="width:auto;max-width:100%;min-width:60%" />
 </a>
