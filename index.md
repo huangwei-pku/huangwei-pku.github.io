@@ -28,7 +28,7 @@ My research fields include public economics, labor economics, and health economi
 	<table class="wsite-multicol-table" >
 		<tbody class="wsite-multicol-tbody">
 			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:50.5%; padding:0 15px;background:transparent;border: 1px solid transparent;min-width: 900px;">
+				<td class="wsite-multicol-col" style="width:50.5%; padding:0 15px;background:transparent;border: 1px solid transparent;">
 					
 						
 
@@ -36,7 +36,7 @@ My research fields include public economics, labor economics, and health economi
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext' target='_blank'>
-<img src="/assets/1.png" alt="Picture" style="width:auto;max-width:100%" />
+<img src="/assets/1.png" alt="Picture" style="width:auto;max-width:100%;min-width:60%" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
@@ -50,7 +50,7 @@ My research fields include public economics, labor economics, and health economi
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='https://www.aeaweb.org/articles?id=10.1257/app.20170789' target='_blank'>
-<img src="/assets/2.png" alt="Picture" style="width:310;max-width:100%" />
+<img src="/assets/2.png" alt="Picture" style="width:310;max-width:100%;min-width:60%" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
@@ -66,7 +66,7 @@ My research fields include public economics, labor economics, and health economi
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:9px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='https://www.sciencedirect.com/science/article/abs/pii/S0304387821000055' target='_blank'>
-<img src="/assets/3.png" alt="Picture" style="width:auto;max-width:100%" />
+<img src="/assets/3.png" alt="Picture" style="width:auto;max-width:100%;min-width:60%" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
@@ -80,7 +80,7 @@ My research fields include public economics, labor economics, and health economi
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='' target='_blank'>
-<img src="/assets/4.png" alt="Picture" style="width:auto;max-width:100%" />
+<img src="/assets/4.png" alt="Picture" style="width:auto;max-width:100%;min-width:60%" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
