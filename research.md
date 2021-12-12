@@ -56,6 +56,10 @@ sidebar_sort_order: 2
 
 **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China，** with Chuanchuan Zhang.
 
+**How do Households Respond to Permanent and Transitory Income Shocks? Evidence from Pension Reforms in Urban China**, with Mi Luo, Yinghao Pan, and Hong Song.
+
+**How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China**, with Jin Feng, Hong Song, and Zhen Wang.
+
 **Non-linear Incentive and Work Performance: Evidence from a Quasi Experiment,** with Richard B. Freeman and Teng Li. (Under Review)
 
 **Public Pension Provision, Informal Eldercare, and Son Preference: Evidence from the New Rural Pension Scheme in China,** with Naijia Guo and Ruixin Wang. (Under Review)
@@ -69,15 +73,12 @@ sidebar_sort_order: 2
 
 ### Working in Progress
 
-**How do Households Respond to Permanent and Transitory Income Shocks? Evidence from Pension Reforms in Urban China**, with Mi Luo, Yinghao Pan, and Hong Song.
+**The Power of Health Insurance: Evidence from New Cooperation Medical Scheme in China**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
 
-**How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China**, with Jin Feng, Hong Song, and Zhen Wang.
+**Too Busy to Be Cured?** with Yi Zhou and Changyu Ren.
 
 **Local Government Responses to Trade Liberalization: Evidence from China**, with Mi Dai and Guangrong Ma.
 
-**The Impact of Health Insurance Expansion on Hospitals: Evidence from New Cooperation Medical Scheme in China**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
-
-**Too Busy to Be Cured?** with Yi Zhou and Changyu Ren.
 
 ### Book Chapters
 
