@@ -70,7 +70,7 @@ sidebar_sort_order: 2
 
 **Economic Conditions and Mortality: Evidence from 200 Years of Data,** (with David Cutler and Adriana Lleras-Muney).
 
-**A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations, ** (with Chen Cheng and Yiqing Xing). 
+**A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations,** (with Chen Cheng and Yiqing Xing). 
 
 
 
