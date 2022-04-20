@@ -48,39 +48,44 @@ sidebar_sort_order: 2
 
 **Beyond Nature and Nurture: The Impact of Maternal Education on Child Health,** with Xiaoyan Lei, Guangjun Shen, and Ang Sun, 2nd round Revise & Resubmit, *Journal of Human Resources*. 
 
-**Social Norms and the Impact of Early Life Events on Gender Inequality,** with Albert Park and Wei Luo, Revise & Resubmit, *Journal of Human Resources*.
+**Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Revise & Resubmit, *Journal of Human Resources*.
 
-**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China,** with Hong Liu, Revise & Resubmit, *Journal of Development Economics*.
+**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.** with Hong Liu, Revise & Resubmit, *Journal of Development Economics*.
 
-**Understanding the Effects of Education on Health: Evidence from China,** with Chuanchuan Zhang, Reject & Resubmit, *Journal of Health Economics*.
+**Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang, Reject & Resubmit, *Journal of Health Economics*.
 
-**What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China，** with Chuanchuan Zhang.
+**What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
-**How do Households Respond to Permanent and Transitory Income Shocks? Evidence from Pension Reforms in Urban China**, with Mi Luo, Yinghao Pan, and Hong Song.
+**How do Households Respond to Permanent and Transitory Income Shocks? Evidence from Pension Reforms in Urban China.** with Mi Luo, Yinghao Pan, and Hong Song.
 
-**How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China**, with Jin Feng, Hong Song, and Zhen Wang.
+**How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China.** with Jin Feng, Hong Song, and Zhen Wang.
 
-**Non-linear Incentive and Work Performance: Evidence from a Quasi Experiment,** with Richard B. Freeman and Teng Li. (Under Review)
+**Non-linear Incentive and Work Performance: Evidence from a Quasi Experiment.** with Richard B. Freeman and Teng Li.  
 
-**Public Pension Provision, Informal Eldercare, and Son Preference: Evidence from the New Rural Pension Scheme in China,** with Naijia Guo and Ruixin Wang. (Under Review)
+**How Do Public Pensions Change Eldercare and Social Customs with Son Preference: Evidence from China.** with Naijia Guo and Ruixin Wang.  
 
-**Unawareness of Unhealthiness, Information Provision and Health Insurance Participation among the Elderly,** with Mi Luo (under Review)
+**Unawareness of Unhealthiness, Information Provision and Health Insurance Participation among the Elderly.** with Mi Luo.  
 
-**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China,** with Teng Li, Yinghao Pan, and Jinyang Ren. (Under review)
+**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.** with Teng Li, Yinghao Pan, and Jinyang Ren.  
 
-**Economic Conditions and Mortality: Evidence from 200 Years of Data,** (with David Cutler and Adriana Lleras-Muney).
+**When Giving Hurts: Impact of Exposure to China’s Land Reform on Education Attainment and Labor Market Outcomes.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang.
 
-**A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations,** (with Chen Cheng and Yiqing Xing). 
+**Impact of Tenure Track System on Academic Research: Evidence from Chinese Universities.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng.
+
+**Economic Conditions and Mortality: Evidence from 200 Years of Data.** (with David Cutler and Adriana Lleras-Muney).
+
+**A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations.** (with Chen Cheng and Yiqing Xing). 
 
 
 
 ### Working in Progress
 
-**The Power of Health Insurance: Evidence from New Cooperation Medical Scheme in China**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
+**The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
 
-**Too Busy to Be Cured?** with Yi Zhou and Changyu Ren.
+**Too Busy to Be Cured?** with Xiangyuan Ding, Yi Zhou and Changyu Ren.
 
-**Local Government Responses to Trade Liberalization: Evidence from China**, with Mi Dai and Guangrong Ma.
+**Spillover Effects of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu. 
+
 
 
 ### Book Chapters
