@@ -9,6 +9,8 @@ sidebar_sort_order: 2
 
 ### Pulications & Forthcoming
 
+**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.** with Hong Liu, Forthcoming, *Journal of Development Economics*.
+
 [**Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China,**](https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext)
  (with Xiaoyan Lei and Ang Sun), *Review of Economics and Statistics*, 2021; 103 (4): 694–710.
 
@@ -49,8 +51,6 @@ sidebar_sort_order: 2
 **Beyond Nature and Nurture: The Impact of Maternal Education on Child Health,** with Xiaoyan Lei, Guangjun Shen, and Ang Sun, 2nd round Revise & Resubmit, *Journal of Human Resources*. 
 
 **Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Revise & Resubmit, *Journal of Human Resources*.
-
-**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.** with Hong Liu, Revise & Resubmit, *Journal of Development Economics*.
 
 **Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang, Reject & Resubmit, *Journal of Health Economics*.
 
