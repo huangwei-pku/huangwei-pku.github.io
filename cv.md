@@ -8,9 +8,11 @@ sidebar_sort_order: 3
 
 ### Academic Employment
 
-Assistant Professor, Emory University, 2021 - Present
+Associate Professor with tenure, Peking University, 2022 -
 
-President’s Assistant Professor, National University of Singapore (NUS), 2017- Present (On leave)
+Assistant Professor, Emory University, 2021 - 2022
+
+President’s Assistant Professor, National University of Singapore (NUS), 2017- 2022
 
 Post-Doctoral Fellow, National Bureau of Economic Research (NBER), 2016-2017
 
