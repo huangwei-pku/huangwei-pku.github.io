@@ -16,7 +16,7 @@ baseurl:          #'/blog'
 
 author:          Wei Huang
 name:           'Wei Huang'
-email:           <a href="mailto:huangw@nber.org" title="huangw@nber.org">huangw@nber.org</a>
+email:           <a href="mailto:huangwei@pku.edu.cn" title="huangwei@pku.edu.cn">huangwei@pku.edu.cn</a>
 
 paginate:         5
 paginate_path:    #'/page:num'
