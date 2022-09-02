@@ -8,7 +8,7 @@ sidebar_sort_order: 3
 
 ### Academic Employment
 
-Associate Professor with tenure, Peking University, 2022 -
+Associate Professor with Tenure, Peking University, 2022 -
 
 Assistant Professor, Emory University, 2021 - 2022
 

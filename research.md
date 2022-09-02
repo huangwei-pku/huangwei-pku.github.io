@@ -9,9 +9,9 @@ sidebar_sort_order: 2
 
 ### Pulications & Forthcoming
 
-**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.** with Hong Liu, Forthcoming, *Journal of Development Economics*.
+[**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.**](https://doi.org/10.1016/j.jdeveco.2022.102925) with Hong Liu, *Journal of Development Economics*, 2023, 160: 102925.
 
-[**Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China,**](https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext)
+[**Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China.**](https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext)
  (with Xiaoyan Lei and Ang Sun), *Review of Economics and Statistics*, 2021; 103 (4): 694–710.
 
 [**The Power of Social Pensions: Evidence from China's New Rural Pension Scheme,**](https://www.aeaweb.org/articles?id=10.1257/app.20170789) (with Chuanchuan Zhang) *American Economic Journal: Applied Economics*, 2021; 13 (2): 179-205.
