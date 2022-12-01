@@ -86,7 +86,7 @@ sidebar_sort_order: 2
 
 **Spillover Effects of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu. 
 
-**Internet Connection, Development and Social Multiplier Effect: Evidence from Rural China** with Mingzhe Wang, Yiping Wang, and Hantao Wu.
+**Internet Connection, Development and Social Multiplier Effect: Evidence from Rural China** with Yiping Wang, and Hantao Wu.
 
 
 
