@@ -82,7 +82,7 @@ sidebar_sort_order: 2
 
 **The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
 
-**Too Busy to Be Cured?** with Yuqi Ta, Changyu Ren, and Yi Zhou.
+**Too Busy to Be Cured?** with Xiangyuan Ding, Yuqi Ta, Changyu Ren, and Yi Zhou.
 
 **Spillover Effects of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu. 
 
