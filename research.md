@@ -9,6 +9,9 @@ sidebar_sort_order: 2
 
 ### Pulications & Forthcoming
 
+**One-Child Policy, Marriage Distortion and Welfare Loss,**
+ with Yi Zhou and Yinghao Pan, *Review of Economics and Statistics*, Forthcoming.
+
 [**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.**](https://doi.org/10.1016/j.jdeveco.2022.102925) with Hong Liu, *Journal of Development Economics*, 2023, 160: 102925.
 
 [**Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China.**](https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext)
@@ -45,12 +48,12 @@ sidebar_sort_order: 2
 
 
 ### Working Papers
-**One-Child Policy, Marriage Distortion and Welfare Loss,**
- with Yi Zhou and Yinghao Pan. Revise & Resubmit, *Review of Economics and Statistics*. 
 
 **Beyond Nature and Nurture: The Impact of Maternal Education on Child Health,** with Xiaoyan Lei, Guangjun Shen, and Ang Sun, 2nd round Revise & Resubmit, *Journal of Human Resources*. 
 
 **Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Revise & Resubmit, *Journal of Human Resources*.
+
+**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.** with Teng Li, Yinghao Pan, and Jinyang Ren, Revise & Resubmit, *Journal of Economic Behavior & Organization*.
 
 **Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang, Reject & Resubmit, *Journal of Health Economics*.
 
@@ -66,7 +69,6 @@ sidebar_sort_order: 2
 
 **Unawareness of Unhealthiness, Information Provision and Health Insurance Participation among the Elderly.** with Mi Luo.  
 
-**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.** with Teng Li, Yinghao Pan, and Jinyang Ren.  
 
 **When Giving Hurts: Impact of Exposure to China’s Land Reform on Education Attainment and Labor Market Outcomes.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang.
 
