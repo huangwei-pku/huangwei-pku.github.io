@@ -64,7 +64,7 @@ My research fields include public economics, labor economics, and health economi
 <h2 class="wsite-content-title" style="text-align:center;"><font  size="3">Exposure to Health Insurance in Early Life Matters </font></h2>
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:13px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
-<a href='https://www.sciencedirect.com/science/article/abs/pii/S0304387821000055' target='_blank'>
+<a href='https://www.sciencedirect.com/science/article/abs/pii/S0304387822000815' target='_blank'>
 <img src="/assets/3.png" alt="Picture" style="width:auto;max-width:100%;" />
 </a>
 <div style="display:block;font-size:80%"></div>
