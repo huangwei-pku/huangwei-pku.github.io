@@ -61,7 +61,7 @@ My research fields include public economics, labor economics, and health economi
 					
 						
 
-<h2 class="wsite-content-title" style="text-align:center;"><font  size="3">Household Adjustments after WTO Accession </font></h2>
+<h2 class="wsite-content-title" style="text-align:center;"><font  size="3">Exposure to Health Insurance in Early Life Matters </font></h2>
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:13px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='https://www.sciencedirect.com/science/article/abs/pii/S0304387821000055' target='_blank'>
@@ -70,7 +70,7 @@ My research fields include public economics, labor economics, and health economi
 <div style="display:block;font-size:80%"></div>
 </div></div>
 
-<div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> We find an insurance role of households against trade-induced labor market shocks. </font>&nbsp;&nbsp;</div>
+<div class="paragraph"><font color="#707070"  size="3" style="line-height:0;"> We find that a longer time exposure to health insurance leads to higher education and healthier status. </font>&nbsp;&nbsp;</div>
 
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div><div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
