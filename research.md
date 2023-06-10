@@ -51,7 +51,7 @@ sidebar_sort_order: 2
 
 **Beyond Nature and Nurture: The Impact of Maternal Education on Child Health,** with Xiaoyan Lei, Guangjun Shen, and Ang Sun, 2nd round Revise & Resubmit, *Journal of Human Resources*. 
 
-**Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Revise & Resubmit, *Journal of Human Resources*.
+**Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, 2nd Revise & Resubmit, *Journal of Human Resources*.
 
 **Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.** with Teng Li, Yinghao Pan, and Jinyang Ren, Revise & Resubmit, *Journal of Economic Behavior & Organization*.
 
