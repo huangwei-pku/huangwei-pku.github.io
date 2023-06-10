@@ -9,7 +9,7 @@ sidebar_sort_order: 2
 
 ### Pulications & Forthcoming
 
-**One-Child Policy, Marriage Distortion and Welfare Loss,**
+[**One-Child Policy, Marriage Distortion and Welfare Loss,**](https://doi.org/10.1162/rest_a_01332)
  with Yi Zhou and Yinghao Pan, *Review of Economics and Statistics*, Forthcoming.
 
 [**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.**](https://doi.org/10.1016/j.jdeveco.2022.102925) with Hong Liu, *Journal of Development Economics*, 2023, 160: 102925.
@@ -83,7 +83,7 @@ sidebar_sort_order: 2
 
 **The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
 
-**Too Busy to Be Cured?** with Xiangyuan Ding, Yuqi Ta, Changyu Ren, and Yi Zhou.
+**Too Busy to Be Cured?** with Yuqi Ta and Yi Zhou.
 
 **Spillover Effects of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu. 
 
