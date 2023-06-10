@@ -77,15 +77,16 @@ sidebar_sort_order: 2
 
 **A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations.** (with Chen Cheng and Yiqing Xing). 
 
+**Spillover Effects of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu. 
+
+**Too Busy to Be Cured?** with Yuqi Ta and Yi Zhou.
+
 
 
 ### Working in Progress
 
 **The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
 
-**Too Busy to Be Cured?** with Yuqi Ta and Yi Zhou.
-
-**Spillover Effects of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu. 
 
 **Internet Connection, Development and Social Multiplier Effect: Evidence from Rural China** with Yiping Wang, and Hantao Wu.
 
