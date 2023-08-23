@@ -12,6 +12,8 @@ sidebar_sort_order: 2
 [**One-Child Policy, Marriage Distortion and Welfare Loss,**](https://doi.org/10.1162/rest_a_01332)
  with Yi Zhou and Yinghao Pan, *The Review of Economics and Statistics*, Forthcoming.
 
+**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health,** with Xiaoyan Lei, Guangjun Shen, and Ang Sun, *Journal of Human Resources*, Accepted.
+
 [**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.**](https://doi.org/10.1016/j.jdeveco.2022.102925) with Hong Liu, *Journal of Development Economics*, 2023, 160: 102925.
 
 [**Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China.**](https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext)
@@ -48,8 +50,6 @@ sidebar_sort_order: 2
 
 
 ### Working Papers
-
-**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health,** with Xiaoyan Lei, Guangjun Shen, and Ang Sun, 2nd round Revise & Resubmit, *Journal of Human Resources*. 
 
 **Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, 2nd Revise & Resubmit, *Journal of Human Resources*.
 
