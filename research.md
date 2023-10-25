@@ -12,7 +12,7 @@ sidebar_sort_order: 2
 [**One-Child Policy, Marriage Distortion and Welfare Loss,**](https://doi.org/10.1162/rest_a_01332)
  with Yi Zhou and Yinghao Pan, *The Review of Economics and Statistics*, Forthcoming.
 
-**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health,** with Xiaoyan Lei, Guangjun Shen, and Ang Sun, *Journal of Human Resources*, Forthcoming.
+[**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health,**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) with Xiaoyan Lei, Guangjun Shen, and Ang Sun, *Journal of Human Resources*, Forthcoming.
 
 [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.**](https://www.sciencedirect.com/science/article/pii/S0167268123003128) with Teng Li, Yinghao Pan, and Jinyang Ren, *Journal of Economic Behavior & Organization*, 2023; 214: 747-781.
 
