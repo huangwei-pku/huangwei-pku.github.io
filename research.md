@@ -84,6 +84,8 @@ sidebar_sort_order: 2
 
 **Too Busy to Be Cured?** with Xiangyuan Ding, Yuqi Ta and Yi Zhou.
 
+**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan.
+
 
 ### Working in Progress
 
