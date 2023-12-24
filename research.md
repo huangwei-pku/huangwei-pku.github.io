@@ -54,40 +54,40 @@ sidebar_sort_order: 2
 
 ### Working Papers
 
-**Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, 3rd Revise & Resubmit, *Journal of Human Resources*.
+**Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Revision Requested at *Journal of Human Resources*.
+
+**When Giving Hurts: Impact of Exposure to China’s Land Reform on Education Attainment and Labor Market Outcomes.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang, Revision Requested at *Journal of Economic Behavior & Organization*
+
+**Impact of Tenure Track System on Academic Research: Evidence from Chinese Universities.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng, Revision Requested at *Journal of Labor Economics*.
+
+**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study** with Yiping Wang, Hantao Wu, and Yi Zhou, Revision Requested at *Journal of Population Economics*.
 
 **Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang, Reject & Resubmit, *Journal of Health Economics*.
 
-**What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
-
-**How do Households Respond to Permanent and Transitory Income Shocks? Evidence from Pension Reforms in Urban China.** with Mi Luo, Yinghao Pan, and Hong Song.
-
-**How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China.** with Jin Feng, Hong Song, and Zhen Wang.
-
-**Non-linear Incentive and Work Performance: Evidence from a Quasi Experiment.** with Richard B. Freeman and Teng Li.  
+**Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu.  (Under review)
 
 **How Do Public Pensions Change Eldercare and Social Customs with Son Preference: Evidence from China.** with Naijia Guo and Ruixin Wang.  (Under review)
 
-**Unawareness of Unhealthiness, Information Provision and Health Insurance Participation among the Elderly.** with Mi Luo.  
+**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China** with Yuqi Ta and Boxian Wang.  (Under review)
 
-**When Giving Hurts: Impact of Exposure to China’s Land Reform on Education Attainment and Labor Market Outcomes.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang. (Under review)
+**What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
-**Impact of Tenure Track System on Academic Research: Evidence from Chinese Universities.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng. (Under review)
+**How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China.** with Jin Feng, Hong Song, and Zhen Wang.
 
-**Economic Conditions and Mortality: Evidence from 200 Years of Data.** (with David Cutler and Adriana Lleras-Muney).
+**How Does Household Consumption Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China** with Mi Luo, Yinghao Pan, and Hong Song. 
 
-**A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations.** (with Chen Cheng and Yiqing Xing). 
+**Unawareness of Unhealthiness, Information Provision, and Health Insurance Participation among the Elderly.** with Mi Luo.  
 
-**Spillover Effects of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu. 
+**Economic Conditions and Mortality: Evidence from 200 Years of Data.** with David Cutler and Adriana Lleras-Muney.
 
-**Too Busy to Be Cured?** with Yuqi Ta and Yi Zhou.
+**A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations.** with Chen Cheng and Yiqing Xing. (Under Review)
 
+**Too Busy to Be Cured?** with Xiangyuan Ding, Yuqi Ta and Yi Zhou.
 
 
 ### Working in Progress
 
 **The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
-
 
 **Internet Connection, Development and Social Multiplier Effect: Evidence from Rural China** with Yiping Wang, and Hantao Wu.
 
