@@ -86,6 +86,8 @@ sidebar_sort_order: 2
 
 **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan.
 
+**Gender Peer Effects and Social Determinants in High-Stakes Examination** with Xinzheng Shi and Ming-ang Zhang. 
+
 
 ### Working in Progress
 
