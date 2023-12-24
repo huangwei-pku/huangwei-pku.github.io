@@ -56,15 +56,15 @@ sidebar_sort_order: 2
 
 **Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Revision Requested at *Journal of Human Resources*.
 
-**When Giving Hurts: Impact of Exposure to China’s Land Reform on Education Attainment and Labor Market Outcomes.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang, Revision Requested at *Journal of Economic Behavior & Organization*
+**When Giving Hurts: Impact of Exposure to China’s Land Reform on Education Attainment and Labor Market Outcomes.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang, Revision Requested at *Journal of Economic Behavior & Organization*.
 
 **Impact of Tenure Track System on Academic Research: Evidence from Chinese Universities.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng, Revision Requested at *Journal of Labor Economics*.
 
-**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study** with Yiping Wang, Hantao Wu, and Yi Zhou, Revision Requested at *Journal of Population Economics*.
+**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou, Revision Requested at *Journal of Population Economics*.
 
 **Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang, Reject & Resubmit, *Journal of Health Economics*.
 
-**Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu.  (Under review)
+**Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Yueping Song, Yiping Wang, and Hantao Wu.  (Under review)
 
 **How Do Public Pensions Change Eldercare and Social Customs with Son Preference: Evidence from China.** with Naijia Guo and Ruixin Wang.  (Under review)
 
@@ -74,7 +74,9 @@ sidebar_sort_order: 2
 
 **How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China.** with Jin Feng, Hong Song, and Zhen Wang.
 
-**How Does Household Consumption Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China** with Mi Luo, Yinghao Pan, and Hong Song. 
+**How Does Household Consumption Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China.** with Mi Luo, Yinghao Pan, and Hong Song. 
+
+**Gender Peer Effects and Social Determinants in High-Stakes Examination.** with Xinzheng Shi and Ming-ang Zhang.
 
 **Unawareness of Unhealthiness, Information Provision, and Health Insurance Participation among the Elderly.** with Mi Luo.  
 
