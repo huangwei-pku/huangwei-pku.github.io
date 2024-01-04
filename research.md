@@ -62,11 +62,11 @@ sidebar_sort_order: 2
 
 **Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou, Revision Requested at *Journal of Population Economics*.
 
+**How Do Public Pensions Change Eldercare and Social Customs with Son Preference: Evidence from China.** with Naijia Guo and Ruixin Wang. Revision Requested at *Journal of Development Economics*.
+
 **Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang, Reject & Resubmit, *Journal of Health Economics*.
 
 **Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu.  (Under review)
-
-**How Do Public Pensions Change Eldercare and Social Customs with Son Preference: Evidence from China.** with Naijia Guo and Ruixin Wang.  (Under review)
 
 **Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China** with Yuqi Ta and Boxian Wang.  (Under review)
 
