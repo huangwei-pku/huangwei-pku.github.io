@@ -88,7 +88,11 @@ sidebar_sort_order: 2
 
 **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan.
 
-**Gender Peer Effects and Social Determinants in High-Stakes Examination** with Xinzheng Shi and Ming-ang Zhang. 
+**Gender Peer Effects and Social Determinants in a High-Stakes Examination** with Xinzheng Shi and Ming-ang Zhang. 
+
+**Digital Technology, Elderly Support, and Health: Evidence from Broadband China Policy** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. 
+
+**Stock Market Crash, Peer Stockholding, and Household Potfolio Choice** with Yanfei Dong, and Yiping Huang. 
 
 
 ### Working in Progress
