@@ -7,7 +7,7 @@ sidebar_sort_order: 2
 ---
 
 
-### Pulications & Forthcoming
+### Publications & Forthcoming
 
 [**One-Child Policy, Marriage Distortion and Welfare Loss,**](https://doi.org/10.1162/rest_a_01332)
  with Yi Zhou and Yinghao Pan, *The Review of Economics and Statistics*, Forthcoming.
