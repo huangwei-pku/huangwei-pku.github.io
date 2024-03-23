@@ -75,7 +75,13 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 ### Honors and Awards  
 2024 The 9th Outstanding Scientific Research Achievement Award for Higher Education Institutions (Humanities and Social Sciences) - Young Achievers Award 第九届高等学校科学研究优秀成果奖(人文社会科学)-青年成果奖
 
-2023 4th Masahiko Aoki Award for Economics Papers (2023年第四届青木昌彦经济学论文提名奖)
+2023 Annual Scholar of the China Youth Agricultural Economists Forum 2023年中国青年农业经济学家论坛年度学者
+
+2023 Masahiko Aoki Award for Economics Papers 第四届青木昌彦经济学论文提名奖
+
+2020 Zhang Peigang Award for Young Scholars in Development Economics 第三届张培刚发展经济学青年学者奖
+
+2018 Innovative Leading Talent (Short-Term) Project, Jiangxi Province ‘Double Thousand Plan’ 江西省“双千计划”创新领军人才（短期）项目
 
 2016-2017 NBER Post-Doctoral Fellowship on Economics of an Aging Workforce
 
