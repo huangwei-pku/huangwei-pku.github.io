@@ -16,6 +16,7 @@ President’s Assistant Professor, National University of Singapore (NUS), 2017-
 
 Post-Doctoral Fellow, National Bureau of Economic Research (NBER), 2016-2017
 
+
 ### Education
 
 Ph.D. in Economics, Harvard University, 2016
@@ -23,6 +24,7 @@ Ph.D. in Economics, Harvard University, 2016
 M.A. in Economics with distinction, Peking University, 2011
 
 B.S. in Physics and B.A. in Economics with distinction, Peking University, 2008
+
 
 ### Academic Affiliations and Other Employment
 
@@ -48,14 +50,32 @@ Wertheim Fellow, Labor and Worklife Program, Harvard University, 2013 – 2015
 
 Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 
-### Honors, Awards and Grants
-2024-2027 Human Capital Externalities and High-Quality Economic Growth: Phenomena, Mechanisms and Impacts (自科面上项目：人力资本外部性与经济高质量增长：现象、机制和影响) (RMB ￥400,000)
+
+### Grants and Projects
+2024-2027 Human Capital Externalities and High-Quality Economic Growth: Phenomena, Mechanisms and Impacts, NSFC  General Program 自科面上项目: 人力资本外部性与经济高质量增长：现象、机制和影响 (PI)
+
+2023-2025 Empowering Digital Economy, Enhancing Human Capital, and Online Shopping Consumption, Peking University Digital Finance Research Center 北京大学数字金融研究中心课题：数字经济赋能、人力资本提升与网购消费 (PI)
+
+2024-2025 ADB-PRC project：Responding to Demographic Pressures by Strengthening the Policy Framework Addressing the Low Fertility Landscape (Team Leader)
+
+2024 Undergraduate Education Reform Project："Practical Reform of the 'Economic Research Training' Course"  北京大学24年本科教改项目-《经济学研究训练》课程实践化改革  (PI)
+
+2023-2026 An Economic Analysis and Public Policy Assessment of China's Declining Birthrate and Aging Population, NSFC Distinguished Young Scholars (Overseas) 海外优青项目：中国少子化和老龄化的经济学分析与公共政策评估 (PI)
+
+2023 Undergraduate Education Reform Project： "Exploring the Reform of the 'Econometrics' Course" 北京大学23年本科教改项目-《计量经济学》课程改革探索  (PI)
+
+2023-2024 Digital Finance, Retirement Shock, and Asset Allocation among Middle-aged and Elderly, Peking University Digital Finance Research Center 北京大学数字金融研究中心课题：数字金融、退休冲击与中老年资产配置 (PI)
+
+2023-2024 Research on Population Development Strategy: Classification and Estimation of the Cost of Childbearing in China, National Health Commission of the People's Republic of China (人口发展战略研究——我国生育代价的分类和估算, 卫健委) (PI) 
+
+2022-2024 Policy Analysis for Healthy Aging in China, Peking University Start-up Fund 北京大学学科建设项目, 中国健康医疗养老政策实证研究 (PI)
+
+2017-2021 Public Policies, Human Capital, and Social Welfare Outcomes, NUS Start-up Fund (PI)
+
+### Honors and Awards  
+2024 The 9th Outstanding Scientific Research Achievement Award for Higher Education Institutions (Humanities and Social Sciences) - Young Achievers Award 第九届高等学校科学研究优秀成果奖(人文社会科学)-青年成果奖
 
 2023 4th Masahiko Aoki Award for Economics Papers (2023年第四届青木昌彦经济学论文提名奖)
-
-2023-2025 Policy Analysis for Healthy Aging in China (中国健康医疗养老政策实证研究) (RMB ￥200,000)
-
-2017-2021 NUS Start-up Fund for Project “Public Policies, Human Capital, and Social Welfare Outcomes” (SGD $200,000)
 
 2016-2017 NBER Post-Doctoral Fellowship on Economics of an Aging Workforce
 
