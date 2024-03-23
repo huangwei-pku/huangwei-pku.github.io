@@ -75,7 +75,7 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 ### Honors and Awards  
 2024 The 9th Outstanding Scientific Research Achievement Award for Higher Education Institutions (Humanities and Social Sciences) - Young Achievers Award 第九届高等学校科学研究优秀成果奖(人文社会科学)-青年成果奖
 
-2023 Annual Scholar of the China Youth Agricultural Economists Forum 2023年中国青年农业经济学家论坛年度学者
+2023 Annual Scholar of the China Youth Agricultural Economists Forum 中国青年农业经济学家论坛年度学者
 
 2023 Masahiko Aoki Award for Economics Papers 第四届青木昌彦经济学论文提名奖
 
