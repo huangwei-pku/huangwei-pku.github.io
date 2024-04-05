@@ -9,6 +9,8 @@ sidebar_sort_order: 2
 
 ### Publications & Forthcoming
 
+**Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Accepted by *Journal of Human Resources*.
+
 [**One-Child Policy, Marriage Distortion and Welfare Loss,**](https://doi.org/10.1162/rest_a_01332)
  with Yi Zhou and Yinghao Pan, *The Review of Economics and Statistics*, Forthcoming.
 
@@ -53,8 +55,6 @@ sidebar_sort_order: 2
 
 
 ### Working Papers
-
-**Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Revision Requested at *Journal of Human Resources*.
 
 **When Giving Hurts: Impact of Exposure to China’s Land Reform on Education Attainment and Labor Market Outcomes.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang, Revision Requested at *Journal of Economic Behavior & Organization*.
 
