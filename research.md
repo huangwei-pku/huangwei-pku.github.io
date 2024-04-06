@@ -66,6 +66,8 @@ sidebar_sort_order: 2
 
 **How Does Undervaluation in Medical Savings Accounts (MSAs) Affect Healthcare Utilization? Evidence from Administrative Data in China.** with Xiaoyan Lei and Yuqi Ta. Revision Requested at *Journal of Health Economics*.
 
+**Economic Policy Uncertainty, Health Status, and Mortality.** with Xiaoyan Lei and Miao Yu, Revision Requested at *Social Science & Medicine*.
+
 **Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang, Reject & Resubmit.
 
 **Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu.  (Under review)
