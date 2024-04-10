@@ -78,7 +78,7 @@ sidebar_sort_order: 2
 
 **How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China.** with Jin Feng, Hong Song, and Zhen Wang.
 
-**How Does Household Consumption Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China** with Mi Luo, Yinghao Pan, and Hong Song. 
+**How Does Household Consumption Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China.** with Mi Luo, Yinghao Pan, and Hong Song. 
 
 **Unawareness of Unhealthiness, Information Provision, and Health Insurance Participation among the Elderly.** with Mi Luo.  
 
@@ -88,13 +88,13 @@ sidebar_sort_order: 2
 
 **Too Busy to Be Cured?** with Xiangyuan Ding, Yuqi Ta and Yi Zhou.
 
-**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan.
+**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
 
-**Gender Peer Effects and Social Determinants in a High-Stakes Examination** with Xinzheng Shi and Ming-ang Zhang. 
+**Gender Peer Effects and Social Determinants in a High-Stakes Examination.** with Xinzheng Shi and Ming-ang Zhang. (Under Review)
 
-**Digital Technology, Elderly Support, and Health: Evidence from Broadband China Policy** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. 
+**Digital Technology, Elderly Support, and Health: Evidence from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. (Under Review)
 
-**Stock Market Crash, Peer Stockholding, and Household Potfolio Choice** with Yanfei Dong, and Yiping Huang. 
+**Stock Market Crash, Peer Stockholding, and Household Potfolio Choice.** with Yanfei Dong, and Yiping Huang. (Under Review)
 
 
 ### Working in Progress
