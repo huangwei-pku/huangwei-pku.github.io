@@ -68,11 +68,11 @@ sidebar_sort_order: 2
 
 **Economic Policy Uncertainty, Health Status, and Mortality.** with Xiaoyan Lei and Miao Yu, Revision Requested at *Social Science & Medicine*.
 
+**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China** with Yuqi Ta and Boxian Wang. Revision Requested at *Journal of Development Economics*.
+
 **Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang, Reject & Resubmit.
 
 **Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu.  (Under review)
-
-**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China** with Yuqi Ta and Boxian Wang.  (Under review)
 
 **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
