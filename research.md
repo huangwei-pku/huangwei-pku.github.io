@@ -11,10 +11,10 @@ sidebar_sort_order: 2
 
 **Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Accepted by *Journal of Human Resources*.
 
-[**One-Child Policy, Marriage Distortion and Welfare Loss,**](https://doi.org/10.1162/rest_a_01332)
+[**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332)
  with Yi Zhou and Yinghao Pan, *The Review of Economics and Statistics*, Forthcoming.
 
-[**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health,**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) with Xiaoyan Lei, Guangjun Shen, and Ang Sun, *Journal of Human Resources*, Forthcoming.
+[**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) with Xiaoyan Lei, Guangjun Shen, and Ang Sun, *Journal of Human Resources*, Forthcoming.
 
 [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.**](https://www.sciencedirect.com/science/article/pii/S0167268123003128) with Teng Li, Yinghao Pan, and Jinyang Ren, *Journal of Economic Behavior & Organization*, 2023; 214: 747-781.
 
@@ -34,9 +34,9 @@ sidebar_sort_order: 2
 
 **How does the One Child Policy Impact Social and Economic Outcomes?** IZA World of Labor, 387.
 
-[**One-Child Policy and the Rise of Man-made Twins**](https://direct.mit.edu/rest/article-abstract/98/3/467/58356/One-Child-Policy-and-the-Rise-of-Man-Made-Twins?redirectedFrom=fulltext) with Xiaoyan Lei and Yaohui Zhao, *The Review of Economics and Statistics*, 2016; 98(3), 467-476.
+[**One-Child Policy and the Rise of Man-made Twins.**](https://direct.mit.edu/rest/article-abstract/98/3/467/58356/One-Child-Policy-and-the-Rise-of-Man-Made-Twins?redirectedFrom=fulltext) with Xiaoyan Lei and Yaohui Zhao, *The Review of Economics and Statistics*, 2016; 98(3), 467-476.
 
-[**Collaborating With People Like Me: Ethnic Co-authorship within the US**](https://www.journals.uchicago.edu/doi/abs/10.1086/678973) with Richard B. Freeman, *Journal of Labor Economics*, 2015; 33.S1 Part 2: S289-S318.
+[**Collaborating With People Like Me: Ethnic Co-authorship within the US.**](https://www.journals.uchicago.edu/doi/abs/10.1086/678973) with Richard B. Freeman, *Journal of Labor Economics*, 2015; 33.S1 Part 2: S289-S318.
 
 
 [**Do ABCs Get More Citations than XYZs?**](http://onlinelibrary.wiley.com/doi/10.1111/ecin.12125/abstract) *Economic Inquiry*, 2015; 53(1): 773–789.
@@ -44,7 +44,7 @@ sidebar_sort_order: 2
 
 [**When Does Education Matter? The Protective Effect of Education for Cohorts Graduating in Bad Times.**](https://www.sciencedirect.com/science/article/abs/pii/S0277953614004961) with David M. Cutler and Adriana Lleras-Muney, *Social Science & Medicine*, 2015; 127: 63–73.
 
-[**Collaboration: Strength in Diversity,**](https://www.nature.com/articles/513305a) with Richard B. Freeman,  *Nature*, 2014; 513 (7518): 305.
+[**Collaboration: Strength in Diversity.**](https://www.nature.com/articles/513305a) with Richard B. Freeman,  *Nature*, 2014; 513 (7518): 305.
 
 [**Effects of Education on Cognition at Older Ages: Evidence from China's Great Famine.**](https://www.sciencedirect.com/science/article/abs/pii/S0277953613004735) with Yi Zhou, *Social Science & Medicine*, 2013; 98: 54-62.
 
@@ -68,12 +68,13 @@ sidebar_sort_order: 2
 
 **Economic Policy Uncertainty, Health Status, and Mortality.** with Xiaoyan Lei and Miao Yu, Revision Requested at *Social Science & Medicine*.
 
-**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China** with Yuqi Ta and Boxian Wang. Revision Requested at *Journal of Development Economics*.
+**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.** with Yuqi Ta and Boxian Wang. Revision Requested at *Journal of Development Economics*.
 
-**Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China** with Yueping Song, Yiping Wang, and Hantao Wu. Revision Requested at *Journal of Public Economics*.
+**Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Yueping Song, Yiping Wang, and Hantao Wu. Revision Requested at *Journal of Public Economics*.
 
 **Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang, Reject & Resubmit.
 
+**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
 
 **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
@@ -89,20 +90,18 @@ sidebar_sort_order: 2
 
 **Too Busy to Be Cured?** with Xiangyuan Ding, Yuqi Ta and Yi Zhou.
 
-**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
+**Gender Peer Effects and Social Determinants in a High-Stakes Examination.** with Xinzheng Shi and Ming-ang Zhang. 
 
-**Gender Peer Effects and Social Determinants in a High-Stakes Examination.** with Xinzheng Shi and Ming-ang Zhang. (Under Review)
+**Digital Technology, Elderly Support, and Health: Evidence from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. 
 
-**Digital Technology, Elderly Support, and Health: Evidence from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. (Under Review)
-
-**Stock Market Crash, Peer Stockholding, and Household Potfolio Choice.** with Yanfei Dong, and Yiping Huang. (Under Review)
+**Stock Market Crash, Peer Stockholding, and Household Potfolio Choice.** with Yanfei Dong, and Yiping Huang. 
 
 
 ### Working in Progress
 
-**The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
+**The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China.**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
 
-**Internet Connection, Development and Social Multiplier Effect: Evidence from Rural China** with Yiping Wang, and Hantao Wu.
+**Internet Connection, Development and Social Multiplier Effect: Evidence from Rural China.** with Yiping Wang, and Hantao Wu.
 
 
 
