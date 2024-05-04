@@ -56,11 +56,11 @@ sidebar_sort_order: 2
 
 ### Working Papers
 
-**When Giving Hurts: Impact of Exposure to China’s Land Reform on Education Attainment and Labor Market Outcomes.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang, Revision Requested at *Journal of Economic Behavior & Organization*.
+**When Giving Hurts: Impact of Exposure to China’s Land Reform on Education Attainment and Labor Market Outcomes.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang. Revision Requested at *Journal of Economic Behavior & Organization*.
 
-**Impact of Tenure Track System on Academic Research: Evidence from Chinese Universities.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng, Revision Requested at *Journal of Labor Economics*.
+**Impact of Tenure Track System on Academic Research: Evidence from Chinese Universities.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng. Revision Requested at *Journal of Labor Economics*.
 
-**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou, Revision Requested at *Journal of Population Economics*.
+**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Revision Requested at *Journal of Population Economics*.
 
 **How Do Public Pensions Change Eldercare and Social Customs with Son Preference: Evidence from China.** with Naijia Guo and Ruixin Wang. Revision Requested at *Journal of Development Economics*.
 
@@ -71,8 +71,6 @@ sidebar_sort_order: 2
 **Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.** with Yuqi Ta and Boxian Wang. Revision Requested at *Journal of Development Economics*.
 
 **Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Yueping Song, Yiping Wang, and Hantao Wu. Revision Requested at *Journal of Public Economics*.
-
-**Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang, Reject & Resubmit.
 
 **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
 
@@ -85,6 +83,9 @@ sidebar_sort_order: 2
 **Unawareness of Unhealthiness, Information Provision, and Health Insurance Participation among the Elderly.** with Mi Luo.  
 
 **Economic Conditions and Mortality: Evidence from 200 Years of Data.** with David Cutler and Adriana Lleras-Muney.
+
+**Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang.
+
 
 **A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations.** with Chen Cheng and Yiqing Xing. (Under Review)
 
