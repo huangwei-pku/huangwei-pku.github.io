@@ -9,24 +9,25 @@ sidebar_sort_order: 2
 
 ### Publications & Forthcoming
 
-**The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang. Conditionally Accepted at *Journal of Economic Behavior & Organization*.
+**The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang. Conditionally Accepted by *Journal of Economic Behavior & Organization*.
 
 **Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Accepted by *Journal of Human Resources*.
 
-**Wei Huang, Yinghao Pan, Yi Zhou; [One-Child Policy, Marriage Distortion and Welfare Loss.](https://doi.org/10.1162/rest_a_01332) *The Review of Economics and Statistics***; Forthcoming, doi: https://doi.org/10.1162/rest_a_01332
+**Huang, Wei, Yinghao Pan, and Yi Zhou.  [One-Child Policy, Marriage Distortion and Welfare Loss.](https://doi.org/10.1162/rest_a_01332) *The Review of Economics and Statistics*** (Forthcoming). doi: https://doi.org/10.1162/rest_a_01332
 
-**Wei Huang, Xiaoyan Lei, Guangjun Shen and Ang Sun; [Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) *Journal of Human Resources***, Forthcoming. DOI: https://doi.org/10.3368/jhr.0220-10720R4
+**Huang, Wei, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) *Journal of Human Resources*** (Forthcoming).  DOI: https://doi.org/10.3368/jhr.0220-10720R4
 
-[**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.**](https://www.sciencedirect.com/science/article/pii/S0167268123003128) with Teng Li, Yinghao Pan, and Jinyang Ren, *Journal of Economic Behavior & Organization*, 2023; 214: 747-781.
+**Huang, Wei, Teng Li, Yinghao Pan, and Jinyang Ren. [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.**](https://www.sciencedirect.com/science/article/pii/S0167268123003128) *Journal of Economic Behavior & Organization*** 214 (2023): 747-781.
 
-[**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.**](https://doi.org/10.1016/j.jdeveco.2022.102925) with Hong Liu, *Journal of Development Economics*, 2023, 160: 102925.
+**Huang, Wei, and Hong Liu. [**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.**](https://doi.org/10.1016/j.jdeveco.2022.102925) *Journal of Development Economics*** 160 (2023): 102925.
 
-[**Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China.**](https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext)
- with Xiaoyan Lei and Ang Sun, *The Review of Economics and Statistics*, 2021; 103 (4): 694–710.
 
-[**The Power of Social Pensions: Evidence from China's New Rural Pension Scheme.**](https://www.aeaweb.org/articles?id=10.1257/app.20170789) with Chuanchuan Zhang, *American Economic Journal: Applied Economics*, 2021; 13 (2): 179-205.
+**Huang, Wei, Xiaoyan Lei, and Ang Sun. [**Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China.**](https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext) *The Review of Economics and Statistics*** 103, no. 4 (2021): 694-710.
 
-[**How Do Households Adjust to Tariff Liberalization? Evidence from China's WTO Accession.**](https://www.sciencedirect.com/science/article/abs/pii/S0304387821000055) (with Mi Dai and Yifan Zhang) *Journal of Development Economics*, 2021; 150 (2021): 102628.
+**Huang, Wei, and Chuanchuan Zhang. [**The Power of Social Pensions: Evidence from China's New Rural Pension Scheme.**](https://www.aeaweb.org/articles?id=10.1257/app.20170789) *American Economic Journal: Applied Economics*** 13, no. 2 (2021): 179-205.
+
+**Dai, Mi, Wei Huang, and Yifan Zhang. [**How Do Households Adjust to Tariff Liberalization? Evidence from China's WTO Accession.**](https://www.sciencedirect.com/science/article/abs/pii/S0304387821000055) *Journal of Development Economics*** 150 (2021): 102628.
+
 
 [**Persistent Effects of Initial Labor Market Conditions: The Case of China's Tariff Liberalization after WTO Accession.**](https://www.sciencedirect.com/science/article/abs/pii/S0167268120302584) with Mi Dai and Yifan Zhang, *Journal of Economic Behavior & Organization*, 2021; 178, 566-581.
 
