@@ -9,6 +9,8 @@ sidebar_sort_order: 2
 
 ### Publications & Forthcoming
 
+**The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang. Conditionally Accepted at *Journal of Economic Behavior & Organization*.
+
 **Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Accepted by *Journal of Human Resources*.
 
 [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332)
@@ -56,8 +58,6 @@ sidebar_sort_order: 2
 
 ### Working Papers
 
-**When Giving Hurts: Impact of Exposure to China’s Land Reform on Education Attainment and Labor Market Outcomes.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang. Revision Requested at *Journal of Economic Behavior & Organization*.
-
 **Impact of Tenure Track System on Academic Research: Evidence from Chinese Universities.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng. Revision Requested at *Journal of Labor Economics*.
 
 **Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Revision Requested at *Journal of Population Economics*.
@@ -86,7 +86,6 @@ sidebar_sort_order: 2
 
 **Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang.
 
-
 **A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations.** with Chen Cheng and Yiqing Xing. (Under Review)
 
 **Too Busy to Be Cured?** with Xiangyuan Ding, Yuqi Ta and Yi Zhou.
@@ -95,7 +94,7 @@ sidebar_sort_order: 2
 
 **Digital Technology, Elderly Support, and Health: Evidence from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. 
 
-**Stock Market Crash, Peer Stockholding, and Household Potfolio Choice.** with Yanfei Dong, and Yiping Huang. 
+**Stock Market Crash, Peer Stockholding, and Household Potfolio Choice.** with Yanfei Dong, and Yiping Huang. (Under Review)
 
 
 ### Working in Progress
