@@ -36,20 +36,18 @@ Glaeser, Edward, **Wei Huang**, Yueran Ma, and Andrei Shleifer. [**A Real Estate
 
 **Huang, Wei**, Xiaoyan Lei, and Yaohui Zhao. [**One-Child Policy and the Rise of Man-made Twins.**](https://direct.mit.edu/rest/article-abstract/98/3/467/58356/One-Child-Policy-and-the-Rise-of-Man-Made-Twins?redirectedFrom=fulltext) ***The Review of Economics and Statistics*** 98, no. 3 (2016): 467-476.
 
+Freeman, Richard B., and **Wei Huang**. [**Collaborating With People Like Me: Ethnic Co-authorship within the US.**](https://www.journals.uchicago.edu/doi/abs/10.1086/678973)  ***Journal of Labor Economics*** 33, no. S1 (2015): S289-S318.
 
-[**Collaborating With People Like Me: Ethnic Co-authorship within the US.**](https://www.journals.uchicago.edu/doi/abs/10.1086/678973) with Richard B. Freeman, *Journal of Labor Economics*, 2015; 33.S1 Part 2: S289-S318.
+**Huang, Wei**. [**Do ABCs Get More Citations than XYZs?**](http://onlinelibrary.wiley.com/doi/10.1111/ecin.12125/abstract) ***Economic Inquiry*** 53, no. 1 (2015): 773-789.
+
+Cutler, David M., **Wei Huang**, and Adriana Lleras-Muney. [**When Does Education Matter? The Protective Effect of Education for Cohorts Graduating in Bad Times.**](https://www.sciencedirect.com/science/article/abs/pii/S0277953614004961) ***Social Science & Medicine*** 127 (2015): 63-73.
+
+Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.**](https://www.nature.com/articles/513305a) ***Nature*** 513, no. 7518 (2014): 305-305.
+
+**Huang, Wei**, and Yi Zhou. [**Effects of Education on Cognition at Older Ages: Evidence from China's Great Famine.**](https://www.sciencedirect.com/science/article/abs/pii/S0277953613004735) ***Social Science & Medicine*** 98 (2013): 54-62.
 
 
-[**Do ABCs Get More Citations than XYZs?**](http://onlinelibrary.wiley.com/doi/10.1111/ecin.12125/abstract) *Economic Inquiry*, 2015; 53(1): 773–789.
-
-
-[**When Does Education Matter? The Protective Effect of Education for Cohorts Graduating in Bad Times.**](https://www.sciencedirect.com/science/article/abs/pii/S0277953614004961) with David M. Cutler and Adriana Lleras-Muney, *Social Science & Medicine*, 2015; 127: 63–73.
-
-[**Collaboration: Strength in Diversity.**](https://www.nature.com/articles/513305a) with Richard B. Freeman,  *Nature*, 2014; 513 (7518): 305.
-
-[**Effects of Education on Cognition at Older Ages: Evidence from China's Great Famine.**](https://www.sciencedirect.com/science/article/abs/pii/S0277953613004735) with Yi Zhou, *Social Science & Medicine*, 2013; 98: 54-62.
-
-[**Health, Height, Height Shrinkage, and SES at Older Ages: Evidence from China.**](https://www.aeaweb.org/articles?id=10.1257/app.5.2.86) with Xiaoyan Lei, Geert Ridder, John Strauss and Yaohui Zhao, *American Economic Journal: Applied Economics*, 2013; 5(2): 86-121.
+**Huang, Wei**, Xiaoyan Lei, Geert Ridder, John Strauss, and Yaohui Zhao. [**Health, Height, Height Shrinkage, and SES at Older Ages: Evidence from China.**](https://www.aeaweb.org/articles?id=10.1257/app.5.2.86) ***American Economic Journal: Applied Economics*** 5, no. 2 (2013): 86-121.
 
 
 
