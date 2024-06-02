@@ -26,9 +26,9 @@ sidebar_sort_order: 2
 
 **Huang, Wei**, and Chuanchuan Zhang. [**The Power of Social Pensions: Evidence from China's New Rural Pension Scheme.**](https://www.aeaweb.org/articles?id=10.1257/app.20170789) ***American Economic Journal: Applied Economics*** 13, no. 2 (2021): 179-205.
 
-Dai, Mi, **Wei Huang***, and Yifan Zhang. [**How Do Households Adjust to Tariff Liberalization? Evidence from China's WTO Accession.**](https://www.sciencedirect.com/science/article/abs/pii/S0304387821000055) ***Journal of Development Economics*** 150 (2021): 102628.
+Dai, Mi, **Wei Huang**, and Yifan Zhang. [**How Do Households Adjust to Tariff Liberalization? Evidence from China's WTO Accession.**](https://www.sciencedirect.com/science/article/abs/pii/S0304387821000055) ***Journal of Development Economics*** 150 (2021): 102628.
 
-Dai, Mi, **Wei Huang***, and Yifan Zhang. [**Persistent Effects of Initial Labor Market Conditions: The Case of China's Tariff Liberalization after WTO Accession.**](https://www.sciencedirect.com/science/article/abs/pii/S0167268120302584) ***Journal of Economic Behavior & Organization*** 178 (2020): 566-581.
+Dai, Mi, **Wei Huang**, and Yifan Zhang. [**Persistent Effects of Initial Labor Market Conditions: The Case of China's Tariff Liberalization after WTO Accession.**](https://www.sciencedirect.com/science/article/abs/pii/S0167268120302584) ***Journal of Economic Behavior & Organization*** 178 (2020): 566-581.
 
 Glaeser, Edward, **Wei Huang**, Yueran Ma, and Andrei Shleifer. [**A Real Estate Boom with Chinese Characteristics.**](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.93) ***Journal of Economic Perspectives*** 31, no. 1 (2017): 93-116.
 
