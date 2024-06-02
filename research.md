@@ -13,8 +13,7 @@ sidebar_sort_order: 2
 
 **Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Accepted by *Journal of Human Resources*.
 
-[**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332)
- with Yi Zhou and Yinghao Pan, *The Review of Economics and Statistics*, Forthcoming.
+**Wei Huang, Yinghao Pan, Yi Zhou; [One-Child Policy, Marriage Distortion and Welfare Loss.](https://doi.org/10.1162/rest_a_01332) *The Review of Economics and Statistics***; Forthcoming, doi: https://doi.org/10.1162/rest_a_01332
 
 [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) with Xiaoyan Lei, Guangjun Shen, and Ang Sun, *Journal of Human Resources*, Forthcoming.
 
