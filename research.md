@@ -57,19 +57,19 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Impact of Tenure Track System on Academic Research: Evidence from Chinese Universities.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng. Revision Requested at *Journal of Labor Economics*.
 
-**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Revision Requested at *Journal of Population Economics*.
-
 **How Do Public Pensions Change Eldercare and Social Customs with Son Preference: Evidence from China.** with Naijia Guo and Ruixin Wang. Revision Requested at *Journal of Development Economics*.
 
 **How Does Undervaluation in Medical Savings Accounts (MSAs) Affect Healthcare Utilization? Evidence from Administrative Data in China.** with Xiaoyan Lei and Yuqi Ta. Revision Requested at *Journal of Health Economics*.
-
-**Economic Policy Uncertainty, Health Status, and Mortality.** with Xiaoyan Lei and Miao Yu, Revision Requested at *Social Science & Medicine*.
 
 **Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.** with Yuqi Ta and Boxian Wang. Revision Requested at *Journal of Development Economics*.
 
 **Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Yueping Song, Yiping Wang, and Hantao Wu. Revision Requested at *Journal of Public Economics*.
 
-**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
+**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Revision Requested at *Journal of Population Economics*.
+
+**Economic Policy Uncertainty, Health Status, and Mortality.** with Xiaoyan Lei and Miao Yu, Revision Requested at *Social Science & Medicine*.
+
+**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. 
 
 **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
