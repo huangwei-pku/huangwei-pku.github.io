@@ -9,7 +9,11 @@ sidebar_sort_order: 2
 
 ### Publications & Forthcoming
 
-**The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang. Conditionally Accepted by ***Journal of Economic Behavior & Organization***.
+**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Conditionally Accepted by *Journal of Population Economics*.
+
+**Economic Policy Uncertainty, Health Status, and Mortality.** with Xiaoyan Lei and Miao Yu. Accepted by *Social Science & Medicine*.
+
+**The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang. Accepted by ***Journal of Economic Behavior & Organization***.
 
 **Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Accepted by ***Journal of Human Resources***.
 
@@ -55,21 +59,19 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 ### Working Papers
 
-**Impact of Tenure Track System on Academic Research: Evidence from Chinese Universities.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng. Revision Requested at *Journal of Labor Economics*.
-
 **How Do Public Pensions Change Eldercare and Social Customs with Son Preference: Evidence from China.** with Naijia Guo and Ruixin Wang. Revision Requested at *Journal of Development Economics*.
 
 **How Does Undervaluation in Medical Savings Accounts (MSAs) Affect Healthcare Utilization? Evidence from Administrative Data in China.** with Xiaoyan Lei and Yuqi Ta. Revision Requested at *Journal of Health Economics*.
 
-**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.** with Yuqi Ta and Boxian Wang. Revision Requested at *Journal of Development Economics*.
-
 **Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Yueping Song, Yiping Wang, and Hantao Wu. Revision Requested at *Journal of Public Economics*.
 
-**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Revision Requested at *Journal of Population Economics*.
+**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.** with Yuqi Ta and Boxian Wang. Revision Requested at *Journal of Development Economics*.
 
-**Economic Policy Uncertainty, Health Status, and Mortality.** with Xiaoyan Lei and Miao Yu, Revision Requested at *Social Science & Medicine*.
+**Impact of Tenure Track System on Academic Research: Evidence from Chinese Universities.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng. (Under Review)
 
-**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. 
+**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
+
+**Gender Peer Effects and Social Determinants in a High-Stakes Examination.** with Xinzheng Shi and Ming-ang Zhang. (Under Review)
 
 **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
@@ -87,7 +89,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Too Busy to Be Cured?** with Xiangyuan Ding, Yuqi Ta and Yi Zhou.
 
-**Gender Peer Effects and Social Determinants in a High-Stakes Examination.** with Xinzheng Shi and Ming-ang Zhang. 
 
 **Digital Technology, Elderly Support, and Health: Evidence from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. 
 
@@ -99,7 +100,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 **The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China.**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
 
 **Internet Connection, Development and Social Multiplier Effect: Evidence from Rural China.** with Yiping Wang, and Hantao Wu.
-
 
 
 ### Book Chapters
