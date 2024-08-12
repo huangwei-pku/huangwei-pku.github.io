@@ -89,7 +89,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Too Busy to Be Cured?** with Xiangyuan Ding, Yuqi Ta and Yi Zhou.
 
-
 **Digital Technology, Elderly Support, and Health: Evidence from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. 
 
 **Stock Market Crash, Peer Stockholding, and Household Potfolio Choice.** with Yanfei Dong, and Yiping Huang. (Under Review)
@@ -104,5 +103,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 ### Book Chapters
 
-Freeman, Richard B, and Wei Huang. 2015. “China's “Great Leap Forward” in Science and Engineering”. In Global Mobility of Research Scientists: The Economics of Who Goes Where and Why, ed. AIdo Geuna. Elsevier Inc, p. 155-175.
+Holzer, Harry J., and Wei Huang. "Richard B. Freeman (1943–)." The Palgrave Companion to Harvard Economics. Cham: Springer International Publishing, 2024. 731-754.
 
+Freeman, Richard B., and Wei Huang. "China’s “Great Leap Forward” in science and engineering." Global Mobility of Research Scientists. Academic Press, 2015. 155-175.
