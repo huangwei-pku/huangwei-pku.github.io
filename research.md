@@ -103,6 +103,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 ### Book Chapters
 
-Holzer, Harry J., and Wei Huang. "Richard B. Freeman (1943–)." The Palgrave Companion to Harvard Economics. Cham: Springer International Publishing, 2024. 731-754.
+Holzer, Harry J., and **Wei Huang**. "Richard B. Freeman (1943–)." ***The Palgrave Companion to Harvard Economics.*** Cham: Springer International Publishing, 2024. 731-754.
 
-Freeman, Richard B., and Wei Huang. "China’s “Great Leap Forward” in science and engineering." Global Mobility of Research Scientists. Academic Press, 2015. 155-175.
+Freeman, Richard B., and **Wei Huang**. "China’s “Great Leap Forward” in Science and Engineering." ***Global Mobility of Research Scientists***. Academic Press, 2015. 155-175.
