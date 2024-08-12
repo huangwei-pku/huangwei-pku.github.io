@@ -87,9 +87,9 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations.** with Chen Cheng and Yiqing Xing. (Under Review)
 
-**Too Busy to Be Cured?** with Xiangyuan Ding, Yuqi Ta and Yi Zhou.
+**Too Busy to be Cured? Impacts of the Opportunity Cost of Time on Healthcare Utilization.** with Xiangyuan Ding, Yuqi Ta and Yi Zhou.
 
-**Digital Technology, Elderly Support, and Health: Evidence from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. 
+**Connecting the Elderly: Health Benefits and Social Support from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. 
 
 **Stock Market Crash, Peer Stockholding, and Household Potfolio Choice.** with Yanfei Dong, and Yiping Huang. (Under Review)
 
