@@ -8,10 +8,11 @@ sidebar_sort_order: 2
 
 
 ### Publications & Forthcoming
+**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.** with Mi Luo, Yuqi Ta, and Boxian Wang. Accepted by ***Journal of Development Economics***.
 
-**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Conditionally Accepted by *Journal of Population Economics*.
+**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Accepted by ***Journal of Population Economics***.
 
-**Economic Policy Uncertainty, Health Status, and Mortality.** with Xiaoyan Lei and Miao Yu. Accepted by *Social Science & Medicine*.
+**Economic Policy Uncertainty, Health Status, and Mortality.** with Xiaoyan Lei and Miao Yu. Accepted by ***Social Science & Medicine***.
 
 **The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang. Accepted by ***Journal of Economic Behavior & Organization***.
 
@@ -65,8 +66,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Yueping Song, Yiping Wang, and Hantao Wu. Revision Requested at *Journal of Public Economics*.
 
-**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.** with Yuqi Ta and Boxian Wang. Revision Requested at *Journal of Development Economics*.
-
 **Impact of Tenure Track System on Academic Research: Evidence from Chinese Universities.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng. (Under Review)
 
 **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
@@ -96,7 +95,7 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 ### Working in Progress
 
-**The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China.**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
+**The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China.** with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
 
 **Internet Connection, Development and Social Multiplier Effect: Evidence from Rural China.** with Yiping Wang, and Hantao Wu.
 
