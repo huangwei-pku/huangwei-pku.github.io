@@ -52,11 +52,13 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 
 
 ### Grants and Projects
+2024 Planned Textbook Econometrics: Applied Micro Perspectives and Chinese Cases 2024年规划教材项目 《计量经济学：应用微观视角及中国案例》 (PI)
+
 2024-2027 Human Capital Externalities and High-Quality Economic Growth: Phenomena, Mechanisms and Impacts, NSFC  General Program 自科面上项目: 人力资本外部性与经济高质量增长：现象、机制和影响 (PI)
 
-2024-2025 Peking University Fourth Batch of AI-Enhanced Curriculum Development Project (General Project): Development of an Auxiliary Teaching System Based on Large Language Models 北京大学第四批（2024年）人工智能助推课程建设项目(一般项目): 基于大语言模型的辅助教学体系建设
+2024-2025 Peking University Fourth Batch of AI-Enhanced Curriculum Development Project (General Project): Development of an Auxiliary Teaching System Based on Large Language Models 北京大学第四批（2024年）人工智能助推课程建设项目(一般项目): 基于大语言模型的辅助教学体系建设 (PI)
 
-2023-2024 Peking University Tong Shan Education Fund Research Grant Project (Key Project): The Long-Term Individual Impact of the Sino-Japanese War 北京大学桐山教育基金研究资助课题(重点项目):中日战争的个体长期影响
+2023-2024 Peking University Tong Shan Education Fund Research Grant Project (Key Project): The Long-Term Individual Impact of the Sino-Japanese War 北京大学桐山教育基金研究资助课题(重点项目):中日战争的个体长期影响 (PI)
 
 2023-2025 Empowering Digital Economy, Enhancing Human Capital, and Online Shopping Consumption, Peking University Digital Finance Research Center 北京大学数字金融研究中心课题：数字经济赋能、人力资本提升与网购消费 (PI)
 
