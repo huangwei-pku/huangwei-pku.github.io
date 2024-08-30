@@ -8,7 +8,6 @@ sidebar_sort_order: 2
 
 
 ### Publications & Forthcoming
-[**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.**](https://authors.elsevier.com/sd/article/S0304-3878(24)00107-X) with Mi Luo, Yuqi Ta, and Boxian Wang. Accepted by ***Journal of Development Economics***.
 
 **Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Accepted by ***Journal of Population Economics***.
 
@@ -17,6 +16,8 @@ sidebar_sort_order: 2
 **The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang. Accepted by ***Journal of Economic Behavior & Organization***.
 
 **Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Accepted by ***Journal of Human Resources***.
+
+**Huang, Wei**, Mi Luo, Yuqi Ta, and Boxian Wang. [**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.**](https://doi.org/10.1016/j.jdeveco.2024.103358) ***Journal of Development Economics*** (2024): 103358.
 
 **Huang, Wei**, Yinghao Pan, and Yi Zhou.  [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332) ***The Review of Economics and Statistics*** (Forthcoming). doi: https://doi.org/10.1162/rest_a_01332
 
