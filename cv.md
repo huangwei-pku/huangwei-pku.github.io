@@ -52,6 +52,8 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 
 
 ### Grants and Projects
+2024 Special Project on Digital and Humanities: Digital Economy Empowering Human Capital and High-Quality Economic Development 2024年数字与人文专项课题：数字经济赋能人力资本与经济高质量发展 (PI)
+
 2024 Planned Textbook Econometrics: Applied Micro Perspectives and Chinese Cases 2024年规划教材项目 《计量经济学：应用微观视角及中国案例》 (PI)
 
 2024-2027 Human Capital Externalities and High-Quality Economic Growth: Phenomena, Mechanisms and Impacts, NSFC  General Program 自科面上项目: 人力资本外部性与经济高质量增长：现象、机制和影响 (PI)
