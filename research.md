@@ -9,6 +9,8 @@ sidebar_sort_order: 2
 
 ### Publications & Forthcoming
 
+**Public Pensions and Family Dynamics: Eldercare, Child Investment, and Son Preference in Rural China.** with Naijia Guo and Ruixin Wang. Accepted by ***Journal of Development Economics***.
+
 **How Does Undervaluation in Medical Savings Accounts (MSAs) Affect Healthcare Utilization? Evidence from Administrative Data in China.** with Xiaoyan Lei and Yuqi Ta. Accepted by ***Journal of Health Economics***.
 
 **Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Accepted by ***Journal of Population Economics***.
@@ -62,8 +64,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 
 ### Working Papers
-
-**How Do Public Pensions Change Eldercare and Social Customs with Son Preference: Evidence from China.** with Naijia Guo and Ruixin Wang. Revision Requested at *Journal of Development Economics*.
 
 **Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Yueping Song, Yiping Wang, and Hantao Wu. Revision Requested at *Journal of Public Economics*.
 
