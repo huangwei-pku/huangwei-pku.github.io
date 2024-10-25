@@ -9,9 +9,9 @@ sidebar_sort_order: 2
 
 ### Publications & Forthcoming
 
-**Public Pensions and Family Dynamics: Eldercare, Child Investment, and Son Preference in Rural China.** with Naijia Guo and Ruixin Wang. Accepted by ***Journal of Development Economics***.
-
 **How Does Undervaluation in Medical Savings Accounts (MSAs) Affect Healthcare Utilization? Evidence from Administrative Data in China.** with Xiaoyan Lei and Yuqi Ta. Accepted by ***Journal of Health Economics***.
+
+[**Public Pensions and Family Dynamics: Eldercare, Child Investment, and Son Preference in Rural China.**](https://doi.org/10.1016/j.jdeveco.2024.103390) with Naijia Guo and Ruixin Wang. Accepted by ***Journal of Development Economics***.
 
 **Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Accepted by ***Journal of Population Economics***.
 
