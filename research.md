@@ -11,21 +11,21 @@ sidebar_sort_order: 2
 
 **How Does Undervaluation in Medical Savings Accounts (MSAs) Affect Healthcare Utilization? Evidence from Administrative Data in China.** with Xiaoyan Lei and Yuqi Ta. Accepted by ***Journal of Health Economics***.
 
-[**Public Pensions and Family Dynamics: Eldercare, Child Investment, and Son Preference in Rural China.**](https://doi.org/10.1016/j.jdeveco.2024.103390) with Naijia Guo and Ruixin Wang. Accepted by ***Journal of Development Economics***.
-
 **Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Accepted by ***Journal of Population Economics***.
 
-[**Economic Policy Uncertainty, Health Status, and Mortality.**](https://authors.elsevier.com/sd/article/S0277-9536(24)00680-4) with Xiaoyan Lei and Miao Yu. Accepted by ***Social Science & Medicine***.
-
-[**The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.**](https://doi.org/10.1016/j.jebo.2024.106771) with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang. Accepted by ***Journal of Economic Behavior & Organization***.
-
-[**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3) with Albert Park and Wei Luo, Accepted by ***Journal of Human Resources***.
-
-**Huang, Wei**, Mi Luo, Yuqi Ta, and Boxian Wang. [**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.**](https://doi.org/10.1016/j.jdeveco.2024.103358) ***Journal of Development Economics*** (2024): 103358.
+Luo, Wei,**Wei Huang*,** and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3
 
 **Huang, Wei**, Yinghao Pan, and Yi Zhou.  [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332) ***The Review of Economics and Statistics*** (Forthcoming). doi: https://doi.org/10.1162/rest_a_01332
 
-**Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (Forthcoming).  DOI: https://doi.org/10.3368/jhr.0220-10720R4
+**Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.0220-10720R4
+
+Guo, Naijia, **Wei Huang*,** and Ruixin Wang. [**Public Pensions and Family Dynamics: Eldercare, Child Investment, and Son Preference in Rural China.**](https://doi.org/10.1016/j.jdeveco.2024.103390) ***Journal of Development Economics*** (2025): 103390.
+
+**Huang, Wei**, Mi Luo, Yuqi Ta, and Boxian Wang. [**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.**](https://doi.org/10.1016/j.jdeveco.2024.103358) ***Journal of Development Economics*** (2024): 103358.
+
+**Huang, Wei**, Xiaoyan Lei, and Miao Yu. [**Economic Policy Uncertainty, Health Status, and Mortality.**](https://doi.org/10.1016/j.socscimed.2024.117227)  ***Social Science & Medicine*** (2024): 117227.
+
+Hu, Zhi-An, **Wei Huang*,** Wei Luo, Wuyue You, and Chuanchuan Zhang. [**The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.**](https://doi.org/10.1016/j.jebo.2024.106771) ***Journal of Economic Behavior & Organization*** 228 (2024): 106771.
 
 **Huang, Wei**, Teng Li, Yinghao Pan, and Jinyang Ren. [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.**](https://www.sciencedirect.com/science/article/pii/S0167268123003128) ***Journal of Economic Behavior & Organization*** 214 (2023): 747-781.
 
@@ -36,7 +36,7 @@ sidebar_sort_order: 2
 
 **Huang, Wei**, and Chuanchuan Zhang. [**The Power of Social Pensions: Evidence from China's New Rural Pension Scheme.**](https://www.aeaweb.org/articles?id=10.1257/app.20170789) ***American Economic Journal: Applied Economics*** 13, no. 2 (2021): 179-205.
 
-Dai, Mi, **Wei Huang**, and Yifan Zhang. [**How Do Households Adjust to Tariff Liberalization? Evidence from China's WTO Accession.**](https://www.sciencedirect.com/science/article/abs/pii/S0304387821000055) ***Journal of Development Economics*** 150 (2021): 102628.
+Dai, Mi, **Wei Huang*,** and Yifan Zhang. [**How Do Households Adjust to Tariff Liberalization? Evidence from China's WTO Accession.**](https://www.sciencedirect.com/science/article/abs/pii/S0304387821000055) ***Journal of Development Economics*** 150 (2021): 102628.
 
 Dai, Mi, **Wei Huang**, and Yifan Zhang. [**Persistent Effects of Initial Labor Market Conditions: The Case of China's Tariff Liberalization after WTO Accession.**](https://www.sciencedirect.com/science/article/abs/pii/S0167268120302584) ***Journal of Economic Behavior & Organization*** 178 (2020): 566-581.
 
