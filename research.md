@@ -13,7 +13,7 @@ sidebar_sort_order: 2
 
 **Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou. Accepted by ***Journal of Population Economics***.
 
-Luo, Wei,**Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3
+Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3
 
 **Huang, Wei**, Yinghao Pan, and Yi Zhou.  [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332) ***The Review of Economics and Statistics*** (Forthcoming). doi: https://doi.org/10.1162/rest_a_01332
 
