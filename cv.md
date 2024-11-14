@@ -30,11 +30,13 @@ B.S. in Physics and B.A. in Economics with distinction, Peking University, 2008
 
 Editor, Economics of Transition, 2018 - Present
 
+Associated Editor, Journal of Health Economics, 2025 - Present
+
+Associated Editor, Journal of Economic Behavior & Organization, 2023 - Present
+
 Associated Editor, China Economic Review, 2021 - Present
 
-Guest Editor, China Economic Review, 2021
-
-Guest Editor, Journal of Asian Economics, 2021
+Guest Editor, China Economic Review, Journal of Asian Economics, 2021
 
 Fellow, China Center for Economics of Human Development, 2018 - Present
 
