@@ -13,7 +13,7 @@ sidebar_sort_order: 2
 
 Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3
 
-**Huang, Wei**, Yinghao Pan, and Yi Zhou.  [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332) ***The Review of Economics and Statistics*** (Forthcoming). doi: https://doi.org/10.1162/rest_a_01332
+**Huang, Wei**, Yinghao Pan,* and Yi Zhou.*  [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332) ***The Review of Economics and Statistics*** (Forthcoming). doi: https://doi.org/10.1162/rest_a_01332
 
 **Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.0220-10720R4
 
@@ -21,18 +21,18 @@ Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Ear
 
 Guo, Naijia, **Wei Huang**,* and Ruixin Wang. [**Public Pensions and Family Dynamics: Eldercare, Child Investment, and Son Preference in Rural China.**](https://doi.org/10.1016/j.jdeveco.2024.103390) ***Journal of Development Economics*** (2025): 103390.
 
-**Huang, Wei**, Mi Luo, Yuqi Ta, and Boxian Wang. [**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.**](https://doi.org/10.1016/j.jdeveco.2024.103358) ***Journal of Development Economics*** (2024): 103358.
+**Huang, Wei**, Mi Luo, Yuqi Ta,* and Boxian Wang. [**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.**](https://doi.org/10.1016/j.jdeveco.2024.103358) ***Journal of Development Economics*** (2024): 103358.
 
-**Huang, Wei**, Xiaoyan Lei, and Miao Yu. [**Economic Policy Uncertainty, Health Status, and Mortality.**](https://doi.org/10.1016/j.socscimed.2024.117227)  ***Social Science & Medicine*** (2024): 117227.
+**Huang, Wei**, Xiaoyan Lei,* and Miao Yu.* [**Economic Policy Uncertainty, Health Status, and Mortality.**](https://doi.org/10.1016/j.socscimed.2024.117227)  ***Social Science & Medicine*** (2024): 117227.
 
-Hu, Zhi-An, **Wei Huang**,* Wei Luo, Wuyue You, and Chuanchuan Zhang. [**The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.**](https://doi.org/10.1016/j.jebo.2024.106771) ***Journal of Economic Behavior & Organization*** 228 (2024): 106771.
+Hu, Zhi-An, **Wei Huang**,* Wei Luo,* Wuyue You,* and Chuanchuan Zhang.* [**The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.**](https://doi.org/10.1016/j.jebo.2024.106771) ***Journal of Economic Behavior & Organization*** 228 (2024): 106771.
 
-**Huang, Wei**, Teng Li, Yinghao Pan, and Jinyang Ren. [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.**](https://www.sciencedirect.com/science/article/pii/S0167268123003128) ***Journal of Economic Behavior & Organization*** 214 (2023): 747-781.
+**Huang, Wei**, Teng Li,* Yinghao Pan, and Jinyang Ren. [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.**](https://www.sciencedirect.com/science/article/pii/S0167268123003128) ***Journal of Economic Behavior & Organization*** 214 (2023): 747-781.
 
-**Huang, Wei**, and Hong Liu. [**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.**](https://doi.org/10.1016/j.jdeveco.2022.102925) ***Journal of Development Economics*** 160 (2023): 102925.
+**Huang, Wei**, and Hong Liu.* [**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.**](https://doi.org/10.1016/j.jdeveco.2022.102925) ***Journal of Development Economics*** 160 (2023): 102925.
 
 
-**Huang, Wei**, Xiaoyan Lei, and Ang Sun. [**Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China.**](https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext) ***The Review of Economics and Statistics*** 103, no. 4 (2021): 694-710.
+**Huang, Wei**, Xiaoyan Lei, and Ang Sun.* [**Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China.**](https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext) ***The Review of Economics and Statistics*** 103, no. 4 (2021): 694-710.
 
 **Huang, Wei**, and Chuanchuan Zhang. [**The Power of Social Pensions: Evidence from China's New Rural Pension Scheme.**](https://www.aeaweb.org/articles?id=10.1257/app.20170789) ***American Economic Journal: Applied Economics*** 13, no. 2 (2021): 179-205.
 
@@ -44,7 +44,7 @@ Glaeser, Edward, **Wei Huang**, Yueran Ma, and Andrei Shleifer. [**A Real Estate
 
 **Huang, Wei**. **How does the One Child Policy Impact Social and Economic Outcomes?** IZA World of Labor (2017).
 
-**Huang, Wei**, Xiaoyan Lei, and Yaohui Zhao. [**One-Child Policy and the Rise of Man-made Twins.**](https://direct.mit.edu/rest/article-abstract/98/3/467/58356/One-Child-Policy-and-the-Rise-of-Man-Made-Twins?redirectedFrom=fulltext) ***The Review of Economics and Statistics*** 98, no. 3 (2016): 467-476.
+**Huang, Wei**, Xiaoyan Lei,* and Yaohui Zhao. [**One-Child Policy and the Rise of Man-made Twins.**](https://direct.mit.edu/rest/article-abstract/98/3/467/58356/One-Child-Policy-and-the-Rise-of-Man-Made-Twins?redirectedFrom=fulltext) ***The Review of Economics and Statistics*** 98, no. 3 (2016): 467-476.
 
 Freeman, Richard B., and **Wei Huang**. [**Collaborating With People Like Me: Ethnic Co-authorship within the US.**](https://www.journals.uchicago.edu/doi/abs/10.1086/678973)  ***Journal of Labor Economics*** 33, no. S1 (2015): S289-S318.
 
@@ -54,7 +54,7 @@ Cutler, David M., **Wei Huang**, and Adriana Lleras-Muney. [**When Does Educatio
 
 Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.**](https://www.nature.com/articles/513305a) ***Nature*** 513, no. 7518 (2014): 305-305.
 
-**Huang, Wei**, and Yi Zhou. [**Effects of Education on Cognition at Older Ages: Evidence from China's Great Famine.**](https://www.sciencedirect.com/science/article/abs/pii/S0277953613004735) ***Social Science & Medicine*** 98 (2013): 54-62.
+**Huang, Wei**, and Yi Zhou.* [**Effects of Education on Cognition at Older Ages: Evidence from China's Great Famine.**](https://www.sciencedirect.com/science/article/abs/pii/S0277953613004735) ***Social Science & Medicine*** 98 (2013): 54-62.
 
 
 **Huang, Wei**, Xiaoyan Lei, Geert Ridder, John Strauss, and Yaohui Zhao. [**Health, Height, Height Shrinkage, and SES at Older Ages: Evidence from China.**](https://www.aeaweb.org/articles?id=10.1257/app.5.2.86) ***American Economic Journal: Applied Economics*** 5, no. 2 (2013): 86-121.
