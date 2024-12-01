@@ -62,16 +62,15 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 
 
-
 ### Working Papers
 
-**Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Yueping Song, Yiping Wang, and Hantao Wu. Revision Requested at ***Journal of Public Economics***.
+**Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Mi Luo, Yueping Song, Yiping Wang, and Hantao Wu. Revision Requested at ***Journal of Public Economics***.
 
 **Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng. Revision Requested at ***Economic Journal***.
 
-**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
+**Gender Peer Effects and Social Determinants in a High-Stakes Examination.** with Xinzheng Shi and Ming-ang Zhang. Revision Requested at ***Journal of Development Economics***.
 
-**Gender Peer Effects and Social Determinants in a High-Stakes Examination.** with Xinzheng Shi and Ming-ang Zhang. (Under Review)
+**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
 
 **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
