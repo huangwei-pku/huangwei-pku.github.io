@@ -54,6 +54,9 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 
 
 ### Grants and Projects
+
+2024 PI of of the Major Social Science Project “Policy System and Incentive Mechanisms for Fertility Support in the Context of a Fertility-Friendly Society" 社科重大专项“生育友好型社会背景下生育支持政策体系和激励机制研究”课题负责人 (PI)
+
 2024 Subproject PI of the Major Social Science Project "Research on the Primary Focus and Policy Support for Accelerating the Formation of New-Quality Productivity" 社科重大项目“加快形成新质生产力的主攻方向与政策保障研究”子课题负责人 (Subproject PI) 
 
 2024 Special Project on Digital and Humanities: Digital Economy Empowering Human Capital and High-Quality Economic Development 2024年数字与人文专项课题：数字经济赋能人力资本与经济高质量发展 (PI)
