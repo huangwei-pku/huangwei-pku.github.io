@@ -28,29 +28,32 @@ B.S. in Physics and B.A. in Economics with distinction, Peking University, 2008
 
 ### Academic Affiliations and Other Employment
 
-Editor, Economics of Transition, 2018 - Present
+Co-Editor, Economics of Transition and Institutional Change, 2018 - Present
 
-Associated Editor, Journal of Health Economics, 2025 - Present
+Associate Editor, Journal of Health Economics, 2025 – Present
 
-Associated Editor, Journal of Economic Behavior & Organization, 2023 - Present
+Associate Editor, Journal of Economics & Behavior Organization, 2023 – Present
 
-Associated Editor, China Economic Review, 2021 - Present
+Associate Editor, China Economic Quarterly (Chinese), 2022 – Present
 
-Guest Editor, China Economic Review, Journal of Asian Economics, 2021
+Associate Editor, China Economic Review, Journal of Asian Economics, 2021 – Present
 
-Fellow, China Center for Economics of Human Development, 2018 - Present
+Guest Editor, Journal of Asian Economics, China Economic Review, 2021
 
 Research Fellow, The Institute for the Study of Labor (IZA), 2014 – Present
+
+ Fellow, China Center for Economics of Human Development, 2018 - 2020 
 
 Board of Directors, The Chinese Economists Society (CES), 2016 – 2017
 
 NBER Pre-Doctoral Fellow in Aging and Health Economics, 2013 – 2014
 
-Inequality Doctoral Fellow at Harvard Kennedy School, 2013 – 2016
-
-Wertheim Fellow, Labor and Worklife Program, Harvard University, 2013 – 2015
+Inequality Doctoral Fellow at Harvard Kennedy School, 2013 – 2014
+ 
+Wertheim Fellow, Labor and Worklife Program, Harvard University, 2013 – 2015 
 
 Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
+
 
 
 ### Grants and Projects
