@@ -58,39 +58,40 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 
 ### Grants and Projects
 
-2024 PI of of the Major Social Science Project “Policy System and Incentive Mechanisms for Fertility Support in the Context of a Fertility-Friendly Society" 社科重大专项“生育友好型社会背景下生育支持政策体系和激励机制研究”课题负责人 (PI)
+2024 Major Social Science Project “Policy System and Incentive Mechanisms for Fertility Support in the Context of a Fertility-Friendly Society” (PI) 社科重大专项“生育友好型社会背景下生育支持政策体系和激励机制研究” (负责人)
 
-2024 Subproject PI of the Major Social Science Project "Research on the Primary Focus and Policy Support for Accelerating the Formation of New-Quality Productivity" 社科重大项目“加快形成新质生产力的主攻方向与政策保障研究”子课题负责人 (Subproject PI) 
+2024 Major Social Science Project “Research on the Primary Focus and Policy Support for Accelerating the Formation of New-Quality Productivity” (Subproject PI) 社科重大项目“加快形成新质生产力的主攻方向与政策保障研究” (子课题负责人 )
 
-2024 Special Project on Digital and Humanities: Digital Economy Empowering Human Capital and High-Quality Economic Development 2024年数字与人文专项课题：数字经济赋能人力资本与经济高质量发展 (PI)
+2024 Special Project on Digital and Humanities: Digital Economy Empowering Human Capital and High-Quality Economic Development (PI) 2024年数字与人文专项课题：数字经济赋能人力资本与经济高质量发展 (负责人)
 
-2024 Planned Textbook Econometrics: Applied Micro Perspectives and Chinese Cases 2024年规划教材项目 《计量经济学：应用微观视角及中国案例》 (PI)
+2024 Planned Textbook Econometrics: Applied Micro Perspectives and Chinese Cases (PI) 2024年规划教材项目 《计量经济学：应用微观视角及中国案例》(负责人)
 
-2024-2027 Human Capital Externalities and High-Quality Economic Growth: Phenomena, Mechanisms and Impacts, NSFC  General Program 自科面上项目: 人力资本外部性与经济高质量增长：现象、机制和影响 (PI)
+2024-2027 NSFC General Program: Human Capital Externalities and High-Quality Economic Growth: Phenomena, Mechanisms and Impacts (PI) 自科面上项目: 人力资本外部性与经济高质量增长：现象、机制和影响 (负责人)
 
-2024-2025 Peking University Fourth Batch of AI-Enhanced Curriculum Development Project (General Project): Development of an Auxiliary Teaching System Based on Large Language Models 北京大学第四批（2024年）人工智能助推课程建设项目(一般项目): 基于大语言模型的辅助教学体系建设 (PI)
+2024-2025 Peking University Fourth Batch of AI-Enhanced Curriculum Development Project (General Project): Development of an Auxiliary Teaching System Based on Large Language Models (PI) 北京大学第四批（2024年）人工智能助推课程建设项目(一般项目): 基于大语言模型的辅助教学体系建设 (负责人)
 
-2023-2024 Peking University Tong Shan Education Fund Research Grant Project (Key Project): The Long-Term Individual Impact of the Sino-Japanese War 北京大学桐山教育基金研究资助课题(重点项目): 中日战争的个体长期影响 (PI)
+2023-2024 Peking University Tong Shan Education Fund Research Grant Project (Key Project): The Long-Term Individual Impact of the Sino-Japanese War (PI) 北京大学桐山教育基金研究资助课题(重点项目): 中日战争的个体长期影响 (负责人)
 
-2024-2025 Empowering Digital Economy, Enhancing Human Capital, and Online Shopping Consumption, Peking University Digital Finance Research Center 北京大学数字金融研究中心课题：数字经济赋能、人力资本提升与网购消费 (PI)
+2024-2025 Empowering Digital Economy, Enhancing Human Capital, and Online Shopping Consumption, Peking University Digital Finance Research Center (PI) 北京大学数字金融研究中心课题：数字经济赋能、人力资本提升与网购消费 (负责人)
 
 2024-2025 ADB-PRC project：Responding to Demographic Pressures by Strengthening the Policy Framework Addressing the Low Fertility Landscape (Team Leader)
 
-2024 Undergraduate Education Reform Project："Practical Reform of the 'Economic Research Training' Course"  北京大学24年本科教改项目-《经济学研究训练》课程实践化改革  (PI)
+2024 Undergraduate Education Reform Project: Practical Reform of the ‘Economic Research Training’ Course (PI)  北京大学24年本科教改项目-《经济学研究训练》课程实践化改革 (负责人)
 
-2023-2026 An Economic Analysis and Public Policy Assessment of China's Declining Birthrate and Aging Population, NSFC Distinguished Young Scholars (Overseas) 海外优青项目：中国少子化和老龄化的经济学分析与公共政策评估 (PI)
+2023-2026 An Economic Analysis and Public Policy Assessment of China’s Declining Birthrate and Aging Population, NSFC Distinguished Young Scholars (Overseas) (PI) 海外优青项目：中国少子化和老龄化的经济学分析与公共政策评估 (负责人)
 
-2023 Undergraduate Education Reform Project： "Exploring the Reform of the 'Econometrics' Course" 北京大学23年本科教改项目-《计量经济学》课程改革探索  (PI)
+2023 Undergraduate Education Reform Project: Exploring the Reform of the ‘Econometrics’ Course (PI) 北京大学23年本科教改项目-《计量经济学》课程改革探索 (负责人)
 
-2023-2024 Digital Finance, Retirement Shock, and Asset Allocation among Middle-aged and Elderly, Peking University Digital Finance Research Center 北京大学数字金融研究中心课题：数字金融、退休冲击与中老年资产配置 (PI)
+2023-2024 Digital Finance, Retirement Shock, and Asset Allocation among Middle-aged and Elderly, Peking University Digital Finance Research Center (PI) 北京大学数字金融研究中心课题：数字金融、退休冲击与中老年资产配置 (负责人)
 
-2023-2024 Research on Population Development Strategy: Classification and Estimation of the Cost of Childbearing in China, National Health Commission of the People's Republic of China (人口发展战略研究——我国生育代价的分类和估算, 卫健委) (PI) 
+2023-2024 Research on Population Development Strategy: Classification and Estimation of the Cost of Childbearing in China, National Health Commission of the People’s Republic of China (PI)  中国卫健委 人口发展战略研究——我国生育代价的分类和估算 (负责人)
 
-2023 Teaching Project for the Graduate Course "Empirical Strategies" at Peking University 2023年北京大学研究生课程《实证策略》建设立项（CI）
+2023 Teaching Project for the Graduate Course “Empirical Strategies” at Peking University (PI) 2023年北京大学研究生课程《实证策略》建设立项 (负责人)
 
-2022-2024 Policy Analysis for Healthy Aging in China, Peking University Start-up Fund 北京大学学科建设项目, 中国健康医疗养老政策实证研究 (PI)
+2022-2024 Policy Analysis for Healthy Aging in China, Peking University Start-up Fund (PI) 北京大学学科建设项目, 中国健康医疗养老政策实证研究 (负责人)
 
 2017-2021 Public Policies, Human Capital, and Social Welfare Outcomes, NUS Start-up Fund (PI)
+
 
 ### Honors and Awards  
 2024 The 9th Outstanding Scientific Research Achievement Award for Higher Education Institutions (Humanities and Social Sciences) - Young Achievers Award 第九届高等学校科学研究优秀成果奖(人文社会科学)-青年成果奖
