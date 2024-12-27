@@ -65,11 +65,13 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 ### Working Papers
 
-**Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Mi Luo, Yueping Song, Yiping Wang, and Hantao Wu. Revision Requested at ***Journal of Public Economics***.
+**Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Mi Luo, Yueping Song, Yiping Wang, Hantao Wu. Revision Requested at ***Journal of Public Economics***.
 
-**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng. Revision Requested at ***Economic Journal***.
+**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Revision Requested at ***Economic Journal***.
 
 **Gender Peer Effects and Social Determinants in a High-Stakes Examination.** with Xinzheng Shi and Ming-ang Zhang. Revision Requested at ***Journal of Development Economics***.
+
+**Tourism Growth, Education Decline: Evidence from China's 5A Attraction Expansion.** with Zeyi He, Zhi-an Hu, Yankun Kang. Revision Requested at ***Journal of Urban Economics***.
 
 **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
 
@@ -87,9 +89,9 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations.** with Chen Cheng and Yiqing Xing. (Under Review)
 
-**Too Busy to be Cured? Impacts of the Opportunity Cost of Time on Healthcare Utilization.** with Xiangyuan Ding, Yuqi Ta and Yi Zhou.
+**Beyond Money: Time Costs as a Determinant of Healthcare Utilization.** with Xiangyuan Ding, Yuqi Ta and Yi Zhou. (Under Review)
 
-**Connecting the Elderly: Health Benefits and Social Support from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. 
+**Connecting the Elderly: Health Benefits and Social Support from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. (Under Review)
 
 **Stock Market Crash, Peer Stockholding, and Household Potfolio Choice.** with Yanfei Dong, and Yiping Huang. (Under Review)
 
