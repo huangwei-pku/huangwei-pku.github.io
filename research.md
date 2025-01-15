@@ -65,17 +65,8 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 ### Working Papers
 
-<<<<<<< HEAD
-**Social Norms and the Impact of Early Life Events on Gender Inequality.** with Albert Park and Wei Luo, Revision Requested at *Journal of Human Resources*.
 
-**When Giving Hurts: Impact of Exposure to China’s Land Reform on Education Attainment and Labor Market Outcomes.** with Zhian Hu, Wei Luo, Wuyue You, and Chuanchuan Zhang, Revision Requested at *Journal of Economic Behavior & Organization*.
-
-**Impact of Tenure Track System on Academic Research: Evidence from Chinese Universities.** with Qingfeng Liu, Jianwei Xing, and Shilin Zheng, Revision Requested at *Journal of Labor Economics*.
-
-**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.** with Yiping Wang, Hantao Wu, and Yi Zhou, Revision Requested at *Journal of Population Economics*.
-=======
 **Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Mi Luo, Yueping Song, Yiping Wang, Hantao Wu. Revision Requested at ***Journal of Public Economics***.
->>>>>>> 5f038d975b36688035b1d863c09af8ae0b6ed072
 
 **Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Revision Requested at ***Economic Journal***.
 
@@ -85,60 +76,26 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
 
-<<<<<<< HEAD
-**Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Yueping Song, Yiping Wang, and Hantao Wu.  (Under review)
-=======
-**What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
-
-**How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China.** with Jin Feng, Hong Song, and Zhen Wang.
-
-**How Does Household Consumption Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China.** with Mi Luo, Yinghao Pan, and Hong Song. 
->>>>>>> 5f038d975b36688035b1d863c09af8ae0b6ed072
-
-**Unawareness of Unhealthiness, Information Provision, and Health Insurance Participation among the Elderly.** with Mi Luo.  
-
-<<<<<<< HEAD
-**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China** with Yuqi Ta and Boxian Wang.  (Under review)
-
 **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
 **How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China.** with Jin Feng, Hong Song, and Zhen Wang.
 
 **How Does Household Consumption Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China.** with Mi Luo, Yinghao Pan, and Hong Song. 
 
-**Gender Peer Effects and Social Determinants in High-Stakes Examination.** with Xinzheng Shi and Ming-ang Zhang.
-
 **Unawareness of Unhealthiness, Information Provision, and Health Insurance Participation among the Elderly.** with Mi Luo.  
 
 **Economic Conditions and Mortality: Evidence from 200 Years of Data.** with David Cutler and Adriana Lleras-Muney.
-
-**A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations.** with Chen Cheng and Yiqing Xing. (Under Review)
-
-**Too Busy to Be Cured?** with Xiangyuan Ding, Yuqi Ta and Yi Zhou.
-=======
-**Economic Conditions and Mortality: Evidence from 200 Years of Data.** with David Cutler and Adriana Lleras-Muney.
-
-**Understanding the Effects of Education on Health: Evidence from China.** with Chuanchuan Zhang.
-
-**A Theory of Multiplexity: Sustaining Cooperation with Multiple Relations.** with Chen Cheng and Yiqing Xing. (Under Review)
 
 **Beyond Money: Time Costs as a Determinant of Healthcare Utilization.** with Xiangyuan Ding, Yuqi Ta and Yi Zhou. (Under Review)
 
 **Connecting the Elderly: Health Benefits and Social Support from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. (Under Review)
 
 **Stock Market Crash, Peer Stockholding, and Household Potfolio Choice.** with Yanfei Dong, and Yiping Huang. (Under Review)
->>>>>>> 5f038d975b36688035b1d863c09af8ae0b6ed072
 
 
 ### Working in Progress
 
-<<<<<<< HEAD
-**The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China**, with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
-
-**Internet Connection, Development and Social Multiplier Effect: Evidence from Rural China** with Yiping Wang, and Hantao Wu.
-=======
 **The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China.** with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
->>>>>>> 5f038d975b36688035b1d863c09af8ae0b6ed072
 
 **Internet Connection, Development and Social Multiplier Effect: Evidence from Rural China.** with Yiping Wang, and Hantao Wu.
 
