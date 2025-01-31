@@ -74,7 +74,9 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Tourism Growth, Education Decline: Evidence from China's 5A Attraction Expansion.** with Zeyi He, Zhi-an Hu, Yankun Kang. Revision Requested at ***Journal of Urban Economics***.
 
-**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.** with Fan He, Yinghao Pan, and Jiao Wang. Revision Requested at ***The Review of Economics and Statistics***.
+**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.** with Fan He, Yinghao Pan, Jiao Wang. Revision Requested at ***The Review of Economics and Statistics***.
+
+**Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China.** with Haotian Zhang, Wei Zheng. Revision Requested at ***Journal of Development Economics***.
 
 **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
 
