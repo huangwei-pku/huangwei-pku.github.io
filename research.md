@@ -9,6 +9,7 @@ sidebar_sort_order: 2
 
 ### Publications & Forthcoming
 
+**Poverty Spillovers in Human Capital Formation: Evidence from Randomized Class Assignments in China.** with Mi Luo, Yueping Song, Yiping Wang, Hantao Wu. ***Journal of Public Economics*** (Forthcoming). 
 
 Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3
 
@@ -57,16 +58,12 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Huang, Wei**, and Yi Zhou.* [**Effects of Education on Cognition at Older Ages: Evidence from China's Great Famine.**](https://www.sciencedirect.com/science/article/abs/pii/S0277953613004735) ***Social Science & Medicine*** 98 (2013): 54-62.
 
-
 **Huang, Wei**, Xiaoyan Lei, Geert Ridder, John Strauss, and Yaohui Zhao. [**Health, Height, Height Shrinkage, and SES at Older Ages: Evidence from China.**](https://www.aeaweb.org/articles?id=10.1257/app.5.2.86) ***American Economic Journal: Applied Economics*** 5, no. 2 (2013): 86-121.
 
 
 
 
 ### Working Papers
-
-
-**Externality of Poverty on Human Capital Accumulation: Evidence from Random Class Assignments in China.** with Mi Luo, Yueping Song, Yiping Wang, Hantao Wu. Revision Requested at ***Journal of Public Economics***.
 
 **Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Revision Requested at ***Economic Journal***.
 
