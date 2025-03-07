@@ -9,13 +9,13 @@ sidebar_sort_order: 2
 
 ### Publications & Forthcoming
 
-**Poverty Spillovers in Human Capital Formation: Evidence from Randomized Class Assignments in China.** with Mi Luo, Yueping Song, Yiping Wang, Hantao Wu. ***Journal of Public Economics*** (Forthcoming). 
-
 Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3
 
 **Huang, Wei**, Yinghao Pan,* and Yi Zhou.*  [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332) ***The Review of Economics and Statistics*** (Forthcoming). doi: https://doi.org/10.1162/rest_a_01332
 
 **Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.0220-10720R4
+
+**Huang, Wei**, Mi Luo, Yueping Song, Yiping Wang， Hantao Wu. [**Poverty Spillovers in Human Capital Formation: Evidence from Randomized Class Assignments in China.**](https://doi.org/10.1016/j.jpubeco.2025.105334) ***Journal of Public Economics*** (2025): 105334.
 
 **Huang, Wei**, Yiping Wang, Hantao Wu, and Yi Zhou.*   [**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.**](https://doi.org/10.1007/s00148-025-01078-3) ***Journal of Population Economics*** (2025) 38:28. doi: https://doi.org/10.1007/s00148-025-01078-3
 
