@@ -15,7 +15,7 @@ Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Ear
 
 **Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.0220-10720R4
 
-**Huang, Wei**, Mi Luo, Yueping Song, Yiping Wang, Hantao Wu. [**Poverty Spillovers in Human Capital Formation: Evidence from Randomized Class Assignments in China.**](https://doi.org/10.1016/j.jpubeco.2025.105334) ***Journal of Public Economics*** (2025): 105334.
+**Huang, Wei**,* Mi Luo, Yueping Song,* Yiping Wang, Hantao Wu. [**Poverty Spillovers in Human Capital Formation: Evidence from Randomized Class Assignments in China.**](https://doi.org/10.1016/j.jpubeco.2025.105334) ***Journal of Public Economics*** (2025): 105334.
 
 **Huang, Wei**, Yiping Wang, Hantao Wu, and Yi Zhou.*   [**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.**](https://doi.org/10.1007/s00148-025-01078-3) ***Journal of Population Economics*** (2025) 38:28. doi: https://doi.org/10.1007/s00148-025-01078-3
 
