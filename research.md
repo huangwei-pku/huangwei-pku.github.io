@@ -15,13 +15,15 @@ Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Ear
 
 **Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.0220-10720R4
 
+Huang, Hai, **Wei Huang**, Xinzheng Shi, and Ming-ang Zhang.*  **Gender Peer Effects and Social Determinants in a High-Stakes Examination.**  ***Journal of Development Economics*** (Forthcoming). 
+
 **Huang, Wei**,* Mi Luo, Yueping Song,* Yiping Wang, Hantao Wu. [**Poverty Spillovers in Human Capital Formation: Evidence from Randomized Class Assignments in China.**](https://doi.org/10.1016/j.jpubeco.2025.105334) ***Journal of Public Economics*** (2025): 105334.
 
 **Huang, Wei**, Yiping Wang, Hantao Wu, and Yi Zhou.*   [**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.**](https://doi.org/10.1007/s00148-025-01078-3) ***Journal of Population Economics*** (2025) 38:28. doi: https://doi.org/10.1007/s00148-025-01078-3
 
-**Huang, Wei**, Xiaoyan Lei, and Yuqi Ta.* [**How Does Undervaluation in Medical Savings Accounts (MSAs) Affect Healthcare Utilization? Evidence from Administrative Data in China.**](https://doi.org/10.1016/j.jhealeco.2024.102946) ***Journal of Health Economics*** (2024): 102946. https://doi.org/10.1016/j.jhealeco.2024.102946
-
 Guo, Naijia, **Wei Huang**,* and Ruixin Wang. [**Public Pensions and Family Dynamics: Eldercare, Child Investment, and Son Preference in Rural China.**](https://doi.org/10.1016/j.jdeveco.2024.103390) ***Journal of Development Economics*** (2025): 103390.
+
+**Huang, Wei**, Xiaoyan Lei, and Yuqi Ta.* [**How Does Undervaluation in Medical Savings Accounts (MSAs) Affect Healthcare Utilization? Evidence from Administrative Data in China.**](https://doi.org/10.1016/j.jhealeco.2024.102946) ***Journal of Health Economics*** (2024): 102946. https://doi.org/10.1016/j.jhealeco.2024.102946
 
 **Huang, Wei**, Mi Luo, Yuqi Ta,* and Boxian Wang. [**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.**](https://doi.org/10.1016/j.jdeveco.2024.103358) ***Journal of Development Economics*** (2024): 103358.
 
@@ -67,7 +69,7 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Revision Requested at ***Economic Journal***.
 
-**Gender Peer Effects and Social Determinants in a High-Stakes Examination.** with Xinzheng Shi and Ming-ang Zhang. Revision Requested at ***Journal of Development Economics***.
+
 
 **Tourism Growth, Education Decline: Evidence from China's 5A Attraction Expansion.** with Zeyi He, Zhi-an Hu, Yankun Kang. Revision Requested at ***Journal of Urban Economics***.
 
