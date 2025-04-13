@@ -70,7 +70,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 **Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Revision Requested at ***Economic Journal***.
 
 
-
 **Tourism Growth, Education Decline: Evidence from China's 5A Attraction Expansion.** with Zeyi He, Zhi-an Hu, Yankun Kang. Revision Requested at ***Journal of Urban Economics***.
 
 **Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.** with Fan He, Yinghao Pan, Jiao Wang. Revision Requested at ***The Review of Economics and Statistics***.
@@ -93,14 +92,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Connecting the Elderly: Health Benefits and Social Support from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. (Under Review)
 
-**Stock Market Crash, Peer Stockholding, and Household Potfolio Choice.** with Yanfei Dong, and Yiping Huang. (Under Review)
-
-
-### Working in Progress
-
-**The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China.** with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
-
-**Internet Connection, Development and Social Multiplier Effect: Evidence from Rural China.** with Yiping Wang, and Hantao Wu.
 
 
 ### Book Chapters
