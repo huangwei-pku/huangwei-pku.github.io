@@ -15,7 +15,7 @@ Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Ear
 
 **Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.0220-10720R4
 
-**Huang, Wei**, Xiaoyan Lei, and Chunfeng Zhang. **Green Retirement: The Impact of Retirement on Carbon Emissions through Consumption and Income Dynamics** ***Journal of Comparative Economics*** (Forthcoming). 
+**Huang, Wei**, Xiaoyan Lei, and Chunfeng Zhang. **Green Retirement: The Impact of Retirement on Carbon Emissions through Consumption and Income Dynamics.** ***Journal of Comparative Economics*** (Forthcoming). 
 
 Huang, Hai, **Wei Huang**, Xinzheng Shi, and Ming-ang Zhang.*  [**Gender Peer Effects and Social Determinants in a High-Stakes Examination.**](https://doi.org/10.1016/j.jdeveco.2025.103509)  ***Journal of Development Economics*** (2025): 103509.
 
@@ -72,7 +72,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 **Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Revision Requested at ***Economic Journal***.
 
 
-
 **Tourism Growth, Education Decline: Evidence from China's 5A Attraction Expansion.** with Zeyi He, Zhi-an Hu, Yankun Kang. Revision Requested at ***Journal of Urban Economics***.
 
 **Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.** with Fan He, Yinghao Pan, Jiao Wang. Revision Requested at ***The Review of Economics and Statistics***.
@@ -95,14 +94,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Connecting the Elderly: Health Benefits and Social Support from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. (Under Review)
 
-**Stock Market Crash, Peer Stockholding, and Household Potfolio Choice.** with Yanfei Dong, and Yiping Huang. (Under Review)
-
-
-### Working in Progress
-
-**The Power of Market-wide Health Insurance Expansion: Evidence from New Cooperation Medical Scheme in China.** with Hongqiao Fu, Xiaoyan Lei, Zeyu Liu, and Ge Yin.
-
-**Internet Connection, Development and Social Multiplier Effect: Evidence from Rural China.** with Yiping Wang, and Hantao Wu.
 
 
 ### Book Chapters
