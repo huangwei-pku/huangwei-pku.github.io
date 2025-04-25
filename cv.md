@@ -58,6 +58,8 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 
 ### Grants and Projects
 
+2024-2026 Peking University Graduate Course Development Project: Economics Research Papers Writing (PI) 2024-2026年 北京大学研究生课程建设项目资助立项：经济学论文写作 (负责人)
+
 2024 Major Social Science Project “Policy System and Incentive Mechanisms for Fertility Support in the Context of a Fertility-Friendly Society” (PI) 社科重大专项“生育友好型社会背景下生育支持政策体系和激励机制研究” (负责人)
 
 2024 Major Social Science Project “Research on the Primary Focus and Policy Support for Accelerating the Formation of New-Quality Productivity” (Subproject PI) 社科重大项目“加快形成新质生产力的主攻方向与政策保障研究” (子课题负责人 )
@@ -86,7 +88,7 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 
 2023-2024 Research on Population Development Strategy: Classification and Estimation of the Cost of Childbearing in China, National Health Commission of the People’s Republic of China (PI)  中国卫健委 人口发展战略研究——我国生育代价的分类和估算 (负责人)
 
-2023 Teaching Project for the Graduate Course “Empirical Strategies” at Peking University (PI) 2023年北京大学研究生课程《实证策略》建设立项 (负责人)
+2022-2024 Peking University Graduate Course Development Project：Empirical Strategies (PI) 2022-2024年 北京大学研究生课程建设项目资助立项: 实证策略 (负责人)
 
 2022-2024 Policy Analysis for Healthy Aging in China, Peking University Start-up Fund (PI) 北京大学学科建设项目, 中国健康医疗养老政策实证研究 (负责人)
 
