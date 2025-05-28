@@ -69,8 +69,9 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 ### Working Papers
 
-**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Revision Requested at ***Economic Journal***.
+**Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.** with Keyan Xiang, Xi Yu, Hong Zou. Revision Requested at ***Journal of Health Economics***.
 
+**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Revision Requested at ***Economic Journal***.
 
 **Tourism Growth, Education Decline: Evidence from China's 5A Attraction Expansion.** with Zeyi He, Zhi-an Hu, Yankun Kang. Revision Requested at ***Journal of Urban Economics***.
 
