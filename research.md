@@ -15,7 +15,7 @@ Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Ear
 
 **Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.0220-10720R4
 
-**Huang, Wei**, Xiaoyan Lei, and Chunfeng Zhang. **Green Retirement: The Impact of Retirement on Carbon Emissions through Consumption and Income Dynamics.** ***Journal of Comparative Economics*** (Forthcoming). 
+**Huang, Wei**, Xiaoyan Lei, and Chunfeng Zhang. [**Green Retirement: The Impact of Retirement on Carbon Emissions through Consumption and Income Dynamics.**](https://doi.org/10.1016/j.jce.2025.04.002) ***Journal of Comparative Economics*** (2025). 
 
 Huang, Hai, **Wei Huang**, Xinzheng Shi, and Ming-ang Zhang.*  [**Gender Peer Effects and Social Determinants in a High-Stakes Examination.**](https://doi.org/10.1016/j.jdeveco.2025.103509)  ***Journal of Development Economics*** (2025): 103509.
 
