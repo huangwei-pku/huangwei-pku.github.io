@@ -69,6 +69,8 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 ### Working Papers
 
+**E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.** with Zengdong Cao and Hantao Wu. Revision Requested at ***Journal of Human Resources***.
+
 **Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.** with Keyan Xiang, Xi Yu, Hong Zou. Revision Requested at ***Journal of Health Economics***.
 
 **Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Revision Requested at ***Economic Journal***.
