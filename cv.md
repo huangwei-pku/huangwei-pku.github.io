@@ -80,8 +80,6 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 
 2023-2024 Research on Population Development Strategy: Classification and Estimation of the Cost of Childbearing in China, National Health Commission of the People’s Republic of China (PI)  中国卫健委 人口发展战略研究——我国生育代价的分类和估算 (负责人)
 
-2022-2024 Peking University Graduate Course Development Project：Empirical Strategies (PI) 2022-2024年 北京大学研究生课程建设项目资助立项: 实证策略 (负责人)
-
 2022-2024 Policy Analysis for Healthy Aging in China, Peking University Start-up Fund (PI) 北京大学学科建设项目, 中国健康医疗养老政策实证研究 (负责人)
 
 2017-2021 Public Policies, Human Capital, and Social Welfare Outcomes, NUS Start-up Fund (PI)
@@ -99,7 +97,10 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 
 2024 Undergraduate Education Reform Project: Practical Reform of the ‘Economic Research Training’ Course (PI)  北京大学24年本科教改项目-《经济学研究训练》课程实践化改革 (负责人)
 
+2023-2024 Peking University Graduate Course Development Project：Empirical Strategies (PI) 2022-2024年 北京大学研究生课程建设项目资助立项: 实证策略 (负责人)
+
 2023 Undergraduate Education Reform Project: Exploring the Reform of the ‘Econometrics’ Course (PI) 北京大学23年本科教改项目-《计量经济学》课程改革探索 (负责人)
+
 
 ### Honors and Awards  
 2024 The 9th Outstanding Scientific Research Achievement Award for Higher Education Institutions (Humanities and Social Sciences) - Young Achievers Award 第九届高等学校科学研究优秀成果奖(人文社会科学)-青年成果奖
