@@ -57,8 +57,9 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 
 
 ### Grants and Projects (Research)
+2025 Research on the Socioeconomic Impact of Childcare Subsidy Policies, National Health Commission of the People’s Republic of China (PI) 国家卫健委育儿补贴的经济社会影响效应研究项目 (负责人)
 
-2025 Policy Support for the High-Quality Development of Inclusive Elderly Care during the 15th Five-Year Plan (PI) 国家发改委“十五五”时期促进普惠养老服务高质量发展的政策支持体系研究 (负责人)
+2025 Policy Support for the High-Quality Development of Inclusive Elderly Care during the 15th Five-Year Plan, National Development and Reform Commission of the People’s Republic of China (PI) 国家发改委“十五五”时期促进普惠养老服务高质量发展的政策支持体系研究 (负责人)
 
 2024 Major Social Science Project “Policy System and Incentive Mechanisms for Fertility Support in the Context of a Fertility-Friendly Society” (PI) 社科重大专项“生育友好型社会背景下生育支持政策体系和激励机制研究” (负责人)
 
