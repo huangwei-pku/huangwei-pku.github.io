@@ -9,6 +9,8 @@ sidebar_sort_order: 2
 
 ### Publications & Forthcoming
 
+**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Conditionally Accepted at ***Economic Journal***.
+
 Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3
 
 **Huang, Wei**, Yinghao Pan,* and Yi Zhou.*  [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332) ***The Review of Economics and Statistics*** (Forthcoming). doi: https://doi.org/10.1162/rest_a_01332
@@ -73,7 +75,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.** with Keyan Xiang, Xi Yu, Hong Zou. Revision Requested at ***Journal of Health Economics***.
 
-**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Revision Requested at ***Economic Journal***.
 
 **Tourism Growth, Education Decline: Evidence from China's 5A Attraction Expansion.** with Zeyi He, Zhi-an Hu, Yankun Kang. Revision Requested at ***Journal of Urban Economics***.
 
