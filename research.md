@@ -11,13 +11,14 @@ sidebar_sort_order: 2
 
 **Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Conditionally Accepted at ***Economic Journal***.
 
-Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3
+Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3cite
 
-**Huang, Wei**, Yinghao Pan,* and Yi Zhou.*  [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332) ***The Review of Economics and Statistics*** (Forthcoming). doi: https://doi.org/10.1162/rest_a_01332
 
 **Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.0220-10720R4
 
-**Huang, Wei**, Xiaoyan Lei, and Chunfeng Zhang. [**Green Retirement: The Impact of Retirement on Carbon Emissions through Consumption and Income Dynamics.**](https://doi.org/10.1016/j.jce.2025.04.002) ***Journal of Comparative Economics*** (2025). 
+**Huang, Wei**, Yinghao Pan,* Yi Zhou.* [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332) ***The Review of Economics and Statistics*** 2025; 107 (5): 1341–1355. doi: https://doi.org/10.1162/rest_a_01332
+
+**Huang, Wei**, Xiaoyan Lei, and Chunfeng Zhang. [**Green Retirement: The Impact of Retirement on Carbon Emissions through Consumption and Income Dynamics.**](https://doi.org/10.1016/j.jce.2025.04.002) ***Journal of Comparative Economics*** 53 (2025): 717-753. 
 
 Huang, Hai, **Wei Huang**, Xinzheng Shi, and Ming-ang Zhang.*  [**Gender Peer Effects and Social Determinants in a High-Stakes Examination.**](https://doi.org/10.1016/j.jdeveco.2025.103509)  ***Journal of Development Economics*** (2025): 103509.
 
