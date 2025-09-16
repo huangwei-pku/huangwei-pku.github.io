@@ -11,8 +11,9 @@ sidebar_sort_order: 2
 
 **Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Conditionally Accepted at ***Economic Journal***.
 
-Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3cite
+**Huang, Wei,** Keyan Xiang, Xi Yu, Hong Zou.* **Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.**  ***Journal of Health Economics*** (Forthcoming).
 
+Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3cite
 
 **Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.0220-10720R4
 
@@ -73,9 +74,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 ### Working Papers
 
 **E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.** with Zengdong Cao and Hantao Wu. Revision Requested at ***Journal of Human Resources***.
-
-**Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.** with Keyan Xiang, Xi Yu, Hong Zou. Revision Requested at ***Journal of Health Economics***.
-
 
 **Tourism Growth, Education Decline: Evidence from China's 5A Attraction Expansion.** with Zeyi He, Zhi-an Hu, Yankun Kang. Revision Requested at ***Journal of Urban Economics***.
 
