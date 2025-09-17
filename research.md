@@ -11,7 +11,7 @@ sidebar_sort_order: 2
 
 **Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.** with Qingfeng Liu, Jianwei Xing, Shilin Zheng. Conditionally Accepted at ***Economic Journal***.
 
-**Huang, Wei,** Keyan Xiang, Xi Yu, Hong Zou.* **Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.**  ***Journal of Health Economics*** (Forthcoming).
+**Huang, Wei,** Keyan Xiang, Xi Yu, Hong Zou.* [**Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.**](https://www.sciencedirect.com/science/article/pii/S0167629625001031)  ***Journal of Health Economics***, September 2025, 103068. 
 
 Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3cite
 
