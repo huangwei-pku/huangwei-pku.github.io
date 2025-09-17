@@ -78,7 +78,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.** with Zengdong Cao and Hantao Wu. Revision Requested at ***Journal of Human Resources***.
 
-
 **Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.** with Fan He, Yinghao Pan, Jiao Wang. Revision Requested at ***The Review of Economics and Statistics***.
 
 **Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China.** with Haotian Zhang, Wei Zheng. Revision Requested at ***Journal of Development Economics***.
