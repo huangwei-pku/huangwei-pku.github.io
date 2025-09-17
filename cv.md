@@ -104,6 +104,9 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 
 
 ### Honors and Awards  
+
+2025 Peking University Outstanding Undergraduate Thesis Advisor Award 2025年度北京大学优秀本科毕业论文指导教师奖
+
 2024 The 9th Outstanding Scientific Research Achievement Award for Higher Education Institutions (Humanities and Social Sciences) - Young Achievers Award 第九届高等学校科学研究优秀成果奖(人文社会科学)-青年成果奖
 
 2024 ICBC Teaching Award - Outstanding Scholar Award at Peking University 2024年北京大学中国工商银行奖教金-杰出学者奖
