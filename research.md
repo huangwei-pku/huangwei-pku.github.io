@@ -13,11 +13,7 @@ sidebar_sort_order: 2
 
 **Tourism Growth, Education Decline: Evidence from China's 5A Attraction Expansion.** with Zeyi He, Zhi-an Hu, Yankun Kang. Conditionally Accepted at ***Journal of Urban Economics***.
 
-**Huang, Wei,** Keyan Xiang, Xi Yu, Hong Zou.* [**Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.**](https://www.sciencedirect.com/science/article/pii/S0167629625001031)  ***Journal of Health Economics***, September 2025, 103068. 
-
-Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.1020-11229R3cite
-
-**Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (Forthcoming). doi: https://doi.org/10.3368/jhr.0220-10720R4
+**Huang, Wei,** Keyan Xiang, Xi Yu, Hong Zou.* [**Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.**](https://www.sciencedirect.com/science/article/pii/S0167629625001031)  ***Journal of Health Economics*** 104 (2025): 103068. 
 
 **Huang, Wei**, Yinghao Pan,* Yi Zhou.* [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332) ***The Review of Economics and Statistics*** 2025; 107 (5): 1341–1355. doi: https://doi.org/10.1162/rest_a_01332
 
@@ -39,10 +35,13 @@ Guo, Naijia, **Wei Huang**,* and Ruixin Wang. [**Public Pensions and Family Dyna
 
 Hu, Zhi-An, **Wei Huang**,* Wei Luo,* Wuyue You,* and Chuanchuan Zhang.* [**The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.**](https://doi.org/10.1016/j.jebo.2024.106771) ***Journal of Economic Behavior & Organization*** 228 (2024): 106771.
 
+Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (2024, online). doi: https://doi.org/10.3368/jhr.1020-11229R3cite
+
 **Huang, Wei**, Teng Li,* Yinghao Pan, and Jinyang Ren. [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.**](https://www.sciencedirect.com/science/article/pii/S0167268123003128) ***Journal of Economic Behavior & Organization*** 214 (2023): 747-781.
 
 **Huang, Wei**, and Hong Liu.* [**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.**](https://doi.org/10.1016/j.jdeveco.2022.102925) ***Journal of Development Economics*** 160 (2023): 102925.
 
+**Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (2023, online). doi: https://doi.org/10.3368/jhr.0220-10720R4
 
 **Huang, Wei**, Xiaoyan Lei, and Ang Sun.* [**Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China.**](https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext) ***The Review of Economics and Statistics*** 103, no. 4 (2021): 694-710.
 
