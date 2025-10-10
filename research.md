@@ -9,7 +9,9 @@ sidebar_sort_order: 2
 
 ### Publications & Forthcoming
 
-**Tourism Growth, Education Decline: Evidence from China's 5A Attraction Expansion.** with Zeyi He, Zhi-an Hu, Yankun Kang. Conditionally Accepted at ***Journal of Urban Economics***.
+**Tourism Growth, Education Decline: Evidence from China's 5A Attraction Expansion.** with Zeyi He, Zhi-an Hu, Yankun Kang.  Accepted at ***Journal of Urban Economics***.
+
+**Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty onSex Ratios at Birth in China.** with Fan He, Yuanyuan Ma. Conditionally Accepted at  ***Journal of Comparative Economics***. 
 
 **Huang, Wei,** Qingfeng Liu, Jianwei Xing, Shilin Zheng.* [**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.**](https://doi.org/10.1093/ej/ueaf093)  ***Economic Journal***, 29 September 2025 (online). 
 
@@ -79,8 +81,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 **Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.** with Fan He, Yinghao Pan, Jiao Wang. Revision Requested at ***The Review of Economics and Statistics***.
 
 **Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China.** with Haotian Zhang, Wei Zheng. Revision Requested at ***Journal of Development Economics***.
-
-**Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty onSex Ratios at Birth in China.** with Fan He, Yuanyuan Ma. Revision Requested at ***Journal of Comparative Economics***. 
 
 **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. (Under Review)
 
