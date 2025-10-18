@@ -17,7 +17,7 @@ He, Zeyi, Zhi-An Hu, **Wei Huang**,* and Yankun Kang. [Tourism Growth, Education
 
 **Huang, Wei,** Keyan Xiang, Xi Yu, Hong Zou.* [**Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.**](https://www.sciencedirect.com/science/article/pii/S0167629625001031)  ***Journal of Health Economics*** 104 (2025): 103068. 
 
-**Huang, Wei**, Yinghao Pan,* Yi Zhou.* [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332) ***The Review of Economics and Statistics*** 2025; 107 (5): 1341–1355. doi: https://doi.org/10.1162/rest_a_01332
+**Huang, Wei**, Yinghao Pan,* Yi Zhou.* [**One-Child Policy, Marriage Distortion and Welfare Loss.**](https://doi.org/10.1162/rest_a_01332) ***The Review of Economics and Statistics*** 2025; 107 (5): 1341–1355. 
 
 **Huang, Wei**, Xiaoyan Lei, and Chunfeng Zhang. [**Green Retirement: The Impact of Retirement on Carbon Emissions through Consumption and Income Dynamics.**](https://doi.org/10.1016/j.jce.2025.04.002) ***Journal of Comparative Economics*** 53 (2025): 717-753. 
 
