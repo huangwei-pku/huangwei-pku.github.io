@@ -11,7 +11,7 @@ sidebar_sort_order: 2
 
 He, Zeyi, Zhi-An Hu, **Wei Huang**,* and Yankun Kang. [Tourism Growth, Education Decline: Evidence from China’s 5A Attraction Expansion.](https://doi.org/10.1016/j.jue.2025.103811) ***Journal of Urban Economics*** 150 (2025): 103811. 
 
-**Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty onSex Ratios at Birth in China.** with Fan He, Yuanyuan Ma. Conditionally Accepted at  ***Journal of Comparative Economics***. 
+**Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty on Sex Ratios at Birth in China.** with Fan He, Yuanyuan Ma. Conditionally Accepted at  ***Journal of Comparative Economics***. 
 
 **Huang, Wei,** Qingfeng Liu, Jianwei Xing, Shilin Zheng.* [**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.**](https://doi.org/10.1093/ej/ueaf093)  ***Economic Journal***, 29 September 2025 (online). 
 
