@@ -9,7 +9,7 @@ sidebar_sort_order: 2
 
 ### Publications & Forthcoming
 
-**Tourism Growth, Education Decline: Evidence from China's 5A Attraction Expansion.** with Zeyi He, Zhi-an Hu, Yankun Kang.  Accepted at ***Journal of Urban Economics***.
+He, Zeyi, Zhi-An Hu, **Wei Huang**,* and Yankun Kang. [Tourism Growth, Education Decline: Evidence from China’s 5A Attraction Expansion.](https://doi.org/10.1016/j.jue.2025.103811) ***Journal of Urban Economics*** 150 (2025): 103811. 
 
 **Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty onSex Ratios at Birth in China.** with Fan He, Yuanyuan Ma. Conditionally Accepted at  ***Journal of Comparative Economics***. 
 
