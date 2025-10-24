@@ -25,11 +25,11 @@ Huang, Hai, **Wei Huang**, Xinzheng Shi, and Ming-ang Zhang.*  [**Gender Peer Ef
 
 **Huang, Wei**,* Mi Luo, Yueping Song,* Yiping Wang, Hantao Wu. [**Poverty Spillovers in Human Capital Formation: Evidence from Randomized Class Assignments in China.**](https://doi.org/10.1016/j.jpubeco.2025.105334) ***Journal of Public Economics*** (2025): 105334.
 
-**Huang, Wei**, Yiping Wang, Hantao Wu, and Yi Zhou.*   [**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.**](https://doi.org/10.1007/s00148-025-01078-3) ***Journal of Population Economics*** (2025) 38:28. doi: https://doi.org/10.1007/s00148-025-01078-3
+**Huang, Wei**, Yiping Wang, Hantao Wu, and Yi Zhou.*   [**Motherhood Penalty and Low Fertility in China: A Pseudo-Event Study.**](https://doi.org/10.1007/s00148-025-01078-3) ***Journal of Population Economics*** (2025) 38:28. 
 
 Guo, Naijia, **Wei Huang**,* and Ruixin Wang. [**Public Pensions and Family Dynamics: Eldercare, Child Investment, and Son Preference in Rural China.**](https://doi.org/10.1016/j.jdeveco.2024.103390) ***Journal of Development Economics*** (2025): 103390.
 
-**Huang, Wei**, Xiaoyan Lei, and Yuqi Ta.* [**How Does Undervaluation in Medical Savings Accounts (MSAs) Affect Healthcare Utilization? Evidence from Administrative Data in China.**](https://doi.org/10.1016/j.jhealeco.2024.102946) ***Journal of Health Economics*** (2024): 102946. https://doi.org/10.1016/j.jhealeco.2024.102946
+**Huang, Wei**, Xiaoyan Lei, and Yuqi Ta.* [**How Does Undervaluation in Medical Savings Accounts (MSAs) Affect Healthcare Utilization? Evidence from Administrative Data in China.**](https://doi.org/10.1016/j.jhealeco.2024.102946) ***Journal of Health Economics*** (2024): 102946. 
 
 **Huang, Wei**, Mi Luo, Yuqi Ta,* and Boxian Wang. [**Land Expropriation, Household Behaviors, and Health Outcomes: Evidence from China.**](https://doi.org/10.1016/j.jdeveco.2024.103358) ***Journal of Development Economics*** (2024): 103358.
 
@@ -37,13 +37,13 @@ Guo, Naijia, **Wei Huang**,* and Ruixin Wang. [**Public Pensions and Family Dyna
 
 Hu, Zhi-An, **Wei Huang**,* Wei Luo,* Wuyue You,* and Chuanchuan Zhang.* [**The Educational and Labor Market Consequences of Teenage Exposure to Rural Land Decollectivization in China.**](https://doi.org/10.1016/j.jebo.2024.106771) ***Journal of Economic Behavior & Organization*** 228 (2024): 106771.
 
-Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (2024, online). doi: https://doi.org/10.3368/jhr.1020-11229R3cite
+Luo, Wei, **Wei Huang**,* and Albert Park. [**Social Norms and the Impact of Early Life Events on Gender Inequality.**](https://jhr.uwpress.org/content/early/2024/09/03/jhr.1020-11229R3)  ***Journal of Human Resources*** (2024, online). 
 
 **Huang, Wei**, Teng Li,* Yinghao Pan, and Jinyang Ren. [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China.**](https://www.sciencedirect.com/science/article/pii/S0167268123003128) ***Journal of Economic Behavior & Organization*** 214 (2023): 747-781.
 
 **Huang, Wei**, and Hong Liu.* [**Early Childhood Exposure to Health Insurance and Adolescent Outcomes: Evidence from Rural China.**](https://doi.org/10.1016/j.jdeveco.2022.102925) ***Journal of Development Economics*** 160 (2023): 102925.
 
-**Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (2023, online). doi: https://doi.org/10.3368/jhr.0220-10720R4
+**Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/early/2023/10/02/jhr.0220-10720R4) ***Journal of Human Resources*** (2023, online). 
 
 **Huang, Wei**, Xiaoyan Lei, and Ang Sun.* [**Fertility Restrictions and Life Cycle Outcomes: Evidence from the One Child Policy in China.**](https://direct.mit.edu/rest/article-abstract/103/4/694/97774/Fertility-Restrictions-and-Life-Cycle-Outcomes?redirectedFrom=fulltext) ***The Review of Economics and Statistics*** 103, no. 4 (2021): 694-710.
 
