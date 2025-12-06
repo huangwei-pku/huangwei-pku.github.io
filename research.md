@@ -86,6 +86,8 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. Revision Requested at ***Journal of Population Economics***.
 
+**Property Rights for the Aging Population: Labor and Welfare Responses to Land Reform in China.** with Xiaoyan Lei, Shuang Qiu, Yuqi Ta. Revision Requested at ***Journal of Labor Economics***.
+
 **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
 **How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China.** with Jin Feng, Hong Song, and Zhen Wang.
@@ -96,7 +98,7 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Economic Conditions and Mortality: Evidence from 200 Years of Data.** with David Cutler and Adriana Lleras-Muney.
 
-**Beyond Money: Time Costs as a Determinant of Healthcare Utilization.** with Xiangyuan Ding, Yuqi Ta and Yi Zhou. (Under Review)
+**Beyond Money: Time Costs as a Determinant of Healthcare Utilization.** with Xiangyuan Ding, Yuqi Ta and Yi Zhou. 
 
 **Connecting the Elderly: Health Benefits and Social Support from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. (Under Review)
 
