@@ -88,6 +88,10 @@ Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
 
 ### Grants and Projects (Teaching)
 
+2025 Peking University AI-Integrated Undergraduate Curriculum Innovation Case: “Integration of AI Tools in the Economics Research Training Course: Application of the ERTA (Economic Research Teaching Assistance) Platform” 北京大学2025年AI融合本科专业课程建设创新案例“经济学研究训练课程AI工具融合案例：ERTA平台的应用” (负责人)
+
+2025 Peking University Undergraduate Teaching Reform Project – Teaching Reform Plan for Economics Research and Academic Writing (Honors Course) Based on PBL and OBE 北京大学25年本科教改项目-基于PBL与OBE的经济学研究与学术写作（荣誉课）教学改革方案 (负责人)
+
 2025 Undergraduate Education Reform Project of Peking University AI-Integrated Teaching Reform for ‘Economic Research Training’ Course (PI) 北京大学25年本科教改项目-经济学研究训练AI融合教学改革 (负责人)
 
 2024-2026 Peking University Graduate Course Development Project: Economics Research Papers Writing (PI) 2024-2026年 北京大学研究生课程建设项目资助立项：经济学论文写作 (负责人)
