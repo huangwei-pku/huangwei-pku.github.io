@@ -6,7 +6,7 @@ sidebar_link: true
 sidebar_sort_order: 3
 ---
 
-### Academic Employment
+### 学术任职 / Academic Employment：
 
 2022–Present 北京大学国家发展研究院，长聘副教授（海外高层次青年人才） / Tenured Associate Professor (Overseas High-Level Young Talent), National School of Development (NSD), Peking University
 
@@ -20,7 +20,7 @@ sidebar_sort_order: 3
 2016–2017 美国国家经济研究局（NBER），博士后研究员 / Postdoctoral Research Fellow, National Bureau of Economic Research (NBER)
 
 
-### Education
+### 教育背景 / Education:
 
 2011–2016 哈佛大学经济学博士 / Ph.D. in Economics, Harvard University
 
@@ -29,7 +29,7 @@ sidebar_sort_order: 3
 2004–2008 北京大学物理学学士、经济学学士 / B.S. in Physics and B.A. in Economics, Peking University
 
 
-### Academic Affiliations and Other Employment
+### 学术兼职 / Academic Affiliations and Other Employment: 
 
 2025–Present 北京大学国家发展研究院中国经济研究中心副主任 / Deputy Director, China Center for Economic Research (CCER), National School of Development (NSD), Peking University
 
@@ -73,7 +73,7 @@ sidebar_sort_order: 3
 
 
 
-### Grants and Projects (Research)
+### 学术研究课题 (Academic Research Projects)
 2025 Research on the Socioeconomic Impact of Childcare Subsidy Policies, National Health Commission of the People’s Republic of China (PI) 国家卫健委育儿补贴的经济社会影响效应研究项目 (负责人)
 
 2025 Policy Support for the High-Quality Development of Inclusive Elderly Care during the 15th Five-Year Plan, National Development and Reform Commission of the People’s Republic of China (PI) 国家发改委“十五五”时期促进普惠养老服务高质量发展的政策支持体系研究 (负责人)
@@ -103,7 +103,7 @@ sidebar_sort_order: 3
 2017-2021 Public Policies, Human Capital, and Social Welfare Outcomes, NUS Start-up Fund (PI)
 
 
-### Grants and Projects (Teaching)
+### 教学改革课题/案例 (Teaching Reform Projects)
 
 2025 Peking University AI-Integrated Undergraduate Curriculum Innovation Case: “Integration of AI Tools in the Economics Research Training Course: Application of the ERTA (Economic Research Teaching Assistance) Platform” 北京大学2025年AI融合本科专业课程建设创新案例“经济学研究训练课程AI工具融合案例：ERTA平台的应用” (负责人)
 
@@ -124,7 +124,7 @@ sidebar_sort_order: 3
 2023 Undergraduate Education Reform Project: Exploring the Reform of the ‘Econometrics’ Course (PI) 北京大学23年本科教改项目-《计量经济学》课程改革探索 (负责人)
 
 
-### Honors and Awards  
+### 奖项与荣誉 / Honors and Awards  
 
 2025 Peking University Outstanding Undergraduate Thesis Advisor Award 2025年度北京大学优秀本科毕业论文指导教师奖
 
