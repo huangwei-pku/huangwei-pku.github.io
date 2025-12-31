@@ -8,51 +8,49 @@ sidebar_sort_order: 3
 
 ### Academic Employment
 
-Associate Professor with Tenure, Peking University, 2022 -
+2022–Present 北京大学国家发展研究院，长聘副教授（海外高层次青年人才） / Tenured Associate Professor (Overseas High-Level Young Talent), National School of Development (NSD), Peking University
 
-Assistant Professor, Emory University, 2021 - 2022
 
-President’s Assistant Professor, National University of Singapore (NUS), 2017- 2022
+2021–2022 美国埃默里大学经济系，助理教授 / Assistant Professor, Department of Economics, Emory University
 
-Post-Doctoral Fellow, National Bureau of Economic Research (NBER), 2016-2017
+
+2017–2022 新加坡国立大学，校长特聘助理教授 / Presidential Young Professor (Assistant Professor), National University of Singapore (NUS)
+
+
+2016–2017 美国国家经济研究局（NBER），博士后研究员 / Postdoctoral Research Fellow, National Bureau of Economic Research (NBER)
 
 
 ### Education
 
-Ph.D. in Economics, Harvard University, 2016
+2011–2016 哈佛大学经济学博士 / Ph.D. in Economics, Harvard University
 
-M.A. in Economics with distinction, Peking University, 2011
+2008–2011 北京大学经济学硕士 / M.A. in Economics, Peking University
 
-B.S. in Physics and B.A. in Economics with distinction, Peking University, 2008
+2004–2008 北京大学物理学学士、经济学学士 / B.S. in Physics and B.A. in Economics, Peking University
 
 
 ### Academic Affiliations and Other Employment
 
-Co-Editor, Economics of Transition and Institutional Change, 2018 - Present
-
-Associate Editor, Journal of Health Economics, 2025 – Present
-
-Associate Editor, Journal of Economics & Behavior Organization, 2023 – Present
-
-Associate Editor, China Economic Quarterly (Chinese), 2022 – Present
-
-Associate Editor, China Economic Review, Journal of Asian Economics, 2021 – Present
-
-Guest Editor, Journal of Asian Economics, China Economic Review, 2021
-
-Research Fellow, The Institute for the Study of Labor (IZA), 2014 – Present
-
- Fellow, China Center for Economics of Human Development, 2018 - 2020 
-
-Board of Directors, The Chinese Economists Society (CES), 2016 – 2017
-
-NBER Pre-Doctoral Fellow in Aging and Health Economics, 2013 – 2014
-
-Inequality Doctoral Fellow at Harvard Kennedy School, 2013 – 2014
- 
-Wertheim Fellow, Labor and Worklife Program, Harvard University, 2013 – 2015 
-
-Student Affiliate at Institute for Quantitative Social Science 2012 – 2016
+2025–Present 北京大学国家发展研究院中国经济研究中心副主任 / Deputy Director, China Center for Economic Research (CCER), National School of Development (NSD), Peking University
+2025–Present Journal of Health Economics 副主编 / Associate Editor, Journal of Health Economics
+2025–Present 中国农业经济学会青年委员会常务委员 / Standing Committee Member, Youth Committee, Chinese Association of Agricultural Economics
+2024–Present 北京大学健康老龄与发展研究中心副主任 / Deputy Director, Healthy Aging & Development Research Center, Peking University
+2024–Present 亚洲开发银行（ADB）顾问 / Consultant, Asian Development Bank (ADB)
+2024–Present 中国数量经济学会常务理事 / Executive Council Member, Chinese Association of Quantitative Economics
+2023–Present Journal of Economic Behavior & Organization 副主编 / Associate Editor, Journal of Economic Behavior & Organization
+2022–Present 《经济学（季刊）》副主编 / Associate Editor, China Economic Quarterly (Jingjixue Jikan)
+2022–Present 中国劳动经济学者论坛理事会成员 / Council Member, China Labor Economics Forum
+2021–Present China Economic Review 副主编；Journal of Asian Economics 副主编 / Associate Editor, China Economic Review; Associate Editor, Journal of Asian Economics
+2018–Present Economics of Transition and Institutional Change 联合主编 / Co-Editor, Economics of Transition and Institutional Change
+2014–Present 德国劳动研究所（IZA）研究员 / Research Fellow, Institute of Labor Economics (IZA)
+2021 Journal of Asian Economics 客座主编 / Guest Editor, Journal of Asian Economics
+2021 China Economic Review 客座主编 / Guest Editor, China Economic Review
+2018–2020 China Center for Economics of Human Development 研究员 / Research Fellow, China Center for Economics of Human Development
+2016–2017 中国留美经济学会（CES）理事会成员 / Board Member, Chinese Economists Society (CES)
+2013–2014 NBER健康与老龄经济学博士研究员 / Pre-Doctoral Fellow, Aging and Health Economics, National Bureau of Economic Research (NBER)
+2013–2014 哈佛大学肯尼迪学院不平等研究博士研究员 / Predoctoral Research Fellow, Inequality Program, Harvard Kennedy School
+2013–2015 哈佛大学劳动力与工作项目Wertheim研究员 / Wertheim Fellow, Labor and Worklife Program, Harvard University
+2012–2016 哈佛大学量化社会科学研究所学生会员 / Student Affiliate, Institute for Quantitative Social Science (IQSS), Harvard University
 
 
 
