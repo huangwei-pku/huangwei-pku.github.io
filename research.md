@@ -88,6 +88,8 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Property Rights for the Aging Population: Labor and Welfare Responses to Land Reform in China.** with Xiaoyan Lei, Shuang Qiu, Yuqi Ta. Revision Requested at ***Journal of Labor Economics***.
 
+**When Money Isn't Fungible: Behavioral Frictions and Welfare Costs in Earmarked Health Accounts.** with Xiaoyan Lei, Yuqi Ta. Revision Requested at ***The Review of Economics and Statistics***.
+
 **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
 **How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China.** with Jin Feng, Hong Song, and Zhen Wang.
