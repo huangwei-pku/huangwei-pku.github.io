@@ -26,11 +26,3 @@
 @import "hydeout/search";
 @import "hydeout/tags";
 
-/* 正文两端对齐 */
-.post-content,
-.page-content,
-.markdown-body,
-article {
-  text-align: justify;
-  text-justify: inter-ideograph; /* 中文优化 */
-}
