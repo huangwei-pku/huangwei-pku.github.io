@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Curriculum Vitae
-permalink: /cv/
+title: Projects
+permalink: /Projects/
 sidebar_link: true
-sidebar_sort_order: 3
+sidebar_sort_order: 4
 ---
 
 
