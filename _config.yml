@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Wei Huang (黄炜)
 tagline:          'Homepage'
-description:      'Associate Professor </br> National School of Development </br> Peking University </br>'
+description:      'Professor </br> National School of Development </br> Peking University </br>'
 url:              https://huangwei-pku.github.io
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
