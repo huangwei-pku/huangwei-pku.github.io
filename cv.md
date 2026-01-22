@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 sidebar_link: true
-sidebar_sort_order: 3
+sidebar_sort_order: 2
 ---
 
 ### 学术任职 / Academic Employment：
