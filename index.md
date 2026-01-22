@@ -9,7 +9,8 @@ sidebar_sort_order: 1
 ## <center>  Wei Huang (黄炜) </center>
 
 ### Bio
-<font size="4">I am an associate professor at Peking University. Previously, I was an assistant professor at Emory University and National University of Singapore. I also worked as a post-doc fellow at NBER in 2017. I got my PhD. of economics at Harvard in 2016.  <br>
+<font size="4"> I am a Professor of Economics in the National School of Development, Peking University. Previously, I was an Associate Professor at the same institute, and an Assistant Professor at Emory University and the National University of Singapore. I was also a Postdoctoral Fellow at the National Bureau of Economic Research (NBER) in 2017. I received my PhD in Economics from Harvard University in 2016.
+ <br>
 <br>
 My research fields include public economics, labor economics, and health economics.</font>
 
