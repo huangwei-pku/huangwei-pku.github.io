@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV/简历
+title: 简历/CV
 permalink: /cv/
 sidebar_link: true
 sidebar_sort_order: 2
