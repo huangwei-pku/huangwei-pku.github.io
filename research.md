@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Intl Publications/国际发表
 permalink: /research/
 sidebar_link: true
 sidebar_sort_order: 3
