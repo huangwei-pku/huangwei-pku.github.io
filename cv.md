@@ -8,16 +8,16 @@ sidebar_sort_order: 2
 
 ### 学术任职 / Academic Employment：
 
-2022–Present 北京大学国家发展研究院，长聘副教授（海外高层次青年人才） / Tenured Associate Professor (Overseas High-Level Young Talent), National School of Development (NSD), Peking University
 
+2026.02–Present 北京大学国家发展研究院，教授（国家海外高层次青年人才项目，2022.07起） / Professor, National School of Development (NSD), Peking University (Overseas High-Level Young Talent Program, since 2022.07)
 
-2021–2022 美国埃默里大学经济系，助理教授 / Assistant Professor, Department of Economics, Emory University
+2022.07–2026.01 北京大学国家发展研究院，长聘副教授（国家海外高层次青年人才项目） / Tenured Associate Professor, National School of Development (NSD), Peking University (Overseas High-Level Young Talent Program)
 
+2021.05–2022.06 美国埃默里大学经济系，助理教授 / Assistant Professor, Department of Economics, Emory University
 
-2017–2022 新加坡国立大学，校长特聘助理教授 / Presidential Young Professor (Assistant Professor), National University of Singapore (NUS)
+2017.11–2021.05 新加坡国立大学，校长特聘助理教授 / Assistant Professor (Presidential Young Professor), National University of Singapore (NUS)
 
-
-2016–2017 美国国家经济研究局（NBER），博士后研究员 / Postdoctoral Research Fellow, National Bureau of Economic Research (NBER)
+2016.07–2017.06 美国国家经济研究局（NBER），博士后研究员 / Postdoctoral Research Fellow, National Bureau of Economic Research (NBER)
 
 
 ### 教育背景 / Education:
@@ -73,8 +73,9 @@ sidebar_sort_order: 2
 
 
 ### 奖项与荣誉 / Honors and Awards  
+2025 Peking University Outstanding Moral Education Award 2025年度北京大学优秀德育奖
 
-2025 Peking University Outstanding Undergraduate Thesis Advisor Award 2025年度北京大学优秀本科毕业论文指导教师奖
+2025 Peking University Outstanding Undergraduate Thesis Supervision Award 2025年度北京大学优秀本科毕业论文指导教师奖
 
 2024 The 9th Outstanding Scientific Research Achievement Award for Higher Education Institutions (Humanities and Social Sciences) - Young Achievers Award 第九届高等学校科学研究优秀成果奖(人文社会科学)-青年成果奖
 
