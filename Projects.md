@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 教研项目/Projects
+title: 研究项目/Projects
 permalink: /Projects/
 sidebar_link: true
 sidebar_sort_order: 5
