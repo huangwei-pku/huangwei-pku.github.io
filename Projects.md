@@ -38,6 +38,9 @@ sidebar_sort_order: 5
 
 
 ### 教学改革课题/案例 (Teaching Reform Projects)
+2025 Faculty of Economics and Management Digital-Intelligence Undergraduate Teaching Reform Subproject — Reforming Econometrics Education in the Digital-Intelligence Era: AI Integration and Innovative Practices 数智时代计量经济学课程改革: AI融合与创新实践  (参与)
+
+2025 Peking University Faculty of Economics and Management Digital-Intelligence Undergraduate Teaching Reform Subproject — ERTA-Driven Course Reform and Future Prospects (Economics Research Training) 2025年北京大学经管学部数智化本科教学改革子项目——ERTA平台驱动的课程改革与未来展望 (负责人)
 
 2025 Peking University AI-Integrated Undergraduate Curriculum Innovation Case: “Integration of AI Tools in the Economics Research Training Course: Application of the ERTA (Economic Research Teaching Assistance) Platform” 北京大学2025年AI融合本科专业课程建设创新案例“经济学研究训练课程AI工具融合案例：ERTA平台的应用” (负责人)
 
