@@ -73,6 +73,9 @@ sidebar_sort_order: 2
 
 
 ### 奖项与荣誉 / Honors and Awards  
+
+2025 Outstanding/Excellent Paper Award, Management World (管理世界), for “Control Variable Selection in Empirical Research: Principles and Rules,” 2025(10). 2025年 《管理世界》优秀论文（获奖论文：《实证研究中的控制变量选择：原理与原则》，《管理世界》2025年第10期）
+
 2025 Peking University Outstanding Moral Education Award 2025年度北京大学优秀德育奖
 
 2025  First Prize, Jiangxi Provincial Outstanding Social Science Achievements Award 2025年江西省第二十一次社会科学优秀成果奖 一等奖
