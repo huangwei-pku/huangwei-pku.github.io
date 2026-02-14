@@ -9,6 +9,8 @@ sidebar_sort_order: 3
 
 ### Publications & Forthcoming
 
+**E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.** with Zengdong Cao, Hantao Wu and Jinyang Ren. Conditionally accepted at ***Journal of Human Resources***.
+
 **Huang, Wei,** Qingfeng Liu, Jianwei Xing, Shilin Zheng.* [**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.**](https://doi.org/10.1093/ej/ueaf093)  ***Economic Journal***, Available online 29 September 2025. 
 
 He, Zeyi, Zhi-An Hu, **Wei Huang**,* and Yankun Kang. **[Tourism Growth, Education Decline: Evidence from China’s 5A Attraction Expansion.](https://doi.org/10.1016/j.jue.2025.103811)** ***Journal of Urban Economics*** 150 (2025): 103811. 
@@ -75,16 +77,13 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 
 ### Working Papers
-
-**E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.** with Zengdong Cao and Hantao Wu. Revision Requested at ***Journal of Human Resources***.
+**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan and Hong Zou. Revision Requested at ***Journal of Population Economics***.
 
 **Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.** with Fan He, Yinghao Pan, Jiao Wang. Revision Requested at ***The Review of Economics and Statistics***.
 
 **Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China.** with Haotian Zhang, Wei Zheng. Revision Requested at ***Journal of Development Economics***.
 
 **When Fewer Children Mean Shorter Lives: Fertility Policy and Elderly Well-Being in China.** with Xiaoyan Lei, Shuang Qiu. Revision Requested at ***Journal of Health Economics***.
-
-**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan. Revision Requested at ***Journal of Population Economics***.
 
 **Property Rights for the Aging Population: Labor and Welfare Responses to Land Reform in China.** with Xiaoyan Lei, Shuang Qiu, Yuqi Ta. Revision Requested at ***Journal of Labor Economics***.
 
