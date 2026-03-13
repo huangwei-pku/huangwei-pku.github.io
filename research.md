@@ -17,7 +17,7 @@ sidebar_sort_order: 3
 
 He, Zeyi, Zhi-An Hu, **Wei Huang**,* and Yankun Kang. **[Tourism Growth, Education Decline: Evidence from China’s 5A Attraction Expansion.](https://doi.org/10.1016/j.jue.2025.103811)** ***Journal of Urban Economics*** 150 (2025): 103811. 
 
-Fan He, **Wei Huang**, Tim Liao, Yuanyuan, Ma.* **[Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty on Sex Ratios at Birth in China.](https://doi.org/10.1016/j.jce.2025.11.002)** ***Journal of Comparative Economics***, Available online 17 November 2025.
+Fan He, **Wei Huang**, Tim Liao, Yuanyuan, Ma.* 2026. “**[Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty on Sex Ratios at Birth in China.](https://doi.org/10.1016/j.jce.2025.11.002)**  ***Journal of Comparative Economics*** 54: 273–294. 
 
 **Huang, Wei,** Keyan Xiang, Xi Yu, Hong Zou.* [**Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.**](https://www.sciencedirect.com/science/article/pii/S0167629625001031)  ***Journal of Health Economics*** 104 (2025): 103068. 
 
