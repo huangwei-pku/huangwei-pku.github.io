@@ -9,15 +9,15 @@ sidebar_sort_order: 3
 
 ### Publications & Forthcoming
 
-**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.** with Fan He, Yinghao Pan, Jiao Wang. Forthcoming at ***The Review of Economics and Statistics***.
+He, Fan, **Wei Huang**, Yinghao Pan, Jiao Wang. **Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.**  Forthcoming at ***The Review of Economics and Statistics***.
 
-**E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.** with Zengdong Cao, Hantao Wu and Jinyang Ren. Forthcoming at ***Journal of Human Resources***.
+Cao, Zengdong, **Wei Huang**, Hantao Wu and Jinyang Ren.  **E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.** Forthcoming at ***Journal of Human Resources***.
 
 **Huang, Wei,** Qingfeng Liu, Jianwei Xing, Shilin Zheng.* [**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.**](https://doi.org/10.1093/ej/ueaf093)  ***Economic Journal***, Available online 29 September 2025. 
 
 He, Zeyi, Zhi-An Hu, **Wei Huang**,* and Yankun Kang. **[Tourism Growth, Education Decline: Evidence from China’s 5A Attraction Expansion.](https://doi.org/10.1016/j.jue.2025.103811)** ***Journal of Urban Economics*** 150 (2025): 103811. 
 
-Fan He, **Wei Huang**, Tim Liao, Yuanyuan, Ma.* 2026. “**[Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty on Sex Ratios at Birth in China.](https://doi.org/10.1016/j.jce.2025.11.002)**  ***Journal of Comparative Economics*** 54: 273–294. 
+He, Fan, **Wei Huang**, Tim Liao, Yuanyuan, Ma.* 2026. “**[Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty on Sex Ratios at Birth in China.](https://doi.org/10.1016/j.jce.2025.11.002)**  ***Journal of Comparative Economics*** 54: 273–294. 
 
 **Huang, Wei,** Keyan Xiang, Xi Yu, Hong Zou.* [**Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.**](https://www.sciencedirect.com/science/article/pii/S0167629625001031)  ***Journal of Health Economics*** 104 (2025): 103068. 
 
