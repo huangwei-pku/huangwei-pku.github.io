@@ -38,6 +38,9 @@ sidebar_sort_order: 5
 
 
 ### 教学改革课题/案例 (Teaching Reform Projects)
+
+2026 Peking University Undergraduate Teaching Reform Project — AI-Empowered Reform of Econometrics Education: Undergraduate Methods Training and Dissemination Centered on the Full Research Cycle 2026年北京大学本科教学改革项目——AI赋能计量经济学课程改革：面向研究闭环的本科方法训练与推广（负责人）
+
 2025 Faculty of Economics and Management Digital-Intelligence Undergraduate Teaching Reform Subproject — Reforming Econometrics Education in the Digital-Intelligence Era: AI Integration and Innovative Practices 数智时代计量经济学课程改革: AI融合与创新实践  (参与)
 
 2025 Peking University Faculty of Economics and Management Digital-Intelligence Undergraduate Teaching Reform Subproject — ERTA-Driven Course Reform and Future Prospects (Economics Research Training) 2025年北京大学经管学部数智化本科教学改革子项目——ERTA平台驱动的课程改革与未来展望 (负责人)
