@@ -19,7 +19,7 @@ Cao, Zengdong, **Wei Huang**, Hantao Wu and Jinyang Ren.  **E-Commerce as a Driv
 
 He, Zeyi, Zhi-An Hu, **Wei Huang**,* and Yankun Kang. **[Tourism Growth, Education Decline: Evidence from China’s 5A Attraction Expansion.](https://doi.org/10.1016/j.jue.2025.103811)** ***Journal of Urban Economics*** 150 (2025): 103811. 
 
-He, Fan, **Wei Huang**, Tim Liao, Yuanyuan, Ma.* 2026. “**[Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty on Sex Ratios at Birth in China.](https://doi.org/10.1016/j.jce.2025.11.002)**  ***Journal of Comparative Economics*** 54: 273–294. 
+He, Fan, **Wei Huang**, Tim Liao, Yuanyuan, Ma.* 2026. **[Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty on Sex Ratios at Birth in China.](https://doi.org/10.1016/j.jce.2025.11.002)**  ***Journal of Comparative Economics*** 54: 273–294. 
 
 **Huang, Wei,** Keyan Xiang, Xi Yu, Hong Zou.* [**Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.**](https://www.sciencedirect.com/science/article/pii/S0167629625001031)  ***Journal of Health Economics*** 104 (2025): 103068. 
 
@@ -90,16 +90,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 **When Money Isn't Fungible: Behavioral Frictions and Welfare Costs in Earmarked Health Accounts.** with Xiaoyan Lei, Yuqi Ta. Revision Requested at ***The Review of Economics and Statistics***.
 
 **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
-
-**How do Spot Price and Future Price Affect Healthcare Usage? Evidence from Quasi-Experiments in China.** with Jin Feng, Hong Song, and Zhen Wang.
-
-**How Does Household Consumption Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China.** with Mi Luo, Yinghao Pan, and Hong Song. 
-
-**Unawareness of Unhealthiness, Information Provision, and Health Insurance Participation among the Elderly.** with Mi Luo.  
-
-**Economic Conditions and Mortality: Evidence from 200 Years of Data.** with David Cutler and Adriana Lleras-Muney.
-
-**Beyond Money: Time Costs as a Determinant of Healthcare Utilization.** with Xiangyuan Ding, Yuqi Ta and Yi Zhou. 
 
 **Connecting the Elderly: Health Benefits and Social Support from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. (Under Review)
 
