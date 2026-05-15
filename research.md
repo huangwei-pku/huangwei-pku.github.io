@@ -9,7 +9,7 @@ sidebar_sort_order: 3
 
 ### Publications & Forthcoming
 
-He, Fan, **Wei Huang**, Yinghao Pan, Jiao Wang. **Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.**  Forthcoming at ***The Review of Economics and Statistics***.
+He, Fan, **Wei Huang**, Yinghao Pan, Jiao Wang. [**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.**](https://doi.org/10.1162/REST.a.1781)  Forthcoming at ***The Review of Economics and Statistics***.
 
 Cao, Zengdong, **Wei Huang**, Hantao Wu and Jinyang Ren.  **E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.** Forthcoming at ***Journal of Human Resources***.
 
