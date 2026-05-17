@@ -9,11 +9,11 @@ sidebar_sort_order: 3
 
 ### Publications & Forthcoming
 
-He, Fan, **Wei Huang**, Yinghao Pan, Jiao Wang. [**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.**](https://doi.org/10.1162/REST.a.1781)  Forthcoming at ***The Review of Economics and Statistics***.
+He, Fan, **Wei Huang**,* Yinghao Pan,* Jiao Wang.* [**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.**](https://doi.org/10.1162/REST.a.1781)  Forthcoming at ***The Review of Economics and Statistics***.
 
 Cao, Zengdong, **Wei Huang**, Jinyang Ren and Hantao Wu.  [**E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.**](https://doi.org/10.3368/jhr.0425-14179R3) Forthcoming at ***Journal of Human Resources***.
 
-**Huang, Wei,** Qingfeng Liu, Jianwei Xing, Shilin Zheng.* [**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.**](https://doi.org/10.1093/ej/ueaf093)  ***Economic Journal*** 136, no. 676 (2026): 1394–1439. 
+**Huang, Wei,** Qingfeng Liu, Jianwei Xing,* Shilin Zheng. [**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.**](https://doi.org/10.1093/ej/ueaf093)  ***Economic Journal*** 136, no. 676 (2026): 1394–1439. 
 
 **Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/61/2/453) ***Journal of Human Resources*** , March 2026, 61 (2) 453-486
 
