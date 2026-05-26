@@ -9,6 +9,8 @@ sidebar_sort_order: 3
 
 ### Publications & Forthcoming
 
+**Huang, Wei,** Xiaoyan Lei, Shuang Qiu.* **When Fewer Children Mean Shorter Lives: Fertility Policy and Elderly Well-Being in China** Forthcoming at ***Journal of Health Economics***.
+
 He, Fan, **Wei Huang**,* Yinghao Pan,* Jiao Wang.* [**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.**](https://doi.org/10.1162/REST.a.1781)  Forthcoming at ***The Review of Economics and Statistics***.
 
 Cao, Zengdong, **Wei Huang**, Jinyang Ren and Hantao Wu.  [**E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.**](https://doi.org/10.3368/jhr.0425-14179R3) Forthcoming at ***Journal of Human Resources***.
@@ -82,8 +84,6 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan and Hong Zou. Revision Requested at ***Journal of Population Economics***.
 
 **Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China.** with Haotian Zhang, Wei Zheng. Revision Requested at ***Journal of Development Economics***.
-
-**When Fewer Children Mean Shorter Lives: Fertility Policy and Elderly Well-Being in China.** with Xiaoyan Lei, Shuang Qiu. Revision Requested at ***Journal of Health Economics***.
 
 **Property Rights for the Aging Population: Labor and Welfare Responses to Land Reform in China.** with Xiaoyan Lei, Shuang Qiu, Yuqi Ta. Revision Requested at ***Journal of Labor Economics***.
 
