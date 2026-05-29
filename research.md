@@ -9,7 +9,7 @@ sidebar_sort_order: 3
 
 ### Publications & Forthcoming
 
-**Huang, Wei,** Xiaoyan Lei, Shuang Qiu.* **When Fewer Children Mean Shorter Lives: Fertility Policy and Elderly Well-Being in China** Forthcoming at ***Journal of Health Economics***.
+**Huang, Wei,** Xiaoyan Lei, Shuang Qiu.* [**When Fewer Children Mean Shorter Lives: Fertility Policy and Elderly Well-Being in China.**](https://doi.org/10.1016/j.jhealeco.2026.103152) Forthcoming at ***Journal of Health Economics***.
 
 He, Fan, **Wei Huang**,* Yinghao Pan,* Jiao Wang.* [**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.**](https://doi.org/10.1162/REST.a.1781)  Forthcoming at ***The Review of Economics and Statistics***.
 
