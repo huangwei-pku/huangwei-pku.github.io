@@ -89,6 +89,8 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **When Money Isn't Fungible: Behavioral Frictions and Welfare Costs in Earmarked Health Accounts.** with Xiaoyan Lei, Yuqi Ta. Revision Requested at ***The Review of Economics and Statistics***.
 
+**Beyond Earnings: Higher Education and the Composition of Household Consumption.** with Ruisi Cai, Xiangyuan Ding, Jinyang Ren. Revision Requested at ***European Economic Review***.
+
 **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
 **Connecting the Elderly: Health Benefits and Social Support from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. (Under Review)
