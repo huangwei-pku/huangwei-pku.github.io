@@ -83,7 +83,7 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 ### Working Papers
 **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan and Hong Zou. Revision Requested at ***Journal of Population Economics***.
 
-**Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China.** with Haotian Zhang, Wei Zheng. Revision Requested at ***Journal of Development Economics***.
+**Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China.** with Hai Huang, Haotian Zhang, Wei Zheng. Revision Requested at ***Journal of Development Economics***.
 
 **Property Rights for the Aging Population: Labor and Welfare Responses to Land Reform in China.** with Xiaoyan Lei, Shuang Qiu, Yuqi Ta. Revision Requested at ***Journal of Labor Economics***.
 
