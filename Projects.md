@@ -28,6 +28,8 @@ sidebar_sort_order: 5
 
 2024–2025 Digital Economy Empowerment, Human Capital Improvement, and Online Shopping Consumption, Peking University Digital Finance Research Center (PI) 北京大学数字金融研究中心课题：数字经济赋能、人力资本提升与网购消费（负责人）
 
+2024  Equalization of Basic Public Services from the Perspective of Chinese Modernization, Key Think Tank Research Project 2024年智库重点研究课题：中国式现代化视角下的基本公共服务均等化研究
+
 2024–2025 Responding to Demographic Pressures by Strengthening the Policy Framework Addressing the Low-Fertility Landscape, ADB–PRC Project (Team Leader)
 
 2023–2026 An Economic Analysis and Public Policy Assessment of China’s Declining Birthrate and Population Aging, NSFC Excellent Young Scientists Fund, Overseas (PI) 海外优青项目：中国少子化和老龄化的经济学分析与公共政策评估（负责人）
