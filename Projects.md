@@ -9,6 +9,7 @@ sidebar_sort_order: 5
 
 ### 学术研究课题 (Academic Research Projects)
 
+2026 Key Think Tank Research Project: A Family Policy System for Integrated Responses to Population Aging and Low Fertility (PI) 2026年度智库重点研究课题：一体应对老龄化少子化的家庭政策体系研究（负责人）
 
 2026 Research on Removing Unreasonable Restrictive Measures in the Consumption Sector and Related Policy Measures, National Development and Reform Commission of the People’s Republic of China (PI) 国家发改委消费领域不合理限制性措施清单及清理举措研究（负责人）
 
@@ -28,7 +29,7 @@ sidebar_sort_order: 5
 
 2024–2025 Digital Economy Empowerment, Human Capital Improvement, and Online Shopping Consumption, Peking University Digital Finance Research Center (PI) 北京大学数字金融研究中心课题：数字经济赋能、人力资本提升与网购消费（负责人）
 
-2024  Equalization of Basic Public Services from the Perspective of Chinese Modernization, Key Think Tank Research Project 2024年智库重点研究课题：中国式现代化视角下的基本公共服务均等化研究
+2024 Key Think Tank Research Project: Equalization of Basic Public Services from the Perspective of Chinese Modernization 2024年度智库重点研究课题：中国式现代化视角下的基本公共服务均等化研究
 
 2024–2025 Responding to Demographic Pressures by Strengthening the Policy Framework Addressing the Low-Fertility Landscape, ADB–PRC Project (Team Leader)
 
