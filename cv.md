@@ -8,9 +8,9 @@ sidebar_sort_order: 2
 
 ### 学术任职 / Academic Employment：
 
-2026.02–Present 北京大学国家发展研究院，教授（国家海外高层次青年人才项目，2022.07起） / Professor, National School of Development (NSD), Peking University (Overseas High-Level Young Talent Program, since 2022.07)
+2026.02–Present 北京大学国家发展研究院，教授（国家海外高层次青年人才项目，2022.07起） / Professor with Tenure, National School of Development (NSD), Peking University (Overseas High-Level Young Talent Program, since 2022.07)
 
-2022.07–2026.01 北京大学国家发展研究院，长聘副教授（国家海外高层次青年人才项目） / Tenured Associate Professor, National School of Development (NSD), Peking University (Overseas High-Level Young Talent Program)
+2022.07–2026.01 北京大学国家发展研究院，长聘副教授（国家海外高层次青年人才项目） / Associate Professor with Tenure, National School of Development (NSD), Peking University (Overseas High-Level Young Talent Program)
 
 2021.05–2022.06 美国埃默里大学经济系，助理教授 / Assistant Professor, Department of Economics, Emory University
 
