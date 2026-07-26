@@ -13,6 +13,8 @@ He, Fan, **Wei Huang**,* Yinghao Pan,* Jiao Wang.* [**Public Health, Human Capit
 
 Cao, Zengdong, **Wei Huang**, Jinyang Ren and Hantao Wu.  [**E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.**](https://doi.org/10.3368/jhr.0425-14179R3) Forthcoming at ***Journal of Human Resources***.
 
+**Huang, Wei**, Luoqi Yuan and Hong Zou*. **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** Forthcoming at ***Journal of Population Economics***.
+
 **Huang, Wei,** Xiaoyan Lei, Shuang Qiu.* [**When Fewer Children Mean Shorter Lives: Fertility Policy and Elderly Well-Being in China.**](https://doi.org/10.1016/j.jhealeco.2026.103152) ***Journal of Health Economics*** (2026): 103152.
 
 **Huang, Wei,** Qingfeng Liu, Jianwei Xing,* Shilin Zheng. [**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.**](https://doi.org/10.1093/ej/ueaf093)  ***Economic Journal*** 136, no. 676 (2026): 1394–1439. 
@@ -81,7 +83,7 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 
 ### Working Papers
-**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** with Luoqi Yuan and Hong Zou. Revision Requested at ***Journal of Population Economics***.
+
 
 **Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China.** with Hai Huang, Haotian Zhang, Wei Zheng. Revision Requested at ***Journal of Development Economics***.
 
