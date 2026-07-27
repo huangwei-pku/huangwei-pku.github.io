@@ -13,7 +13,7 @@ He, Fan, **Wei Huang**,* Yinghao Pan,* Jiao Wang.* [**Public Health, Human Capit
 
 Cao, Zengdong, **Wei Huang**, Jinyang Ren and Hantao Wu.  [**E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.**](https://doi.org/10.3368/jhr.0425-14179R3) Forthcoming at ***Journal of Human Resources***.
 
-**Huang, Wei**, Luoqi Yuan and Hong Zou*. **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** Forthcoming at ***Journal of Population Economics***.
+**Huang, Wei**, Luoqi Yuan and Hong Zou.* **The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.** Forthcoming at ***Journal of Population Economics***.
 
 **Huang, Wei,** Xiaoyan Lei, Shuang Qiu.* [**When Fewer Children Mean Shorter Lives: Fertility Policy and Elderly Well-Being in China.**](https://doi.org/10.1016/j.jhealeco.2026.103152) ***Journal of Health Economics*** (2026): 103152.
 
