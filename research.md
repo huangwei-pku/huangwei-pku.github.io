@@ -11,7 +11,7 @@ sidebar_sort_order: 3
 
 He, Fan, **Wei Huang**,* Yinghao Pan,* Jiao Wang.* [**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China.**](https://doi.org/10.1162/REST.a.1781)  Forthcoming at ***Review of Economics and Statistics***.
 
-**Huang, Wei,** Hai Huang, Haotian Zhang,* Wei Zheng. **Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China.** Forthcoming at ***Journal of Development Economics***.
+**Huang, Wei,** Hai Huang, Haotian Zhang,* Wei Zheng. [**Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China.**](https://www.sciencedirect.com/science/article/abs/pii/S0304387826001860 ) Forthcoming at ***Journal of Development Economics***.
 
 Cao, Zengdong, **Wei Huang**, Jinyang Ren and Hantao Wu.  [**E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.**](https://doi.org/10.3368/jhr.0425-14179R3) Forthcoming at ***Journal of Human Resources***.
 
