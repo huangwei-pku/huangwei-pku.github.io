@@ -93,6 +93,8 @@ Freeman, Richard B., and **Wei Huang**. [**Collaboration: Strength in Diversity.
 
 **Beyond Earnings: Higher Education and the Composition of Household Consumption.** with Ruisi Cai, Xiangyuan Ding, Jinyang Ren. Revision Requested at ***European Economic Review***.
 
+**Human Capital as Insurance: Education Responses to Labor Market Uncertainty.** with Kai Chen, Fuming Jia, Guangjun Shen. Revision Requested at ***Journal of Economic Behavior & Organization***.
+
 **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
 **Connecting the Elderly: Health Benefits and Social Support from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. (Under Review)
