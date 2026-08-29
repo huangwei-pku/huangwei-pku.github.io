@@ -15,7 +15,7 @@ sidebar_sort_order: 1
 <br>
 
 <font size="4">
-I am a Professor of Economics in the National School of Development, Peking University. Previously, I was an Associate Professor at the same institute, and an Assistant Professor at Emory University and the National University of Singapore. I was also a Postdoctoral Fellow at the National Bureau of Economic Research (NBER) in 2017. I received my PhD in Economics from Harvard University in 2016.
+I am a Boya Young Fellow and Professor of Economics at the National School of Development (NSD), Peking University. I am also the Director of Undergraduate Studies at NSD, Deputy Director of the China Center for Economic Research (CCER), and Deputy Director of the Center for Healthy Aging and Development. I was selected into the National Youth Talent Program and serve as the Principal Investigator of a Major Project funded by the National Social Science Fund of China. I previously held positions at the National Bureau of Economic Research (NBER), the National University of Singapore (NUS), and Emory University. My research interests span labor economics, health economics, and public economics. I received my Ph.D. in Economics from Harvard University in 2016.
 <br>
 <br>
 
