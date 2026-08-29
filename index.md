@@ -10,7 +10,7 @@ sidebar_sort_order: 1
 
 ### 简介/Bio
 <br>
-<font size="4"> 北大博雅青年学者、北大国发院经济学教授、海外高层次国家级青年人才计划入选者、国家社科基金重大项目首席专家、国发院本科教学主任、中国经济研究中心副主任、健康老龄与发展研究中心副主任。先后任职于美国经济研究局（NBER）、新加坡国立大学（NUS）和美国埃默里大学（Emory University）。研究兴趣主要集中于劳动经济学、健康经济学和公共经济学等领域。黄炜老师于2016年获得哈佛大学经济学博士学位。黄炜老师在 Nature、REStat、AEJ-applied、JoLE、JPubE、JDE、 JHR、JEP 和《经济研究》、《管理世界》、《经济学（季刊）》、《世界经济》等经济学权威学术期刊上发表论文50余篇。担任国际SSCI杂志EoT 共同主编, JHE, JEBO, CER和JAE副主编以及《经济学》（季刊）副主编。曾获张培刚发展经济学青年学者奖，青木昌彦经济学论文奖，教育部人文社科优秀成果-青年成果奖等。
+<font size="4"> 北大博雅青年学者、北大国发院经济学教授、海外高层次国家级青年人才计划入选者、国家社科基金重大项目首席专家、国发院本科教学主任、中国经济研究中心副主任、健康老龄与发展研究中心副主任。先后任职于美国经济研究局（NBER）、新加坡国立大学（NUS）和美国埃默里大学（Emory University）。研究兴趣主要集中于劳动经济学、健康经济学和公共经济学等领域。黄炜老师于2016年获得哈佛大学经济学博士学位。黄炜老师在 Nature、REStat、AEJ-applied、JoLE、JPubE、JDE、 JHR、JEP 和《经济研究》、《管理世界》、《经济学（季刊）》、《世界经济》等经济学权威学术期刊上发表论文50余篇。担任国际SSCI杂志 EoT 共同主编, JDE, JHE, JEBO, CER和JAE副主编以及《经济学》（季刊）副主编。曾获张培刚发展经济学青年学者奖，青木昌彦经济学论文奖，教育部人文社科优秀成果-青年成果奖等。
  <br>
  <br>
 <font size="4"> I am a Professor of Economics in the National School of Development, Peking University. Previously, I was an Associate Professor at the same institute, and an Assistant Professor at Emory University and the National University of Singapore. I was also a Postdoctoral Fellow at the National Bureau of Economic Research (NBER) in 2017. I received my PhD in Economics from Harvard University in 2016.
