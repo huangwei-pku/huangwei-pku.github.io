@@ -7,12 +7,6 @@ sidebar_sort_order: 1
 
 ### 简介 / Bio
 
-<font size="4">
-
-北大博雅青年学者、北大国发院经济学教授、海外高层次国家级青年人才计划入选者、国家社科基金重大项目首席专家、国发院本科教学主任、中国经济研究中心副主任、健康老龄与发展研究中心副主任。先后任职于美国经济研究局（NBER）、新加坡国立大学（NUS）和美国埃默里大学（Emory University）。研究兴趣主要集中于劳动经济学、健康经济学和公共经济学等领域。黄炜老师于2016年获得哈佛大学经济学博士学位。黄炜老师在 Nature、REStat、AEJ-applied、JoLE、JPubE、JDE、 JHR、JEP 和《经济研究》、《管理世界》、《经济学（季刊）》、《世界经济》等经济学权威学术期刊上发表论文50余篇。担任国际SSCI杂志 EoT 共同主编, JDE, JHE, JEBO, CER和JAE副主编以及《经济学》（季刊）副主编。曾获张培刚发展经济学青年学者奖，青木昌彦经济学论文奖，教育部人文社科优秀成果-青年成果奖等。
-</font>
-
-
 <p style="font-size: 17px; line-height: 1.75;">
 北大博雅青年学者、北大国发院经济学教授、海外高层次国家级青年人才计划入选者、国家社科基金重大项目首席专家、国发院本科教学主任、中国经济研究中心副主任、健康老龄与发展研究中心副主任。先后任职于美国经济研究局（NBER）、新加坡国立大学（NUS）和美国埃默里大学（Emory University）。研究兴趣主要集中于劳动经济学、健康经济学和公共经济学等领域。黄炜老师于2016年获得哈佛大学经济学博士学位。黄炜老师在 <i>Nature</i>、<i>REStat</i>、<i>AEJ-applied</i>、<i>JoLE</i>、<i>JPubE</i>、<i>JDE</i>、<i>JHR</i>、<i>JEP</i> 和《经济研究》、《管理世界》、《经济学（季刊）》、《世界经济》等经济学权威学术期刊上发表论文50余篇。担任国际SSCI杂志 <i>Economics of Transition</i> 共同主编，<i>JDE</i>、<i>JHE</i>、<i>JEBO</i>、<i>CER</i> 和 <i>JAE</i> 副主编以及《经济学》（季刊）副主编。曾获张培刚发展经济学青年学者奖、青木昌彦经济学论文奖、教育部人文社科优秀成果-青年成果奖等。
 </p>
@@ -21,12 +15,13 @@ sidebar_sort_order: 1
 <br>
 <br>
 
-<font size="4">
-I am a Boya Young Fellow and Professor of Economics at the National School of Development (NSD), Peking University. I am also the Director of Undergraduate Studies at NSD, Deputy Director of the China Center for Economic Research (CCER), and Deputy Director of the Center for Healthy Aging and Development. I was selected into the National Youth Talent Program and serve as the Principal Investigator of a Major Project funded by the National Social Science Fund of China. I previously held positions at the National Bureau of Economic Research (NBER), the National University of Singapore (NUS), and Emory University. My research interests span labor economics, health economics, and public economics. I received my Ph.D. in Economics from Harvard University in 2016.
-<br>
-<br>
 
-My research fields include public economics, labor economics, and health economics.</font>
+<p style="font-size: 17px; line-height: 1.75;">
+I am a Boya Young Fellow and Professor of Economics at the National School of Development (NSD), Peking University. I am also the Director of Undergraduate Studies at NSD, Deputy Director of the China Center for Economic Research (CCER), and Deputy Director of the Center for Healthy Aging and Development. I was selected into the National Youth Talent Program and serve as the Principal Investigator of a Major Project funded by the National Social Science Fund of China. I previously held positions at the National Bureau of Economic Research (NBER), the National University of Singapore (NUS), and Emory University. My research interests span labor economics, health economics, and public economics. I received my Ph.D. in Economics from Harvard University in 2016.
+<br><br>
+I have published over 50 papers in leading academic journals, including <i>Nature</i>, <i>Review of Economics and Statistics</i>, <i>American Economic Journal: Applied Economics</i>, <i>Journal of Labor Economics</i>, <i>Journal of Public Economics</i>, <i>Journal of Development Economics</i>, <i>Journal of Human Resources</i>, <i>Journal of Economic Perspectives</i>, <i>Economic Research Journal</i> (《经济研究》), <i>Management World</i> (《管理世界》), <i>China Economic Quarterly</i> (《经济学（季刊）》), and <i>The Journal of World Economy</i> (《世界经济》). I serve as Co-Editor of <i>Economics of Transition</i> (EoT), Associate Editor of <i>Journal of Development Economics</i> (JDE), <i>Journal of Health Economics</i> (JHE), <i>Journal of Economic Behavior & Organization</i> (JEBO), <i>China Economic Review</i> (CER), and <i>Journal of Asian Economics</i> (JAE), and Associate Editor of <i>China Economic Quarterly</i> (《经济学（季刊）》). I am the recipient of the Zhang Peigang Award for Young Scholars in Development Economics, the Aoki Masahiko Economics Paper Award, and the Youth Achievement Award of the Ministry of Education's Humanities and Social Sciences Outstanding Achievement Award.
+</p>
+
 
 
 
