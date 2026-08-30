@@ -18,7 +18,9 @@ I am a Boya Young Fellow and Professor of Economics at the National School of De
 
 
 
-[CV](https://huangweipku.com/cv/) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=RSgXX2oAAAAJ) 
+[CV](https://huangweipku.com/cv/) &nbsp;&nbsp;&nbsp;&nbsp; [下载完整简历 (PDF)](/assets/cv.pdf) <br>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=RSgXX2oAAAAJ) 
+
 
 
 
