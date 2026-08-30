@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Wei Huang (黄炜)
 tagline:          'Homepage'
-description:      '经济学教授 / Professor of Economics<br>北京大学国家发展研究院 / National School of Development<br>北京大学 / Peking University<br>'
+description:      '经济学教授<br>北京大学国家发展研究院<br><br>Professor of Economics<br>National School of Development<br>Peking University<br>'
 url:              https://huangwei-pku.github.io
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
