@@ -5,6 +5,7 @@ permalink: /cv/
 sidebar_link: true
 sidebar_sort_order: 2
 ---
+<ul style="line-height: 2.2;">
 
 ### 学术任职 / Academic Employment：
 - 2026.02–Present 北京大学国家发展研究院，教授（国家海外高层次青年人才项目，2022.07起） / Professor with Tenure, National School of Development (NSD), Peking University (Overseas High-Level Young Talent Program, since 2022.07)
@@ -12,6 +13,7 @@ sidebar_sort_order: 2
 - 2021.05–2022.06 美国埃默里大学经济系，助理教授 / Assistant Professor, Department of Economics, Emory University
 - 2017.11–2021.05 新加坡国立大学，校长特聘助理教授 / Assistant Professor (Presidential Young Professor), National University of Singapore (NUS)
 - 2016.07–2017.06 美国国家经济研究局（NBER），博士后研究员 / Postdoctoral Research Fellow, National Bureau of Economic Research (NBER)
+</ul>
 
 
 ### 教育背景 / Education:
