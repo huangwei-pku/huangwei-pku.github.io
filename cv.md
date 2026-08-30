@@ -73,47 +73,27 @@ sidebar_sort_order: 2
 
 ### 奖项与荣誉 / Honors and Awards  
 
-2026 Peking University Teaching Excellence Award. 2026年度北京大学教学优秀奖
-
-2025 Outstanding Faculty Award for Undergraduate Research Training Supervision, Peking University. 2025年度北京大学本科生科研训练优秀指导教师奖
-
-2025 Outstanding Paper Award, Management World (管理世界), for “Control Variable Selection in Empirical Research: Principles and Rules,” 2025(10). 2025年 《管理世界》优秀论文（获奖论文：《实证研究中的控制变量选择：原理与原则》，《管理世界》2025年第10期）
-
-2025 Peking University Outstanding Moral Education Award 2025年度北京大学优秀德育奖
-
-2025  First Prize, Jiangxi Provincial Outstanding Social Science Achievements Award 2025年江西省第二十一次社会科学优秀成果奖 一等奖
-
-2025 Peking University Outstanding Undergraduate Thesis Supervision Award 2025年度北京大学优秀本科毕业论文指导教师奖
-
-2024 The 9th Outstanding Scientific Research Achievement Award for Higher Education Institutions (Humanities and Social Sciences) - Young Achievers Award 第九届高等学校科学研究优秀成果奖(人文社会科学)-青年成果奖
-
-2024 ICBC Teaching Award - Outstanding Scholar Award at Peking University 2024年北京大学中国工商银行奖教金-杰出学者奖
-
-2023 Annual Scholar of the China Youth Agricultural Economists Forum 2023年中国青年农业经济学家论坛年度学者
-
-2023 Masahiko Aoki Award for Economics Papers 2023年第四届青木昌彦经济学论文提名奖
-
-2020 Zhang Peigang Award for Young Scholars in Development Economics 2020年第三届张培刚发展经济学青年学者奖
-
-2018 Innovative Leading Talent (Short-Term) Project, Jiangxi Province ‘Double Thousand Plan’ 江西省“双千计划”创新领军人才（短期）项目
-
-2016-2017 NBER Post-Doctoral Fellowship on Economics of an Aging Workforce
-
-2015-2016 NBER Dissertation Fellowship on Economics of an Aging Workforce
-
-2015-2016 Jeanne Humphrey Block Dissertation Award, Harvard University
-
-2015 Extraordinary Potential Prize of Chinese Government Award for Outstanding Students Abroad, Chinese Ministry of Education
-
-2011, 2014 Warburg Research Fund, Harvard University
-
-2014 Poster Session Winner, Population Association of America
-
-2013-2014 NBER Pre-doc Fellowship in Aging and Health Economics;
-
-2013-2014 IQSS Graduate Research and Conference Travel Grant, Harvard University
-
-2012 Cheung Yan Family Research Grant, Harvard University
+2026 Peking University Teaching Excellence Award / 北京大学教学优秀奖  
+2025 Outstanding Faculty Award for Undergraduate Research Training Supervision, PKU / 北京大学本科生科研训练优秀指导教师奖  
+2025 Outstanding Paper Award, *Management World* / 《管理世界》优秀论文奖  
+2025 Peking University Outstanding Moral Education Award / 北京大学优秀德育奖  
+2025 First Prize, Jiangxi Provincial Outstanding Social Science Achievements Award / 江西省第二十一次社会科学优秀成果奖一等奖  
+2025 Peking University Outstanding Undergraduate Thesis Supervision Award / 北京大学优秀本科毕业论文指导教师奖  
+2024 The 9th Outstanding Scientific Research Achievement Award for Higher Education Institutions (Humanities and Social Sciences) - Young Achievers Award / 第九届高等学校科学研究优秀成果奖（人文社会科学）青年成果奖  
+2024 ICBC Teaching Award - Outstanding Scholar Award, PKU / 北京大学中国工商银行奖教金-杰出学者奖  
+2023 Annual Scholar, China Youth Agricultural Economists Forum / 中国青年农业经济学家论坛年度学者  
+2023 Masahiko Aoki Award for Economics Papers / 第四届青木昌彦经济学论文提名奖  
+2020 Zhang Peigang Award for Young Scholars in Development Economics / 第三届张培刚发展经济学青年学者奖  
+2018 Innovative Leading Talent (Short-Term), Jiangxi Province "Double Thousand Plan" / 江西省"双千计划"创新领军人才（短期）项目  
+2016–2017 NBER Post-Doctoral Fellowship on Economics of an Aging Workforce / NBER 老龄化劳动力经济学博士后奖学金  
+2015–2016 NBER Dissertation Fellowship on Economics of an Aging Workforce / NBER 老龄化劳动力经济学博士论文奖学金  
+2015–2016 Jeanne Humphrey Block Dissertation Award, Harvard University / 哈佛大学 Jeanne Humphrey Block 博士论文奖  
+2015 Extraordinary Potential Prize, Chinese Government Award for Outstanding Students Abroad, Chinese Ministry of Education / 中国政府优秀自费留学生奖学金特别优秀奖  
+2014 Poster Session Winner, Population Association of America / 美国人口学会海报展优胜奖  
+2011, 2014 Warburg Research Fund, Harvard University / 哈佛大学 Warburg 研究基金  
+2013–2014 NBER Pre-Doctoral Fellowship in Aging and Health Economics / NBER 健康与老龄经济学博士前奖学金  
+2013–2014 IQSS Graduate Research and Conference Travel Grant, Harvard University / 哈佛大学 IQSS 研究生研究与会议差旅资助  
+2012 Cheung Yan Family Research Grant, Harvard University / 哈佛大学 Cheung Yan 家族研究基金
 
 ### Referee Activities
 *American Economic Journal, American Economic Review, Canadian Journal of Economics, China Economic Review, Economics and Education Review, Economics and Human Biology, Economics of Transition, Economic Inquiry, Health Economics, Journal of Development Economics, Journal of Development Studies, Journal of Health Economics, Journal of Housing Economics, Journal of Political Economy, Journal of Population Economics, Journal of Public Economics, Journal of Real Estate Economics, Journal of Urban Economics, Review of Economics and Statistics, Quarterly Journal of Economics, Research Policy, Science*
