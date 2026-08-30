@@ -46,7 +46,7 @@ sidebar_sort_order: 2
 2018–2020 China Center for Economics of Human Development 研究员 / Research Fellow, China Center for Economics of Human Development
 2016–2017 中国留美经济学会（CES）理事会成员 / Board Member, Chinese Economists Society (CES)
 2014–Present 德国劳动研究所（IZA）研究员 / Research Fellow, Institute of Labor Economics (IZA)
-2013–2014 NBER健康与老龄经济学博士研究员 / Pre-Doctoral Fellow, Aging and Health Economics, National Bureau of Economic Research (NBER)
+2013–2014 NBER健康与老龄经济学博士研究员 / Predoctoral Fellow, Aging and Health Economics, National Bureau of Economic Research (NBER)
 2013–2015 哈佛大学劳动力与工作项目Wertheim研究员 / Wertheim Fellow, Labor and Worklife Program, Harvard University
 2013–2014 哈佛大学肯尼迪学院不平等研究博士研究员 / Predoctoral Research Fellow, Inequality Program, Harvard Kennedy School
 2012–2016 哈佛大学量化社会科学研究所学生会员 / Student Affiliate, Institute for Quantitative Social Science (IQSS), Harvard University
