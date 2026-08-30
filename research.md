@@ -84,25 +84,24 @@ sidebar_sort_order: 3
 
 
 
-### Working Papers
+### Working Papers 
+
+- **Property Rights for the Aging Population: Labor and Welfare Responses to Land Reform in China.** with Xiaoyan Lei, Shuang Qiu, Yuqi Ta. Revision Requested at ***Journal of Labor Economics***.
+
+- **When Savings Accounts Become Spending Accounts: Behavioral and Welfare Consequences of Earmarked Health Accounts.** with Xiaoyan Lei, Yuqi Ta. Revision Requested at ***Review of Economics and Statistics***.
+
+- **Beyond Earnings: Higher Education and the Composition of Household Consumption.** with Ruisi Cai, Xiangyuan Ding, Jinyang Ren. Revision Requested at ***European Economic Review***.
+
+- **Human Capital as Insurance: Education Responses to Labor Market Uncertainty.** with Kai Chen, Fuming Jia, Guangjun Shen. Revision Requested at ***Journal of Economic Behavior & Organization***.
+
+- **Digital Infrastructure as Community Care: BCP Exposure and Elderly Health in China.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. Revision Requested at ***Journal of Comparative Economics***.
+
+- **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
 
-**Property Rights for the Aging Population: Labor and Welfare Responses to Land Reform in China.** with Xiaoyan Lei, Shuang Qiu, Yuqi Ta. Revision Requested at ***Journal of Labor Economics***.
+### Book Chapters / 学术专著 
+- 黄炜、张川川：《社会养老金的力量：中国新型农村养老保险计划的证据》，载：李实等主编《人的发展经济学研究（第一辑）：促进人的全面发展》，参编章节，中国财富出版社，2025，页码483–504。(学术专著)
 
-**When Money Isn't Fungible: Behavioral Frictions and Welfare Costs in Earmarked Health Accounts.** with Xiaoyan Lei, Yuqi Ta. Revision Requested at ***The Review of Economics and Statistics***.
+- Holzer, Harry J., and **Wei Huang**. "Richard B. Freeman (1943–)." ***The Palgrave Companion to Harvard Economics.*** Cham: Springer International Publishing, 2024. 731-754.
 
-**Beyond Earnings: Higher Education and the Composition of Household Consumption.** with Ruisi Cai, Xiangyuan Ding, Jinyang Ren. Revision Requested at ***European Economic Review***.
-
-**Human Capital as Insurance: Education Responses to Labor Market Uncertainty.** with Kai Chen, Fuming Jia, Guangjun Shen. Revision Requested at ***Journal of Economic Behavior & Organization***.
-
-**What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
-
-**Connecting the Elderly: Health Benefits and Social Support from Broadband China Policy.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. (Under Review)
-
-
-
-### Book Chapters
-
-Holzer, Harry J., and **Wei Huang**. "Richard B. Freeman (1943–)." ***The Palgrave Companion to Harvard Economics.*** Cham: Springer International Publishing, 2024. 731-754.
-
-Freeman, Richard B., and **Wei Huang**. "China’s “Great Leap Forward” in Science and Engineering." ***Global Mobility of Research Scientists***. Academic Press, 2015. 155-175.
+- Freeman, Richard B., and **Wei Huang**. "China’s “Great Leap Forward” in Science and Engineering." ***Global Mobility of Research Scientists***. Academic Press, 2015. 155-175.
