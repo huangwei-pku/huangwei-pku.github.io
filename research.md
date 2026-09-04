@@ -15,7 +15,7 @@ sidebar_sort_order: 3
 
 - Cao, Zengdong, **Wei Huang**, Jinyang Ren and Hantao Wu.  [**E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.**](https://doi.org/10.3368/jhr.0425-14179R3) Forthcoming at ***Journal of Human Resources***.
 
-- **Huang, Wei**, Luoqi Yuan and Hong Zou.* [**The Lasting Impact of Early-Life Exposure to ‘Black Death’: Evidence from 1910-1911 Manchurian Plague in China.**](https://link.springer.com/article/10.1007/s00148-026-01200-z) Forthcoming at ***Journal of Population Economics***.
+- **Huang, Wei**, Luoqi Yuan* and Hong Zou.* [**The Enduring Health Impact of Early-life Exposure to the 1910–1911 Manchurian Plague.**](https://link.springer.com/article/10.1007/s00148-026-01200-z) ***Journal of Population Economics*** (2026) 39: 55 .
 
 - **Huang, Wei,** Xiaoyan Lei, Shuang Qiu.* [**When Fewer Children Mean Shorter Lives: Fertility Policy and Elderly Well-Being in China.**](https://doi.org/10.1016/j.jhealeco.2026.103152) ***Journal of Health Economics*** (2026): 103152.
 
@@ -25,7 +25,7 @@ sidebar_sort_order: 3
 
 - He, Zeyi, Zhi-An Hu, **Wei Huang**,* and Yankun Kang. **[Tourism Growth, Education Decline: Evidence from China’s 5A Attraction Expansion.](https://doi.org/10.1016/j.jue.2025.103811)** ***Journal of Urban Economics*** 150 (2025): 103811. 
 
-- He, Fan, **Wei Huang**, Tim Liao, Yuanyuan, Ma.* 2026. **[Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty on Sex Ratios at Birth in China.](https://doi.org/10.1016/j.jce.2025.11.002)**  ***Journal of Comparative Economics*** 54: 273–294. 
+- He, Fan, **Wei Huang**, Tim Liao, Yuanyuan, Ma.*  **[Trade Liberalization and Gender Dynamics: The Impact of Policy Uncertainty on Sex Ratios at Birth in China.](https://doi.org/10.1016/j.jce.2025.11.002)**  ***Journal of Comparative Economics*** (2026) 54: 273–294. 
 
 - **Huang, Wei,** Keyan Xiang, Xi Yu, Hong Zou.* [**Polluted Air, Healthier Diets: Household Food Consumption Patterns in Response to Air Quality in China.**](https://www.sciencedirect.com/science/article/pii/S0167629625001031)  ***Journal of Health Economics*** 104 (2025): 103068. 
 
