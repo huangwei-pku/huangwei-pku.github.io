@@ -13,6 +13,8 @@ sidebar_sort_order: 3
 
 - Cao, Zengdong, **Wei Huang**, Jinyang Ren and Hantao Wu.  [**E-Commerce as a Driver of Gender Equity: Labor Supply and Household Outcomes in Rural China.**](https://doi.org/10.3368/jhr.0425-14179R3) Forthcoming at ***Journal of Human Resources***.
 
+- **Huang, Wei,** Qingyuan Li, Xiaoyan Lei, and Yan Shen.  **Digital Infrastructure as Community Care: BCP Exposure and Elderly Health in China.** Forthcoming at ***Journal of Comparative Economics***.
+
 - **Huang, Wei,** Hai Huang, Haotian Zhang,* Wei Zheng. [**Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China.**](https://doi.org/10.1016/j.jdeveco.2026.103903) ***Journal of Development Economics*** 184 (2027): 103903.
 
 - **Huang, Wei**, Luoqi Yuan* and Hong Zou.* [**The Enduring Health Impact of Early-life Exposure to the 1910–1911 Manchurian Plague.**](https://link.springer.com/article/10.1007/s00148-026-01200-z) ***Journal of Population Economics*** (2026) 39: 55 .
@@ -93,8 +95,6 @@ sidebar_sort_order: 3
 - **Beyond Earnings: Higher Education and the Composition of Household Consumption.** with Ruisi Cai, Xiangyuan Ding, Jinyang Ren. Revision Requested at ***European Economic Review***.
 
 - **Human Capital as Insurance: Education Responses to Labor Market Uncertainty.** with Kai Chen, Fuming Jia, Guangjun Shen. Revision Requested at ***Journal of Economic Behavior & Organization***.
-
-- **Digital Infrastructure as Community Care: BCP Exposure and Elderly Health in China.** with Qingyuan Li, Xiaoyan Lei, and Yan Shen. Revision Requested at ***Journal of Comparative Economics***.
 
 - **What is in ‘Moral Hazard’ of Health Insurance? Evidence from Quasi Experiments in China.** with Chuanchuan Zhang.
 
