@@ -21,7 +21,7 @@ sidebar_sort_order: 3
 
 - **Huang, Wei,** Qingfeng Liu, Jianwei Xing,* Shilin Zheng. [**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.**](https://doi.org/10.1093/ej/ueaf093)  ***Economic Journal*** 136, no. 676 (2026): 1394–1439. 
 
-- **Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of Maternal Education on Child Health.**](https://jhr.uwpress.org/content/61/2/453) ***Journal of Human Resources*** , March 2026, 61 (2) 453-486
+- **Huang, Wei**, Xiaoyan Lei, Guangjun Shen, and Ang Sun. [**Beyond Nature and Nurture: The Impact of China’s Compulsory Schooling Law on Selection Against High-Risk Fetuses**](https://jhr.uwpress.org/content/61/2/453) ***Journal of Human Resources*** , March 2026, 61 (2) 453-486
 
 - He, Zeyi, Zhi-An Hu, **Wei Huang**,* and Yankun Kang. **[Tourism Growth, Education Decline: Evidence from China’s 5A Attraction Expansion.](https://doi.org/10.1016/j.jue.2025.103811)** ***Journal of Urban Economics*** 150 (2025): 103811. 
 
