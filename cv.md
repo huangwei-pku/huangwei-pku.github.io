@@ -28,6 +28,8 @@ sidebar_sort_order: 2
 ### 学术兼职 / Academic Affiliations and Other Employment: 
 - 2027–Present Journal of Development Economics 副主编 / Deputy Editor, JDE
 
+- 2026–Present Series Editor (Co-Editor), Cambridge Elements in Health Economics, Cambridge University Press & Assessment, 2026–present 
+
 - 2025–Present 北京大学国家发展研究院中国经济研究中心副主任 / Deputy Director, China Center for Economic Research (CCER), National School of Development (NSD), Peking University
 
 - 2025–Present Journal of Health Economics 副主编 / Associate Editor, JHE
