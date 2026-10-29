@@ -92,6 +92,8 @@ sidebar_sort_order: 3
 
 - **When Savings Accounts Become Spending Accounts: Behavioral and Welfare Consequences of Earmarked Health Accounts.** with Xiaoyan Lei, Yuqi Ta. Revision Requested at ***Review of Economics and Statistics***.
 
+- **When Labor Mandates Bind: Enforcement and Firm Adjustment.** with Tianyu Huang, Yi Zheng, Ziyao Zhang. Revision Requested at ***Journal of Public Economics***.
+
 - **Beyond Earnings: Higher Education and the Composition of Household Consumption.** with Ruisi Cai, Xiangyuan Ding, Jinyang Ren. Revision Requested at ***European Economic Review***.
 
 - **Human Capital as Insurance: Education Responses to Labor Market Uncertainty.** with Kai Chen, Fuming Jia, Guangjun Shen. Revision Requested at ***Journal of Economic Behavior & Organization***.
