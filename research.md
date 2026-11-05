@@ -17,9 +17,11 @@ sidebar_sort_order: 3
 
 - **Huang, Wei,** Hai Huang, Haotian Zhang,* Wei Zheng. [**Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China.**](https://doi.org/10.1016/j.jdeveco.2026.103903) ***Journal of Development Economics*** 184 (2027): 103903.
 
-- **Huang, Wei**, Luoqi Yuan* and Hong Zou.* [**The Enduring Health Impact of Early-life Exposure to the 1910–1911 Manchurian Plague.**](https://link.springer.com/article/10.1007/s00148-026-01200-z) ***Journal of Population Economics*** (2026) 39: 55 .
+- **Huang, Wei**, Luoqi Yuan* and Hong Zou.* [**The Enduring Health Impact of Early-life Exposure to the 1910–1911 Manchurian Plague.**](https://link.springer.com/article/10.1007/s00148-026-01200-z) ***Journal of Population Economics*** (2026) 39: 55.
 
 - **Huang, Wei,** Xiaoyan Lei, Shuang Qiu.* [**When Fewer Children Mean Shorter Lives: Fertility Policy and Elderly Well-Being in China.**](https://doi.org/10.1016/j.jhealeco.2026.103152) ***Journal of Health Economics*** (2026): 103152.
+
+Lou, Shang, Ning Ma, Shaoru Chen, Yifan Chen, Guangyu Tong, Zhuang Hao, **Wei Huang**, et al. [Preprimary Education Laws and Women’s Gender Attitudes, Empowerment and Reproductive Autonomy in 117 Low- and Middle-Income Countries.](https://doi.org/10.1038/s41562-026-02583-5) ***Nature Human Behaviour*** (2026). 
 
 - **Huang, Wei,** Qingfeng Liu, Jianwei Xing,* Shilin Zheng. [**Breaking the Iron Rice Bowl: Tenure-Track Systems and the Rise of Academic Innovation in China.**](https://doi.org/10.1093/ej/ueaf093)  ***Economic Journal*** 136, no. 676 (2026): 1394–1439. 
 
